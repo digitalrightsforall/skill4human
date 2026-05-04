@@ -1,0 +1,11 @@
+- [x] Explore project context
+- [x] Offer visual companion
+- [x] Ask clarifying questions
+- [x] Refine augmentation mechanism
+- [ ] Propose Architecture - [ ] Refine augmentation mechanism Core Features
+- [ ] Propose 2-3 approaches
+- [ ] Present design sections
+- [ ] Write design doc
+- [ ] Spec self-review
+- [ ] User reviews written spec
+- [ ] Transition to implementation
