@@ -1,0 +1,35 @@
+{
+  "id": "empathy-core-v4",
+  "name": "heady-empathy-core",
+  "author": "HeadyAI",
+  "category": "人际与领导力",
+  "repo_url": "https://github.com/HeadyAI/Heady-Staging",
+  "wisdom": {
+    "score": 99,
+    "human_gain": "获得极其精准的情感洞察力。学会如何通过对方的说话节奏、用词偏差甚至沉默的长短，数字化地预判其情绪状态（VAD 坐标），并据此动态调整自己的沟通策略，实现‘降维打击’式的共情。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "情绪的 VAD 空间映射",
+        "content": "所有的情绪都可以分解为三个维度：V（Pleasure，愉悦度）、A（Arousal，激活度）、D（Dominance，支配度）。恐惧是低 V、高 A、低 D；愤怒是低 V、高 A、高 D。理解了这三个维度，你就能像看仪表盘一样看透对方的情绪状态。"
+      },
+      {
+        "type": "System",
+        "title": "多维信号融合 (Signal Fusion)",
+        "content": "通过语言信号（用词、语气）、时间信号（响应延迟、节奏）和行为信号（操作精度、互动强度）的综合权重计算，得出当前的实时情绪坐标。这种‘多模态’感知远比单纯的语义分析准确。"
+      },
+      {
+        "type": "Workflow",
+        "title": "情绪状态识别协议",
+        "content": "1. 信号抓取（语音/文字/节奏）；2. 黄金比例融合计算；3. 状态分类（如：Frustrated、Flow、Rushed）；4. 响应适配（调整语速、语气和复杂度）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "黄金比例信号平衡 (φ-weighted)",
+        "content": "在处理冲突信号时，使用黄金比例对不同来源的信号进行加权。这能模拟人类大脑在处理复杂情感时的‘直觉’平衡，避免因单一信号（如一句重话）导致过度的情感反馈。"
+      }
+    ],
+    "heuristics": "情绪坐标决定了最有效的反馈。在高激活度（High Arousal）状态下，简化信息复杂度是唯一正确的选择。",
+    "anti_patterns": "语义盲区：只关注对方说了什么字，而不关注他是怎么说的、什么时候说的。这会导致你完全错失对方真实的心理状态。"
+  }
+}

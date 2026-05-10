@@ -1,0 +1,38 @@
+{
+  "id": "1k-error-vFinal",
+  "name": "1k-error-handling",
+  "author": "OneKey",
+  "category": "工程与系统",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "培养顶级防御式思维。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "优雅的可选性：永远不假设顺利。稳健在于系统崩塌时的体面感。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "故障分层模型：核心->降级->提醒。每一层独立呼吸，防单点全崩。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 捕获原始异常。 2. 语义化翻译。 3. UI 补偿。 4. 静默日志收集。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "不让错误沉默：你可以不报错，但必须知道为什么错。吞掉错误是制造灾难。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

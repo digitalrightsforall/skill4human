@@ -1,0 +1,38 @@
+{
+  "id": "slidedeck-vFinal",
+  "name": "baoyu-slide-deck",
+  "author": "JimLiu",
+  "category": "表达与创作",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "为异步阅读设计。读者秒懂。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "阅读优先原则：现代幻灯片逻辑更近报纸。必须具备极强自解释性。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "视觉秩序模型：通过严密网格建立引导。确保读者视线在控制轨道。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 锁定受众。 2. 提取金句。 3. 匹配风格。 4. 渲染呈现。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "克制审美：严禁同一文档超三种主色。简单就是高级感的来源。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

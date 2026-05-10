@@ -1,0 +1,35 @@
+{
+  "id": "research-ideation-v4",
+  "name": "research-ideation",
+  "author": "John-Wang-0809",
+  "category": "深度思考与研究",
+  "repo_url": "https://github.com/John-Wang-0809/claw-research-skills",
+  "wisdom": {
+    "score": 96,
+    "human_gain": "彻底消除“无从下手”的迷茫。获得一套将原始兴趣快速转化为具有竞争力的专业课题的标准化算法。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "精准头脑风暴 (Precision Brainstorming)",
+        "content": "好的想法不是等来的，而是‘问’出来的。通过 5W1H 的多维度审视，我们能强迫大脑从不同侧面攻击同一个问题，从而发现那些被常识掩盖的非显而易见逻辑。"
+      },
+      {
+        "type": "System",
+        "title": "SMART 问题炼金术",
+        "content": "将模糊的愿望（我想研究 AI）转化为精准的命题：它必须是具体的（Specific）、可验证的（Measurable）、且在当前资源下是可实现的（Attainable）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "从构思到计划四部曲",
+        "content": "1. 5W1H 广度扫描；2. 跨学科类比（寻找 Domain A 方案在 Domain B 的应用）；3. SMART 准则筛选与优化；4. 资源与风险的可行性审计。"
+      },
+      {
+        "type": "Tactic",
+        "title": "跨学科桥梁技术",
+        "content": "尝试将一个成熟领域的经典方法（如生物学的演化论）平移到另一个新兴领域（如软件工程）。这种‘降维打击’往往能产生最具爆发力的研究问题。"
+      }
+    ],
+    "heuristics": "好的问题应该能被转化成一个具体的实验或调查。如果你无法想象如何验证它，它就还不是一个好问题。",
+    "anti_patterns": "宏大叙事：试图研究‘人类的未来’或‘AI 的本质’。这种问题由于过于宽泛而无法落地，最终只能产生平庸的废话。"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "para-pro-v4",
+  "name": "para-manager",
+  "author": "shestera",
+  "category": "个人效能系统",
+  "repo_url": "https://github.com/shestera/second-brain-skills",
+  "wisdom": {
+    "score": 97,
+    "human_gain": "获得极高的秩序感与专注力。彻底告别“笔记黑洞”，让每一条信息都精准、快速地服务于你的当前目标。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "为了行动而组织 (Organize for Action)",
+        "content": "大多数人的分类是‘静态’的（如：心理学、历史）。P.A.R.A. 认为分类应该是‘动态’的，根据信息与你当前目标的‘距离’来决定它的位置。这能确保你最需要的资料永远触手可及。"
+      },
+      {
+        "type": "System",
+        "title": "P.A.R.A. 四大支柱",
+        "content": "1. Projects（项目）：有明确终点和截止日期；2. Areas（领域）：长期责任，需要持续关注；3. Resources（资源）：感兴趣的主题，未来可能有用；4. Archives（归档）：已完成或不再关注的项目。"
+      },
+      {
+        "type": "Workflow",
+        "title": "动态分流与健康审计",
+        "content": "1. Inbox 预处理（不加思索地收集）；2. 动作分流（根据‘行动力’将其归入 P.A.R.A.）；3. 系统健康审计（监控活跃项目数量，防止过载）；4. 定期归档（保持系统的‘轻盈’）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "7 项目限制原则",
+        "content": "强制将活跃项目（Projects）数量控制在 7 个以内。如果想开启新项目，必须先关闭或暂停一个旧项目。这种物理限制能极大地提升你的产出质量。"
+      }
+    ],
+    "heuristics": "如果信息不属于任何当前项目或责任领域，它就是资源或归档。只保留那些能支撑你行动的信息。",
+    "anti_patterns": "松鼠症：无节制地收藏所有‘可能有用的信息’，却从不根据行动目标进行清理和分流。"
+  }
+}

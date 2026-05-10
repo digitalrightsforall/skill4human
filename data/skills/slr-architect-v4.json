@@ -1,0 +1,35 @@
+{
+  "id": "slr-architect-v4",
+  "name": "slr-architect",
+  "author": "a-muizz28",
+  "category": "深度思考与研究",
+  "repo_url": "https://github.com/a-muizz28/slr-architect",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得学术工业级的严谨性。通过系统化的证据追踪，确保你的每一个观点都建立在坚实的客观事实之上，彻底消除“印象派”研究带来的偏见。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "真理的留痕追踪 (The Evidence Trail)",
+        "content": "学术研究不是‘写文章’，而是‘发现证据’。所有的幻觉都来自于证据链的断裂。通过 PRISMA 协议，我们强制要求记录下从海量文献到最终结论的每一个过滤动作，确保过程可复现、结论可证伪。"
+      },
+      {
+        "type": "System",
+        "title": "PICO 问题定义格栅",
+        "content": "将模糊的兴趣转化为精准的研究课题：1. Population（研究对象是谁？）；2. Intervention（采取了什么行动？）；3. Comparison（对照组是什么？）；4. Outcome（最终衡量什么结果？）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "PRISMA 2020 标准流",
+        "content": "1. 初始化研究协议（定义 Inclusion/Exclusion）；2. 跨库批量检索；3. 摘要筛选与排除原因记录；4. 结构化数据提取矩阵；5. 偏差风险 (Risk of Bias) 评估。"
+      },
+      {
+        "type": "Tactic",
+        "title": "排除理由清单",
+        "content": "强制记录每一篇被剔除文献的具体理由（如：样本量过小、实验设计不匹配）。这能有效防止我们在潜意识中只保留那些符合自己预期的证据。"
+      }
+    ],
+    "heuristics": "不要信任任何没有原始引文（Source Quote）的结论。",
+    "anti_patterns": "摘要综述：仅凭阅读摘要就下结论。摘要往往会夸大研究成果，真实的魔鬼（如统计显著性的局限）都藏在全文的 Methodology 中。"
+  }
+}

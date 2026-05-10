@@ -1,0 +1,38 @@
+{
+  "id": "illustrator-vFinal",
+  "name": "baoyu-article-illustrator",
+  "author": "JimLiu",
+  "category": "表达与创作",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "掌握视觉隐喻的艺术。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "意象胜于具象：配图传神非写实。利用隐喻降低读者认知开销。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "类型风格三维模型：从信息结构出发匹配审美基调。确保视觉对齐情感。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 提取论点。 2. 寻找连接。 3. 渲染映射。 4. 语境测试。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "黄金一致性：全篇色调必须统一。这是建立专业感最快路径。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

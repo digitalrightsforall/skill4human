@@ -1,0 +1,35 @@
+{
+  "id": "data-narrative-arc-v4",
+  "name": "data-storytelling-advisor",
+  "author": "nandanosql",
+  "category": "高影响力产出",
+  "repo_url": "https://github.com/nandanosql/all_in_one_pm_skills",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得把数据讲成‘大片’的能力。学会如何通过建立冲突和解决冲突的 SCR 框架，让你的数据汇报不仅在逻辑上严密，更在情感上引导听众产生强烈的行动欲望。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "冲突是决策的引擎",
+        "content": "没有冲突（Complication）的数据只是统计。一个好的数据故事必须展示现状与目标的落差。通过建立‘但是（But...）’的张力，你创造了一个必须被填补的认知空洞，而你的建议就是填补这个空洞的唯一答案。"
+      },
+      {
+        "type": "System",
+        "title": "SCR 数据叙事弧线",
+        "content": "Situation（现状：我们一直很稳定...）-> Complication（冲突：但是，上周数据突然断崖式下跌...）-> Resolution（解决：所以，我们需要立即上线 X 特性）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "叙事驱动型数据构建流",
+        "content": "1. 确定决策目标；2. 寻找‘异常/趋势’作为叙事冲突点；3. 构建 Situation 背景；4. 编写结论驱动的‘行动标题’；5. 串联逻辑弧线。"
+      },
+      {
+        "type": "Tactic",
+        "title": "行动化标题技术",
+        "content": "强迫自己把所有图表的标题从名词改为动词短语。不要用‘用户留存率’，而要用‘留存率在 V2 版本发布后提升了 15%’。标题本身就是你的洞察。"
+      }
+    ],
+    "heuristics": "标题必须是结论。用数据建立冲突，用建议平复冲突。没有张力，就没有注意力。",
+    "anti_patterns": "分类导向：按‘营收’、‘用户’、‘活跃度’这种类目来组织汇报。这是一种‘百科全书’式的陈述，完全缺乏叙事动能，无法驱动决策。"
+  }
+}

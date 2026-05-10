@@ -1,0 +1,38 @@
+{
+  "id": "1k-code-quality-vFinal",
+  "name": "1k-code-quality",
+  "author": "OneKey",
+  "category": "工程与系统",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "养成对认知摩擦的零容忍。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "代码是写给人看的：增加阅读负担的设计都是低质量表现。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "标准化交付模型：将工程行为分解为标准化动作。通过强制规则换取自由。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 函数必须能用一个动词概括。 2. 移除冗余抽象。 3. 语义化同步注释。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "显式胜于隐式：宁多写三行清晰代码，不搞一个晦涩技巧。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "negotiation-harvard-v4",
+  "name": "negotiation-global",
+  "author": "NeverSight",
+  "category": "场景实战",
+  "repo_url": "https://github.com/NeverSight/learn-skills.dev",
+  "wisdom": {
+    "score": 96,
+    "human_gain": "提升长期的社会资本。不仅赢得眼前的交易，还赢得了对方的尊重和未来的合作机会。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "利益而非立场 (Interests vs. Positions)",
+        "content": "不要为对方喊出的‘价格’谈判。要为对方背后的‘需求’谈判。价格只是立场的体现，而需求（如安全感、成就感、紧迫性）才是达成一致的真正钥匙。"
+      },
+      {
+        "type": "System",
+        "title": "BATNA 决策格栅",
+        "content": "在进场前，必须明确自己的‘最佳替代方案’。如果你没有备选方案，你就是在乞讨而非谈判。BATNA 是你自信的唯一来源。"
+      },
+      {
+        "type": "Workflow",
+        "title": "做大蛋糕三步走",
+        "content": "1. 识别各方背后的深层利益。 2. 提供 MESO（多重等效方案），观察对方的选择。 3. 在非核心利益上让步，换取核心利益的占领。"
+      },
+      {
+        "type": "Tactic",
+        "title": "精确锚定法则",
+        "content": "第一个报价的人往往拥有锚定权。给出一个极其精确的数字（如 9850 元而非 1 万元）。这会让对方心理上认为你已经算到了骨子里，从而大幅缩小还价空间。"
+      }
+    ],
+    "heuristics": "不要为‘需求’谈判，要为‘利益’谈判。",
+    "anti_patterns": "分摊差异：简单粗暴地‘折中’。这往往意味着双方都没有得到真正的满足，且忽略了创造更大价值的可能性。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "professional-comm-sharkitect",
+  "name": "professional-communication",
+  "author": "sharkitect-solutions",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/sharkitect-solutions/sharkitect-claude-toolkit/tree/master/skills/professional-communication",
+  "wisdom": {
+    "score": 96,
+    "human_gain": "获得‘职业外交官’的沟通手腕。学会处理职场中最具挑战性的博弈场景（如向上级推卸责任、宣布坏消息、跨部门分歧），在维持专业形象的同时达成商业目标。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "沟通即战略演习",
+        "content": "商业沟通不是为了表达情感，而是为了促成行动。在处理冲突时，剥离个人情绪，将焦点对准业务影响（Business Impact）。"
+      },
+      {
+        "type": "System",
+        "title": "中性化博弈模型",
+        "content": "采用‘事实 -> 影响 -> 建议’的三段式架构。利用 BLUF（结论先行）原则确保效率。在敏感场景下采用‘目标对齐’策略来降低防御心理。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 识别政治/权力关系 -> 2. 剥离情感词汇 -> 3. 关联商业目标 -> 4. 设定最小可行化行动（CTA）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "使用‘我观察到...’代替‘你总是...’；在拒绝请求时提供‘Plan B’；向上级汇报坏消息时，同步带上三个已分析过的解决方案。"
+      }
+    ]
+  },
+  "tags": ["职场博弈", "高情商沟通", "冲突管理", "商务外交"]
+}

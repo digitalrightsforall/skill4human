@@ -1,0 +1,38 @@
+{
+  "id": "api-best-vFinal",
+  "name": "api-documentation-best-practices",
+  "author": "Leonard Richardson",
+  "category": "表达与创作",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "掌握工程语言的交流规范。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "资源即世界：文档应聚焦资源状态变迁。标准化是降低认知成本的最优路径。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "分级质量模型：基础、实务、应用、专家。易于消化的台阶式架构。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 目的梳理。 2. 规范注入。 3. 闭环记录决策路径。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "最小惊奇原则：返回结构必须符合直觉。不要创造个人方言。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

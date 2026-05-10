@@ -1,0 +1,38 @@
+{
+  "id": "1k-coding-vFinal",
+  "name": "1k-coding-patterns",
+  "author": "OneKey",
+  "category": "工程与系统",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "培养对习惯的审美。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "一致性高于一切：个人风格是工程噪音，团队共识才是资产。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "习语化开发模型：针对高频场景（Promise, React）建立统一体系。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 识别反模式。 2. 查阅标准。 3. 模式转换。 4. 提交前自审。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "零悬挂原则：所有的 Promise 必须处理或标记。杜绝竞态条件。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

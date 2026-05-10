@@ -1,0 +1,35 @@
+{
+  "id": "ux-architecture-v4",
+  "name": "ux-architecture",
+  "author": "orphose",
+  "category": "认知增强",
+  "repo_url": "https://github.com/orphose/site-cbdl-edf-pei",
+  "wisdom": {
+    "score": 94,
+    "human_gain": "学会清理生活中的“视觉与认知杂讯”。通过优化信息架构，让大脑从琐碎的搜索中解放出来，专注于高价值创造。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "别让我思考 (Don't Make Me Think)",
+        "content": "极简主义在交互层面的体现。任何让用户停下来思考“我该怎么办”的瞬间都是设计的失败。在个人知识管理中，这意味着你的分类必须是直觉的，而非逻辑的。"
+      },
+      {
+        "type": "System",
+        "title": "目标导向型信息架构 (Goal-Oriented IA)",
+        "content": "抛弃基于“来源”或“部门”的分类。建立基于“目标”的导航系统。确保任何内容都能通过 2-3 层深度的扁平结构被快速检索。"
+      },
+      {
+        "type": "Workflow",
+        "title": "认知负荷审计 (Cognitive Load Audit)",
+        "content": "1. 识别环境中的杂讯。 2. 应用 Miller 定律进行信息分块（7±2原则）。 3. 简化路径，将复杂度从人类转移给系统。"
+      },
+      {
+        "type": "Tactic",
+        "title": "400ms 响应法则",
+        "content": "速度就是体验。在数字大脑中，如果检索速度超过 400ms，人类的注意力就会开始涣散。使用全局搜索和扁平目录来维持这种即时感。"
+      }
+    ],
+    "heuristics": "设计信息架构时，不要按照‘来源’分类，要按照‘目标’分类。",
+    "anti_patterns": "松鼠症存储：只管往里面塞东西，却从未设计如何将它们‘找出来’的路径。"
+  }
+}

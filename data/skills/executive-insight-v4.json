@@ -1,0 +1,35 @@
+{
+  "id": "executive-insight-v4",
+  "name": "executive-data-storytelling",
+  "author": "majiayu000 / Gartner",
+  "category": "高影响力产出",
+  "repo_url": "https://github.com/majiayu000/claude-skill-registry-data",
+  "wisdom": {
+    "score": 99,
+    "human_gain": "获得与高层高效对话的能力。学会如何将杂乱的数据转化为精准的战略建议，通过理性的‘What/Why/Next’分析赢得信任，并主导决策过程。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "证据导向的战略导航",
+        "content": "高管不关心数据的细节，他们关心的是数据背后的‘确定性’。你的任务是扮演导航员：告诉他们我们在哪（What），我们为什么会在这里（Why），以及通往目标的最佳路径（Next）。这种逻辑能瞬间将你从‘执行者’提升为‘决策伙伴’。"
+      },
+      {
+        "type": "System",
+        "title": "What/Why/Next 交付矩阵",
+        "content": "1. WHAT：用极简的数字定义现状（如：获客成本增加了 30%）；2. WHY：追溯因果链（因为 X 政策变动导致 Y 流量枯竭）；3. NEXT：提出方案 A/B，并明确权衡（Trade-offs）和预期结果。"
+      },
+      {
+        "type": "Workflow",
+        "title": "高管视角沟通协议",
+        "content": "1. 识别核心决策点；2. 提取证明证据（剔除干扰项）；3. 应用‘结论先行’汇报模式；4. 准备好应对‘So What’的深度分析。"
+      },
+      {
+        "type": "Tactic",
+        "title": "去个人化失败分析",
+        "content": "在分析负面数据（Why）时，将焦点放在系统、流程或外部环境变量上，而非具体的人。这种客观的‘非人化’分析能减少对方的防御心理，让讨论聚焦于‘如何修正’而非‘谁来负责’。"
+      }
+    ],
+    "heuristics": "高管的时间是最高成本。结论在标题里，行动在第一段。永远不要展示一张没有‘Next’的图表。",
+    "anti_patterns": "数据堆砌：展示 50 张精美的图表却说不清楚到底该做什么决定。这会让高管觉得你在浪费他们的生命。"
+  }
+}

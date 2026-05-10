@@ -1,0 +1,38 @@
+{
+  "id": "storytelling-vFinal",
+  "name": "storytelling",
+  "author": "Fal Community",
+  "category": "表达与创作",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "掌握叙事穿透力。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "故事是认知容器：打动人的不是事实，是情感共振。大脑为故事而生。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "英雄之旅模型：平凡->召唤->危机->蜕变。适用于任何变革沟通。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 建立共情。 2. 引入冲突。 3. 提供洞察。 4. 召唤行动。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "展示而非说明：展示深夜亮着的屏幕，而非口述辛苦。细节是情感锚点。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "partner-vFinal",
+  "name": "partner-affiliate",
+  "author": "Strategy Expert",
+  "category": "领导与组织",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "学会利用杠杆成事。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "利他是最好商业逻辑：让合伙人先赚到钱。分利，规模才会大。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "分销漏斗模型：招募简单、激活激励、留存收益三层闭办。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 选对人。 2. 定规矩。 3. 给工具。让对方能无脑帮你宣传。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "收益分配原则：分成永远比对手多一点点。这是吸引顶级合伙人的关键。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

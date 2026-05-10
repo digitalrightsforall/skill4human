@@ -1,0 +1,35 @@
+{
+  "id": "copy-patterns-v4",
+  "name": "copywriting-patterns",
+  "author": "bipinks",
+  "category": "商业直觉与品牌",
+  "repo_url": "https://github.com/bipinks/ghost-office",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得全渠道的转化优化能力。无论是广告、邮件还是 App 的微型提示，你都能精准命中用户潜意识，瞬间提升点击率和转化率。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "转化微逻辑 (Microcopy Logic)",
+        "content": "文案不只是大篇幅的文章，它隐藏在每一个‘按钮’、每一条‘报错信息’中。微文案的本质是消除焦虑。通过告诉用户‘发生了什么’、‘为什么’以及‘下一步去哪’，你能在每个细微处建立信任。"
+      },
+      {
+        "type": "System",
+        "title": "FBO 价值映射体系",
+        "content": "强制将每一个功能（Feature）映射为结局（Outcome）。公式：[我们的功能] $\rightarrow$ 意味着[你的利益] $\rightarrow$ 最终让你[实现人生结局]。用户不是在买产品，而是在买那个更好的自己。"
+      },
+      {
+        "type": "Workflow",
+        "title": "A/B 测试迭代协议",
+        "content": "1. 选定测试变量（如：标题、CTA 按钮颜色）；2. 运行至少 7 天或 100 次转化观察；3. 弃用低转化版本，将获胜版本的逻辑应用到全站。"
+      },
+      {
+        "type": "Tactic",
+        "title": "钩子标题公式 (Hook Formulas)",
+        "content": "使用‘好奇心缺口’、‘权威背书’或‘具体数字’来撰写标题。例如：‘为什么 90% 的 CEO 都在秘密使用这个工具？’远比‘一个高效工具介绍’更吸引点击。"
+      }
+    ],
+    "heuristics": "不要描述功能，要描述结局。每一个不包含动词的按钮都是在浪费流量。",
+    "anti_patterns": "被动语态：使用模糊、被动的描述。营销文案必须是主动的、充满驱动力的。 "
+  }
+}

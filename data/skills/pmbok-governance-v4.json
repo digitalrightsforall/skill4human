@@ -1,0 +1,35 @@
+{
+  "id": "pmbok-governance-v4",
+  "name": "pmbok-project-management",
+  "author": "zzafergok",
+  "category": "个人效能系统",
+  "repo_url": "https://github.com/zzafergok/skills",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得工业级的抗风险能力。学会用严密的治理框架保护项目不走向崩溃，确保宏大目标能在预算和时间内准时落地。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "治理即自由 (Governance is Freedom)",
+        "content": "项目失败的头号原因不是能力不足，而是结构混乱。通过建立清晰的基准（Baseline）和责任分配，我们实际上是为团队创造了一个安全的‘作业空间’，让所有人都能在确定的边界内发挥最大效率。"
+      },
+      {
+        "type": "System",
+        "title": "RACI 责任分配矩阵",
+        "content": "每一项核心任务都必须明确：谁在做（R）、谁最终负责（A）、谁提供建议（C）、谁需要被告知（I）。关键点：Accountable（问责人）有且只能有一个，否则责任就会在推诿中消失。"
+      },
+      {
+        "type": "Workflow",
+        "title": "IPECC 生命周期闭环",
+        "content": "1. 启动（制定章程）；2. 规划（WBS 分解与风险登记）；3. 执行（资源协调）；4. 监控（偏差分析与变更控制）；5. 收盘（复盘与资产归档）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "基准线监控 (Baselines)",
+        "content": "永远不要问‘进度如何？’，要问‘相对于初始基准，我们偏移了多少？’。通过对比计划值与实际值，在偏差扩大的第一时间进行人工干预。"
+      }
+    ],
+    "heuristics": "Accountable 必须有且仅有一个。任何没有基准的监控都是无效的。",
+    "anti_patterns": "口头承诺：依赖于参与者的记忆或责任感而非结构化的矩阵进行管理，这在复杂项目中必将导致崩溃。"
+  }
+}

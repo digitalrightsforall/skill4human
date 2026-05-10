@@ -1,0 +1,34 @@
+{
+  "id": "boron-letters-halbert",
+  "name": "boron-letters",
+  "author": "guia-matthieu",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/guia-matthieu/clawfu-skills/tree/main/skills/content/boron-letters",
+  "wisdom": {
+    "score": 99,
+    "human_gain": "掌握文案之神的终极秘密。学会如何写出像个人信件一样亲切、却具备致命吸引力的销售文案，大幅提升你的转化率与成交额。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "金钱流向注意力",
+        "content": "文案的目的是成交。每一行文字唯一的任务就是让受众读下一行。要卖‘滋滋声’，而不是卖‘牛排’本身。"
+      },
+      {
+        "type": "System",
+        "title": "A 堆/B 堆 过滤系统",
+        "content": "所有的邮件和信息都被受众分为 A 堆（个人/重要）和 B 堆（垃圾/广告）。你的任务是从视觉、语气和内容上让自己永远留在 A 堆。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 锁定饥饿的市场 -> 2. 设计情感钩子 -> 3. 建立紧迫感 -> 4. 堆叠具体证据 -> 5. 零风险承诺。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "使用‘PS’策略重申核心价值；将价格拆解为每天的成本；使用极其具体的数字；让读者在心中不断说‘是’（Yes-Ladder）。"
+      }
+    ]
+  },
+  "tags": ["直复营销", "Gary Halbert", "销售心理", "文案"]
+}

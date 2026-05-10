@@ -1,0 +1,35 @@
+{
+  "id": "career-advisor-v4",
+  "name": "career-advisor",
+  "author": "pingwu",
+  "category": "场景实战",
+  "repo_url": "https://github.com/pingwu/solo-unicorn",
+  "wisdom": {
+    "score": 96,
+    "human_gain": "彻底消除“简历焦虑”。通过建立实时的战绩记录系统，让自己随时处于“可被挖角”的巅峰状态。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "实时战绩逻辑 (The Live Record)",
+        "content": "不要在需要简历时才写简历。职业尊严来自于你对自己成就的清晰定义。每一项工作成果都应在完成的瞬间被结构化、数值化，成为你谈判桌上的筹码。"
+      },
+      {
+        "type": "System",
+        "title": "叙事帽子定位系统 (Narrative Hats)",
+        "content": "你不是一个单一的标签。根据目标场景切换你的“叙事帽子”：在面试时是问题解决者，在团队中是协作催化剂。通过调整叙事角度，让同一份经历焕发出不同的商业价值。"
+      },
+      {
+        "type": "Workflow",
+        "title": "缺口穿透法 (Gap Penetration)",
+        "content": "1. 定义梦想岗位的 F.A.C.E.T. 模型。 2. 诚实评估当前缺口。 3. 制定 90 天突击学习计划。 4. 寻找能产生可见成果的小型项目进行练手。"
+      },
+      {
+        "type": "Tactic",
+        "title": "战绩实时录入法",
+        "content": "每周五下午花 15 分钟，记录本周解决的三个难题及其影响。这将为你未来的年度评定和跳槽提供最真实、最细颗粒度的弹药。"
+      }
+    ],
+    "heuristics": "不要在需要简历的时候才写简历，要在创造结果的时候就记录成就。",
+    "anti_patterns": "简历失忆症：工作了三年，回头写简历时却想不起自己到底做出了什么有价值的改变。"
+  }
+}

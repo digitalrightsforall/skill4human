@@ -1,0 +1,35 @@
+{
+  "id": "ai-pm-playbook-v4",
+  "name": "ai-pm-playbook",
+  "author": "ArslanArda",
+  "category": "场景实战",
+  "repo_url": "https://github.com/ArslanArda/ai-pm-playbook",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得驾驭 AI 的战略视野。明白 AI 时代的产品力不再是画原型，而是设计复杂的决策边界与评估反馈环。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "设计失败与降级逻辑 (Design for Failure)",
+        "content": "AI 的不确定性是其本质。好的 AI 产品经理不追求 100% 的准确，而是追求在 5% 的失败时刻，系统能优雅地降级、解释并引入人类干预。"
+      },
+      {
+        "type": "System",
+        "title": "智能体架构格栅 (Agentic Architecture)",
+        "content": "根据任务复杂度选择：简单的 Prompt 处理、单智能体循环、或多智能体分工。每增加一层复杂度，必须有明确的‘质量增量’作为回报。"
+      },
+      {
+        "type": "Workflow",
+        "title": "AI 产品生命周期",
+        "content": "1. 确定北极星评估指标 (Eval)。 2. 定义工具与指令的硬边界。 3. 建立基准测试数据集。 4. 设计人类在环 (Human-in-the-loop) 的反馈入口。"
+      },
+      {
+        "type": "Tactic",
+        "title": "指令边界先行",
+        "content": "在写 Prompt 之前，先写清楚这个 AI ‘绝对不能做什么’。清晰的负向约束往往比正向引导更能提升系统的稳定性。"
+      }
+    ],
+    "heuristics": "在编写指令之前，先定义工具的边界。",
+    "anti_patterns": "奇迹幻想：认为只要 Prompt 写得好，AI 就能解决一切逻辑问题，而忽略了底层工程结构的必要性。"
+  }
+}

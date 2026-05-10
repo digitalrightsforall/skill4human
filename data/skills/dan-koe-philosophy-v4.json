@@ -1,0 +1,35 @@
+{
+  "id": "dan-koe-philosophy-v4",
+  "name": "niche-of-one",
+  "author": "kluless13 / Dan Koe",
+  "category": "商业直觉与品牌",
+  "repo_url": "https://github.com/kluless13/claude-skills",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得“一人公司”的战略自主权。学会如何通过思想深度构建长期壁垒，逃离低效率的流量竞争，实现兴趣与商业的完美闭环。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "你的兴趣就是利基 (The Niche of One)",
+        "content": "不要去追随热门利基，要让自己成为利基。通过在多个领域的交叉（如：哲学+生产力+商业），你创造了一个独一无二的‘单人市场’。在这个市场里，你是唯一的供应者，因此拥有绝对的定价权。"
+      },
+      {
+        "type": "System",
+        "title": "内容生态分发树",
+        "content": "1. 根部：每周深度反思（Deep Reflection）；2. 树干：周刊（Newsletter）——系统的思想表达；3. 树枝：社交媒体（Threads/Posts）——原子观点的分发。这种结构确保了你的表达既有深度，又有广度。"
+      },
+      {
+        "type": "Workflow",
+        "title": "解决自己的问题，就是产品化",
+        "content": "你现在的痛苦、挑战和解决方案，就是未来客户的路线图。将你‘如何从 A 到 B’的过程形成系统、模版或课程，这就是最高质量的数字资产。"
+      },
+      {
+        "type": "Tactic",
+        "title": "反向好奇心缺口 (Reverse Curiosity)",
+        "content": "不要故作神秘，要极其坦诚。分享那些别人不敢说的‘底层逻辑’和‘内心独白’。这种透明度会产生极强的‘同类相吸’效应，自动筛选出最高质量的关注者。"
+      }
+    ],
+    "heuristics": "为现在的自己构建系统，卖给曾经的自己。思想的厚度决定了品牌的护城河。",
+    "anti_patterns": "无脑跟风：看到别人做什么火就模仿什么。这会让你失去独特性，最终沦为算法的奴隶。"
+  }
+}

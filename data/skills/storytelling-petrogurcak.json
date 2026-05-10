@@ -1,0 +1,34 @@
+{
+  "id": "storytelling-petrogurcak",
+  "name": "storytelling",
+  "author": "petrogurcak",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/petrogurcak/skills/tree/main/plugins/copywriting/skills/storytelling",
+  "wisdom": {
+    "score": 94,
+    "human_gain": "让你从“陈述事实”升级为“塑造现实”。掌握叙事逻辑，意味着你能在任何场合中，通过情感共鸣和逻辑张力来引导他人的决策。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "冲突即引擎",
+        "content": "故事是人类连接的货币。没有冲突就没有故事。平铺直叙是沟通的坟墓。叙事的本质是展示转化（Transformation）。"
+      },
+      {
+        "type": "System",
+        "title": "英雄之旅简化模型",
+        "content": "采用现状 -> 危机 -> 方案 -> 转化（Before/After）的闭环结构。将受众置于故事的核心，让其在情节中完成自我投射。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1.背景定调 -> 2.引入冲突（BUT） -> 3.压力升级 -> 4.呈现方案（THEREFORE） -> 5.愿景转化。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "Show, Don't Tell；使用感官细节增强临场感；将枯燥数据转化为具体的人类体验；确保故事的每一个细节都指向最终的说服目标。"
+      }
+    ]
+  },
+  "tags": ["叙事", "说服", "文案", "品牌"]
+}

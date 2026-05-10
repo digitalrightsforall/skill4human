@@ -1,0 +1,27 @@
+{
+  "id": "leadership-org",
+  "title": "领导与组织：资产化的人才观",
+  "description": "从执行者到赋能者。本集锦聚焦于如何像管理资产一样管理人才库，建立高效的招聘、激励与合伙人机制，打造具备自进化能力的组织架构。",
+  "skills": [
+    "recruiting-vFinal",
+    "leadership-vFinal",
+    "partner-vFinal"
+  ],
+  "playbook": [
+    {
+      "step": "1. 实施资产化招聘审计",
+      "action": "应用 recruiting-vFinal。将人才视为公司的核心资产而非成本。识别候选人的‘底色’（Values）而非仅仅是技能。",
+      "heuristic": "‘招聘是公司的第一命脉’。宁可空岗，不可招错。"
+    },
+    {
+      "step": "2. 构建‘赋能型’领导力场域",
+      "action": "利用 leadership-vFinal。从‘下达指令’转变为‘移除障碍’。建立清晰的权力边界与目标对齐（Alignment）。",
+      "heuristic": "‘好的领导让自己变得多余’。让团队在没有你的情况下依然能基于共同准则做出正确决策。"
+    },
+    {
+      "step": "3. 设计共赢的合伙人博弈模型",
+      "action": "启动 partner-vFinal。明确利益分配与风险共担机制。建立长期主义的激励闭环，将‘雇员’转化为‘事业合伙人’。",
+      "heuristic": "‘激励决定行为’。如果你想要合伙人的投入，就必须赋予其真实的博弈筹码。"
+    }
+  ]
+}

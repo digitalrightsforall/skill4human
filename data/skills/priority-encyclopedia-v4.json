@@ -1,0 +1,35 @@
+{
+  "id": "priority-encyclopedia-v4",
+  "name": "prioritization-frameworks",
+  "author": "kellyoconor",
+  "category": "个人效能系统",
+  "repo_url": "https://github.com/kellyoconor/pm-koc",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得决策的透明度与说服力。学会用可量化的方式终结无休止的争论，将资源精准投入到高回报任务中。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "让判断显性化 (Explicit Judgment)",
+        "content": "我们常常陷入‘直觉式优先级’，这会导致资源被噪音夺走。优先级的本质是‘资源分配的价值观’。通过框架，我们将隐性的直觉转化为显性的分数，强制团队面对真实的投入产出比。"
+      },
+      {
+        "type": "System",
+        "title": "九大框架决策矩阵",
+        "content": "根据场景选择武器：1. RICE（标准路线图规划）；2. ICE（快速实验）；3. Kano（用户情感满意度分析）；4. 延迟成本（经济损失驱动）；5. 机会评分（寻找市场蓝海）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "结构化评分闭环",
+        "content": "1. 评估上下文（是面向客户还是内部）；2. 选定适用框架；3. 采集维度数据（Reach, Impact 等）；4. 计算分值并排名；5. 定期审计（确保框架本身未失效）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "机会评分法 (Opportunity Score)",
+        "content": "寻找那些‘重要性极高’但‘当前满意度极低’的项。这不仅是优先级，更是你产品或服务的核弹级增长点。"
+      }
+    ],
+    "heuristics": "数学不能消除判断，但它能让判断显性化。如果一个任务的分数极低但你仍想做，问问自己隐藏的真实动机是什么。",
+    "anti_patterns": "单一框架依赖：无论什么场景都只用 RICE。这会导致你忽略了‘延迟成本’或‘用户情感体验’等重要维度。"
+  }
+}

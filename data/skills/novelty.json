@@ -1,0 +1,38 @@
+{
+  "id": "novelty-vFinal",
+  "name": "novelty-matrix",
+  "author": "Research Team",
+  "category": "决策与评审",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "寻找自己的独特性。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "差异化即生存：新颖性是定义别人没做的。定义了你才真正存在。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "Delta坐标系：将你的贡献与现有逐一锚定。寻找增量Delta。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 扫描竞品。 2. 提取核心 Claims。 3. 逐项对齐差异点。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "证据回溯：任何更好陈述必须伴随可追溯凭证，拒绝空洞口号。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

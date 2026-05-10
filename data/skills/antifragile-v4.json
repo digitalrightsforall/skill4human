@@ -1,0 +1,35 @@
+{
+  "id": "antifragile-v4",
+  "name": "antifragility-thinking",
+  "author": "Antigravity-Synthesized",
+  "category": "个人效能系统",
+  "repo_url": "internal://philosophy",
+  "wisdom": {
+    "score": 97,
+    "human_gain": "获得‘越乱越强’的底层逻辑。学会在不确定的环境中不仅能生存，还能利用波动和压力实现跨越式进化。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "利用波动 (Exploit Volatility)",
+        "content": "平庸者在波动中祈求稳定，而抗脆弱者在波动中寻找机会。抗脆弱性的本质是‘非线性回报’：在风险可控的前提下，压力越大，收益越高。"
+      },
+      {
+        "type": "System",
+        "title": "杠铃策略 (Barbell Strategy)",
+        "content": "拒绝中庸。在安全区（如：核心技能、财务底线）保持 90% 的极度保守；在探索区（如：新尝试、小额实验）保持 10% 的极度进取。这样你既不会被彻底毁灭，又保留了中大奖的机会。"
+      },
+      {
+        "type": "Workflow",
+        "title": "风险封顶与实验循环",
+        "content": "1. 识别潜在的毁灭性风险并封顶（Stop Loss）；2. 进行大量的、成本极低的小型实验（Optionality）；3. 观察哪一个实验产生了非线性的正反馈；4. 迅速重仓加码该方向。"
+      },
+      {
+        "type": "Tactic",
+        "title": "冗余的价值",
+        "content": "适度的冗余（如：备用金、多种收入来源、跨界技能）是抗脆弱的基础。高效能往往意味着脆性，而‘略显低效’的冗余正是系统面对不可预知冲击时的救命稻草。"
+      }
+    ],
+    "heuristics": "风能熄灭蜡烛，但能让火越烧越旺。你要成为那团火。",
+    "anti_patterns": "过度优化：为了追求极致效率而删除了所有冗余（如：零库存、满负荷排期）。一旦环境发生微小波动，系统就会瞬间崩溃。"
+  }
+}

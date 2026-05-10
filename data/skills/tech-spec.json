@@ -1,0 +1,38 @@
+{
+  "id": "tech-spec-vFinal",
+  "name": "technical-specification",
+  "author": "Architect",
+  "category": "工程与系统",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "掌握先对齐后起跳的准则。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "无批准不写入：未验证的讨论不是规范。规范是唯一的真理源。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "黄金文档模型：收割、过滤、填充、呈现的闭环。萃取出确定性契约。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 收集合议。 2. 发现逻辑断裂。 3. 逐章确认。 4. 锁定 Spec。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "拒绝盲目填充：任何逻辑必须先获‘y/yes’。不确定的需求宁可留白。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "fred-brooks-v4",
+  "name": "frederick-p-brooks",
+  "author": "yfyang86",
+  "category": "认知增强",
+  "repo_url": "https://github.com/yfyang86/turingskill",
+  "wisdom": {
+    "score": 97,
+    "human_gain": "理解团队协作与系统设计的本质规律。学会识别‘银弹陷阱’，在混乱中保持概念完整性。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "概念完整性原则 (Conceptual Integrity)",
+        "content": "一个好的系统必须看起来像出自一人之手。无论团队多大，必须有一个统一的愿景和审美，否则系统就会在功能的海洋中沉没。"
+      },
+      {
+        "type": "System",
+        "title": "本质与偶然复杂性模型 (Essential vs. Accidental)",
+        "content": "区分问题的‘本质复杂性’（无法消除）与‘偶然复杂性’（工具引入的麻烦）。我们的任务是消除后者，直面前者。"
+      },
+      {
+        "type": "Workflow",
+        "title": "反思性工程 (Reflective Engineering)",
+        "content": "1. 确定核心愿景。 2. 识别本质复杂性。 3. 构建原型并准备‘扔掉第一个’。 4. 持续维护文档的实时性。"
+      },
+      {
+        "type": "Tactic",
+        "title": "布鲁克斯法则应用",
+        "content": "当项目进度落后时，千万不要通过简单加人来解决。加人会增加沟通带宽，反而让速度变慢。应通过减少非核心功能来换取时间。"
+      }
+    ],
+    "heuristics": "向落后的项目加人，只会让它更落后。",
+    "anti_patterns": "银弹幻想：期待某项新技术或新工具能奇迹般地解决系统底层的复杂性问题。"
+  }
+}

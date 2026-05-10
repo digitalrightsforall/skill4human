@@ -1,0 +1,38 @@
+{
+  "id": "yaml-master-vFinal",
+  "name": "yaml-master",
+  "author": "Jeremy",
+  "category": "工程与系统",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "培养对秩序的偏执。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "显式即美德：配置是隐形地雷。宁可冗长，不留灰色地带。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "Schema约束模型：灵活性必在轨道内。通过严密规范，赋予自由以边界。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 格式校验。 2. 重名逻辑检查。 3. 嵌套深度压缩。 4. 语义重整。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "DRY原则极致应用：利用锚点别名杜绝重复。修改一次，全局响应。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

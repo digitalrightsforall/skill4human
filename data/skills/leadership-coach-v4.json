@@ -1,0 +1,35 @@
+{
+  "id": "leadership-coach-v4",
+  "name": "leadership-coach",
+  "author": "qingxuantang",
+  "category": "场景实战",
+  "repo_url": "https://github.com/qingxuantang/Lennys-to-sop-and-skills",
+  "wisdom": {
+    "score": 97,
+    "human_gain": "摆脱“老好人”式管理的低效，建立基于真实反馈的高信用团队。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "彻底坦率 (Radical Candor)",
+        "content": "真正的领导力建立在‘关心个人’与‘直接挑战’的交集上。如果你因为害怕冲突而隐瞒反馈，那是‘毁灭性的同情’。领导者必须有勇气揭示真相。"
+      },
+      {
+        "type": "System",
+        "title": "选择性微操系统 (Selective Micromanagement)",
+        "content": "优秀的领导者不是完全不管，也不是事无巨细。而是在系统最脆弱、最重要的 5% 环节进行极度深度的参与，而对剩下的 95% 给予极致的信任。"
+      },
+      {
+        "type": "Workflow",
+        "title": "职业影响力教练树 (Career Impact)",
+        "content": "1. 确立 30-60-90 天入职协议。 2. 建立 EM-PM 双轨协作机制。 3. 通过‘跳级面谈’打破层级信息茧房。 4. 将文化视为产品进行迭代。"
+      },
+      {
+        "type": "Tactic",
+        "title": "激进的自我质询",
+        "content": "在管理他人之前，先进行深度自审。识别自己的‘冒名顶替综合症’，并建立脆弱性链接，以此换取团队的真实信任。"
+      }
+    ],
+    "heuristics": "挑战是为了让对方变得更好，而不只是为了表达你的优越感。",
+    "anti_patterns": "毁灭性同情：为了保持所谓的‘和谐气氛’，眼睁睁看着同事在错误的方向上滑向深渊。"
+  }
+}

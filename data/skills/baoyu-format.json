@@ -1,0 +1,38 @@
+{
+  "id": "baoyu-format-vFinal",
+  "name": "baoyu-format-markdown",
+  "author": "JimLiu",
+  "category": "表达与创作",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "通过视觉层级让思想呼吸。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "排版即尊重：混乱格式是谋杀。专业排版是为了降低读者抓重点成本。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "视觉呼吸模型：通过间距建立层级。让读者顺着引导像在公路上奔驰。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 逻辑拆解核心论点。 2. 层级映射标题。 3. 加粗金句，剔除冗余。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "黄金三原则：标题人话。段落不过5行。每屏必有视觉记忆点。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "brand-mining-v4",
+  "name": "brand-storytelling",
+  "author": "omer-metin",
+  "category": "审美与表达",
+  "repo_url": "https://github.com/omer-metin/skills-for-antigravity",
+  "wisdom": {
+    "score": 96,
+    "human_gain": "提升个人或组织的溢价能力。通过叙事建立长久的品牌共鸣，而非短暂的功能对比。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "故事是载体，情感是货物",
+        "content": "在信息无限的时代，只有故事能穿透噪音。伟大的品牌不卖产品，它们卖的是关于‘反叛’（Apple）、‘潜能’（Nike）或‘责任’（Patagonia）的故事。故事是人类认知的硬核协议。"
+      },
+      {
+        "type": "System",
+        "title": "真相挖掘系统 (The Truth Mine)",
+        "content": "好的品牌故事不是写出来的，而是挖出来的。深挖创始人的失败、产品的边缘案例、或用户的真实感谢信。真实的瑕疵往往比完美的修饰更有力量。"
+      },
+      {
+        "type": "Workflow",
+        "title": "叙事转化循环",
+        "content": "1. 挖掘真实素材。 2. 注入核心价值观。 3. 构建‘冲突-解决’的戏剧张力。 4. 在每一个用户触点上保持叙事的一致性。"
+      },
+      {
+        "type": "Tactic",
+        "title": "精确的叙事锚点",
+        "content": "使用具体的细节（如‘那个下着雨的周二下午’）来增加故事的可信度。细节越多，故事的画面感越强，情感的投射也就越精准。"
+      }
+    ],
+    "heuristics": "最好的品牌故事不是写出来的，而是挖出来的。",
+    "anti_patterns": "公关黑话：使用大量空洞的形容词（如‘领先’、‘卓越’、‘生态’）来填充叙事，这只会让故事显得廉价且虚假。"
+  }
+}

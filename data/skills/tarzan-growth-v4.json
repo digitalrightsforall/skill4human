@@ -1,0 +1,35 @@
+{
+  "id": "tarzan-growth-v4",
+  "name": "career-development",
+  "author": "manager-dot-dev",
+  "category": "场景实战",
+  "repo_url": "https://github.com/manager-dot-dev/manager-skills",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "摆脱对“职级”的过度迷信，学会捕捉非线性增长的机会，获得职场中的长期弹性。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "泰山跃迁模型 (The Tarzan Method)",
+        "content": "职业发展是非线性的。就像泰山在丛林中荡秋千，你并不总是向上爬。有时候横向的一荡（换组或换领域），能让你抓到那根通往更高处的长青藤。"
+      },
+      {
+        "type": "System",
+        "title": "影响力圈层架构 (Circles of Influence)",
+        "content": "评估价值的四个同心圆：个人贡献、团队赋能、跨组协作、公司愿景。想要晋升，关键不在于在当前圆圈里做得更深，而在于有意识地向下一个外圈突破。"
+      },
+      {
+        "type": "Workflow",
+        "title": "晋升就绪审计",
+        "content": "1. 识别当前的影响力圆圈。 2. 找到更高一级职位的关键痛点。 3. 在没有被授权的情况下，尝试提前履行部分更高职位的职责。 4. 收集证明你已处于下一层级的证据。"
+      },
+      {
+        "type": "Tactic",
+        "title": "单向门/双向门职业抉择",
+        "content": "面对新机会，问：这是双向门吗？如果去了新部门不适应还能回来吗？如果能，就大胆尝试。横向移动带来的视野增益，往往是未来的核心竞争力。"
+      }
+    ],
+    "heuristics": "晋升不是因为你把当前的工作做得更好了，而是因为你已经开始做更高一级的工作了。",
+    "anti_patterns": "线性路径依赖：固执地认为必须按部就班升职，从而错过了通过跨领域、跨职能带来的爆发式增长机会。"
+  }
+}

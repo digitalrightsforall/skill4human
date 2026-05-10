@@ -1,0 +1,35 @@
+{
+  "id": "cognitive-forge-v4",
+  "name": "cognitive-forge",
+  "author": "LeoYeAI",
+  "category": "认知增强",
+  "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+  "wisdom": {
+    "score": 96,
+    "human_gain": "将“读过”转化为“拥有”。学会从任何信息源中提炼出可跨界使用的底层逻辑。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "复利格栅 (The Compounding Latticework)",
+        "content": "查理·芒格的核心思想：知识不应是孤岛。只有当你把不同的模型织成一张网，你才能拥有真正的智慧。模型越多，这张网就越牢固，复利效应就越强。"
+      },
+      {
+        "type": "System",
+        "title": "F.A.C.E.T. 模型炼金术",
+        "content": "通过五个维度萃取知识：框架(Framework)定义核心逻辑，锚点(Anchor)锁定案例，矛盾(Contradiction)寻找反直觉真理，边界(Edge)划定适用范围，迁移(Transfer)实现生活应用。"
+      },
+      {
+        "type": "Workflow",
+        "title": "模型熔炉 (The Model Smelter)",
+        "content": "1. 扫描信息源。 2. 识别与常识冲突的“反直觉点”。 3. 使用 F.A.C.E.T. 进行结构化解析。 4. 将解析后的模型存入你的个人决策库。"
+      },
+      {
+        "type": "Tactic",
+        "title": "反直觉真理搜寻",
+        "content": "在阅读时，专门寻找那些让你感到“不舒服”或“奇怪”的观点。这些往往是能够打破你认知边界的顶级思维模型。"
+      }
+    ],
+    "heuristics": "如果一个理论听起来非常符合常识，那它大概率不是一个好的思维模型。",
+    "anti_patterns": "松鼠症：只顾收集信息和书单，却从未将其解构为可操作的逻辑模型。"
+  }
+}

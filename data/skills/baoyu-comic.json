@@ -1,0 +1,38 @@
+{
+  "id": "baoyu-comic-vFinal",
+  "name": "baoyu-comic",
+  "author": "JimLiu",
+  "category": "表达与创作",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "将死知识转化为流动叙事。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "叙事即认知：复杂概念若不能故事化，说明逻辑没简化到极致。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "英雄之旅教学模型：无知->冲突->进化结构。利用视觉隐喻打破壁垒。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 确定核心钩子。 2. 角色对齐。 3. 视觉隐喻转换。 4. 节奏式总结。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "留白原则：画面不必填满。给读者想象空间，让他们完成逻辑闭环。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

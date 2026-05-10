@@ -1,0 +1,35 @@
+{
+  "id": "knowledge-engineer-v4",
+  "name": "edward-a-feigenbaum-perspective",
+  "author": "yfyang86 / Feigenbaum",
+  "category": "元学习与自进化",
+  "repo_url": "https://github.com/yfyang86/turingskill",
+  "wisdom": {
+    "score": 99,
+    "human_gain": "获得知识工程的底层视角。学会如何像‘专家系统之父’一样，将那些零散、模糊的行业经验转化为严密、可复用、可编程的逻辑体系，实现经验的规模化复制。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "知识优于推理 (Knowledge over Inference)",
+        "content": "Feigenbaum 认为，智能系统的力量源于它所拥有的特定领域知识，而非其通用推理能力。这意味着要解决难题，你必须深入行业细分领域，提取出那些非公开的、基于经验的启发式（Heuristics）。"
+      },
+      {
+        "type": "System",
+        "title": "启发式编码体系",
+        "content": "将专家的‘直觉’转化为‘规则库’。通过观察专家在处理边界案例（Edge Cases）时的反应，提取出隐含的判断标准，并将其公式化为：[情境] + [观察] -> [动作建议]。"
+      },
+      {
+        "type": "Workflow",
+        "title": "知识获取瓶颈突破",
+        "content": "1. 领域沉浸（理解术语）；2. 启发式打捞（追问‘为什么这么做’）；3. 逻辑建模（构建如果-那么树）；4. 可解释性验证（模型必须能讲清每一步的依据）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "可解释性原则 (Explainability)",
+        "content": "永远不要接受一个‘黑箱’式的结论。要求自己或 AI 对每一个决策给出逻辑链路。只有能被解释的知识，才是真正被掌握并可进化的知识。"
+      }
+    ],
+    "heuristics": "长期深耕一个领域以达到‘专家’水平。知识的深度决定了系统的上限。",
+    "anti_patterns": "通用幻觉：试图用一套通用的逻辑解决所有垂直领域的专业问题，这会导致结论平庸且缺乏实战价值。"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "decision-making",
+  "title": "决策与评审：YC 的产品直觉",
+  "description": "获得 Garry Tan 的诊断眼光。本集锦结合了 YC 级的 Office Hours 诊断、OKR 目标管理与深度复盘机制，教你如何刺破商业幻觉，用逻辑驱动组织的确定性增长。",
+  "skills": [
+    "office-hours-vFinal",
+    "okr-gen-vFinal",
+    "1k-retro-vFinal"
+  ],
+  "playbook": [
+    {
+      "step": "1. 实施 YC 级 Office Hours 诊断",
+      "action": "应用 Office Hours 逻辑。不要问‘好不好看’，直接问‘谁会现在付费？’。强制挖掘用户真实的痛点而非伪需求。",
+      "heuristic": "‘刺破幻觉的刺刀’。如果你无法在 30 秒内说清用户的痛苦，说明你还不了解你的产品。"
+    },
+    {
+      "step": "2. 建立‘北极星’ OKR 矩阵",
+      "action": "利用 okr-gen。将所有琐事转化为支撑关键目标的 KR。确保每一个动作都直接指向增长或留存。",
+      "heuristic": "‘没有 KR 的目标只是愿望’。确保你的 KR 是可量化的、具备时间约束的‘硬指标’。"
+    },
+    {
+      "step": "3. 运行深度复盘与迭代闭环",
+      "action": "启动 1k-retro 流程。识别出现两次以上的失败模式。不要寻找借口，要寻找系统性的缺陷并进行结构性修复。",
+      "heuristic": "‘错误是宝贵的资产’。如果你不复盘，你就在不断支付相同的认知学费。"
+    }
+  ]
+}

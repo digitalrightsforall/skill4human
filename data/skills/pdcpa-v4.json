@@ -1,0 +1,35 @@
+{
+  "id": "pdcpa-v4",
+  "name": "pdcpa-cycle",
+  "author": "dhq-boiler",
+  "category": "元学习与自进化",
+  "repo_url": "https://github.com/dhq-boiler/PDCPA",
+  "wisdom": {
+    "score": 99,
+    "human_gain": "获得极强的项目纠偏能力。学会如何通过科学的五步闭环，在面对复杂、多变的挑战时，始终保持策略的动态优化，将每一次失败转化为下一次精准行动的养料。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "重划优于盲动 (Re-Plan vs Action)",
+        "content": "大多数人的迭代止步于‘检查（Check）’。PDCPA 的核心在于‘重新规划（Re-Plan）’。它强调在发现偏差后，不是立即蛮干，而是停下来重新审视资源、目标和路径，生成新的假说。这种‘有意识的暂停’是高手与平庸者的分水岭。"
+      },
+      {
+        "type": "System",
+        "title": "PDCPA 五步闭环",
+        "content": "1. Plan（设定 KPI 与约束）；2. Do（记录执行偏差）；3. Check（分析根因假说）；4. Re-Plan（核心：生成至少两个可选方案）；5. Action（执行选定的新方案并进入下一循环）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "两难方案生成协议",
+        "content": "当‘检查’发现问题时，禁止直接给出唯一修正。必须列出：方案 A（稳健型）与方案 B（激进型），对比两者的风险与收益。这种强制性的双重思考是消除认知偏差的最佳手段。"
+      },
+      {
+        "type": "Tactic",
+        "title": "根因假说验证",
+        "content": "在重新规划前，必须写下：‘我认为失败的原因是 X，如果我改变 Y，那么结果应该是 Z’。将迭代变成一场严谨的科学实验。"
+      }
+    ],
+    "heuristics": "事后复盘不如‘事中’重划。永远带着至少两个方案去见你的老板或镜子里的自己。",
+    "anti_patterns": "试错循环（Trial-and-Error）：不分析原因，只是机械地更换方法反复尝试，直到运气好或者耗尽资源。"
+  }
+}

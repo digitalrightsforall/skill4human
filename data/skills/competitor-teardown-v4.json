@@ -1,0 +1,35 @@
+{
+  "id": "competitor-teardown-v4",
+  "name": "competitor-teardown",
+  "author": "ulpi-io",
+  "category": "商业直觉与品牌",
+  "repo_url": "https://github.com/ulpi-io/plugin-marketplace",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得商业“上帝视角”。学会通过公开信息重构对手的战略意图和薄弱点，找到真正属于你的市场切入点。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "七层深度剥离 (The 7-Layer Deep Dive)",
+        "content": "平庸的分析只是列出功能，而深度的拆解是识别‘灵魂’。通过层层剥离——从公司概况、产品架构、定价逻辑到用户真实情感，你才能看清对手是在哪里虚张声势，在哪里拥有真实的防御工事。"
+      },
+      {
+        "type": "System",
+        "title": "评论挖掘与情感地图",
+        "content": "利用真实用户数据（Review Mining）构建情感地图。重点识别：1. 核心转化点（为什么买？）；2. 核心槽点（哪里难用？）；3. 被忽视的需求（如果他们不做，我做会怎样？）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "全流程拆解协议",
+        "content": "1. 快速扫描（公司背景与定位）；2. 功能矩阵对比（Yes/No 矩阵）；3. 定价阶梯分析；4. SWOT 与 2x2 定位图；5. 评论深度挖掘；6. 产出执行摘要。"
+      },
+      {
+        "type": "Tactic",
+        "title": "‘Ah-ha’与‘Ugh’捕获术",
+        "content": "专门寻找那些让用户感到惊艳的瞬间（Ah-ha）和感到愤怒的瞬间（Ugh）。前者是你要防御的，后者是你要进攻的。"
+      }
+    ],
+    "heuristics": "不要只看他们说了什么，要看他们的用户说了什么。竞争对手的弱点通常隐藏在他们的‘成功’之中。",
+    "anti_patterns": "列表癖：花大量时间列出上百项琐碎的功能对比，却无法得出任何能指导行动的战略结论。"
+  }
+}

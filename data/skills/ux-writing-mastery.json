@@ -1,0 +1,38 @@
+{
+  "id": "ux-writing-mastery-vFinal",
+  "name": "ux-writing",
+  "author": "viktorbezdek",
+  "category": "表达与创作",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "掌握‘极小空间的尊严’。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "引导即服务：UI 文字不是装饰，是通往成功的路标。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "决策树模型：针对按钮、报错、空状态建立确定的范式。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 映射情绪弧。 2. 场景化语调调节。 3. 术语一致性审计。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "拒绝指责：永远不要在报错中说‘你写错了’。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

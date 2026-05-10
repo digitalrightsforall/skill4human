@@ -1,0 +1,38 @@
+{
+  "id": "brand-voice-guia-vFinal",
+  "name": "brand-voice",
+  "author": "guia-matthieu",
+  "category": "表达与创作",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "掌握‘声音保存法’。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "声音即身份：文字不是语法的堆砌，是信念和节奏的融合。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "三问过滤模型：你想告诉我什么？为什么是现在？这对我有何意义？"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 杂乱初稿。 2. 意图澄清。 3. AI 结构化调整。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "替换测验：把品牌名换成竞争对手，如果话还通顺，说明你没有声音。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "leadership-vFinal",
+  "name": "leadership-mindset",
+  "author": "Expert",
+  "category": "领导与组织",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "从执行者到赋能者转变。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "领导力是影响力：领导者的任务是定义现实并给予希望。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "目标对齐模型：全员清晰在哪、去哪、做什么。只要达成共识内耗必减。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 讲透背景。 2. 划定边界。 3. 给予支持。授权是赋能。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "具体的反馈：夸奖公开，批评私下。所有反馈基于事实，而非情绪。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

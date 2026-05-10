@@ -1,0 +1,38 @@
+{
+  "id": "marketing-principles-silva-vFinal",
+  "name": "marketing-principles",
+  "author": "silvabyte",
+  "category": "表达与创作",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "掌握乔布斯式的叙事穿透力。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "极简即高级：复杂的营销是无能的表现。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "情感锚定模型：情绪先行、彻底精简、叙事冲击、稀缺性建立。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 挖掘变迁。 2. 故事冲突构建。 3. 排除技术噪音。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "12岁准则：如果一个12岁的孩子听不懂，说明你的逻辑还不够底层。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

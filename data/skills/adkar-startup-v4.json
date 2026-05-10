@@ -1,0 +1,35 @@
+{
+  "id": "adkar-startup-v4",
+  "name": "change-management",
+  "author": "tapanshah",
+  "category": "个人效能系统",
+  "repo_url": "https://github.com/tapanshah/Claude-Skills",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得极强的变革推动力。学会如何在不引起组织或个人生活混乱的情况下，快速切换赛道或迭代流程。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "处理‘人’的转变 (Human Transition)",
+        "content": "所有的变革阻力都源于对‘失去控制’的恐惧。ADKAR 模型要求你不仅要解释‘做什么’，更要解决‘为什么要现在做’以及‘我该如何适应’。只有当个体的‘愿望’（Desire）被唤起时，变革才真正开始。"
+      },
+      {
+        "type": "System",
+        "title": "创业版 ADKAR 架构",
+        "content": "1. Awareness（意识：提前 24 小时同步逻辑）；2. Desire（欲望：识别并解决恐惧）；3. Knowledge（知识：SOP 与 FAQ）；4. Ability（能力：降低初期工作量，允许犯错）；5. Reinforcement（巩固：衡量并庆祝小胜）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "批判性预审协议",
+        "content": "在发布不可逆决策前：1. 模拟受影响最大的群体提出质疑；2. 针对质疑修正执行方案；3. 只有当‘批评者’也认为逻辑自洽时，才正式公布。"
+      },
+      {
+        "type": "Tactic",
+        "title": "分阶段发布节奏",
+        "content": "对于流程变革，设定 4-8 周的过渡期。前两周只做‘知识铺垫’，中间四周并行运行并允许冗余，最后两周强行停用旧系统。"
+      }
+    ],
+    "heuristics": "变革不是一个开关，而是一场长跑。不要假装变革没有代价。",
+    "anti_patterns": "闪电式袭击：周五下午突然宣布重大变动，下周一立即执行。这会导致系统性的不信任和由于‘能力不足’导致的彻底失败。"
+  }
+}

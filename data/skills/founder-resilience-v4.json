@@ -1,0 +1,35 @@
+{
+  "id": "founder-resilience-v4",
+  "name": "founder-resilience",
+  "author": "TECHKNOWMAD-LABS",
+  "category": "个人效能系统",
+  "repo_url": "https://github.com/TECHKNOWMAD-LABS/founder-arsenal",
+  "wisdom": {
+    "score": 99,
+    "human_gain": "获得极其坚韧的心理护城河。学会将“枯竭”作为一种可管理的工程变量，在极端压力下依然能保持冷静的决策能力。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "认知预算管理 (Cognitive Budgeting)",
+        "content": "你的决策带宽是每日限量的。通过对活动进行‘认知成本’分级（如：战略对齐为高成本，报销为低成本），你可以将最宝贵的带宽分配给决定胜负的瞬间，而非消耗在琐事中。"
+      },
+      {
+        "type": "System",
+        "title": "七维枯竭诊断体系",
+        "content": "定期从七个维度（疲劳感、愤世嫉俗度、自我效能、疏离感、认知清晰度、生理状态、人际关系）进行自测。一旦有三项红灯，立即强制进入‘系统级恢复模式’。"
+      },
+      {
+        "type": "Workflow",
+        "title": "2-2-2 决策防御协议",
+        "content": "1. 识别重大决策；2. 强制进入缓冲期（根据风险大小设为 2h/2d/2w）；3. 在情绪中立、精力充沛时进行二次审视；4. 只有两次审视结论一致时才执行。"
+      },
+      {
+        "type": "Tactic",
+        "title": "睡眠第一协议 (Sleep First)",
+        "content": "将睡眠视为首要的‘生产力任务’。如果睡眠时间低于 6 小时，强制削减当天的认知负荷（取消深度思考，只做维护性工作），以保护长期性能。"
+      }
+    ],
+    "heuristics": "睡眠是最高级的性能杠杆。禁止在极度疲劳时做不可逆决策。",
+    "anti_patterns": "疲劳荣誉感：认为熬夜和透支是一种值得骄傲的奋斗。这实际上是在透支系统的‘信用额度’，最终会导致系统性崩溃。"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ai-translator-v4",
+  "name": "ai-collaboration-translator",
+  "author": "chrisbluezhen-spec",
+  "category": "深度思考与研究",
+  "repo_url": "https://github.com/chrisbluezhen-spec/ai-collaboration-translator",
+  "wisdom": {
+    "score": 97,
+    "human_gain": "获得高效的“思想翻译”能力。能将脑中模糊的需求快速转化为高保真的、可执行的指令，极大降低沟通中的信噪比。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "结构化是认知的‘税收’",
+        "content": "不要为了结构化而结构化。只有当任务变得复杂、模糊或风险巨大时，才值得花费精力去整理结构。在低风险场景下，应追求极简的‘直通式’沟通。"
+      },
+      {
+        "type": "System",
+        "title": "三层意图对齐引擎 (SGS)",
+        "content": "解析任何请求时，强行提取三层信息：1. 显性要求 (Stated)；2. 底层目标 (Goal)；3. 成功标志 (Success Signature)。只有定义了成功，执行才不会走样。"
+      },
+      {
+        "type": "Workflow",
+        "title": "编译式执行流",
+        "content": "1. 信号探测（判断是否需要结构化）；2. 意图萃取（SGS 模式）；3. 编写执行简报 (Brief)；4. 快速验证结果与预设‘成功标志’的一致性。"
+      },
+      {
+        "type": "Tactic",
+        "title": "成功标志定义法",
+        "content": "不要只描述‘怎么做’，要描述‘做完后的世界是什么样’。例如：‘代码运行后，API 响应时间应低于 100ms，且不改变原有的数据结构’。"
+      }
+    ],
+    "heuristics": "最好的沟通不是冗长的解释，而是精准的执行简报。结构化是为了消除歧义，而非增加官僚气息。",
+    "anti_patterns": "模糊代理：将自己都没想清楚的问题抛给对方（或 AI），并期望对方能猜中你的心思。这只会产生低质量的垃圾产出。"
+  }
+}

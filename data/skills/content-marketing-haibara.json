@@ -1,0 +1,34 @@
+{
+  "id": "content-marketing-haibara",
+  "name": "content-marketing-manager",
+  "author": "Haibarakiku",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/Haibarakiku/awesome-skills/tree/main/skills/marketing/content-marketing-manager",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "构建高效的内容分发体系。学会如何从零开始制定内容战略，管理编辑日历，并实现跨渠道的自动化分发与转化。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "内容即杠杆",
+        "content": "内容不是成本，而是可以无限放大影响力的杠杆。高质量的内容战略应关注长期价值，而非短期的流量收割。"
+      },
+      {
+        "type": "System",
+        "title": "内容分发矩阵",
+        "content": "基于用户旅程（TOFU/MOFU/BOFU）的系统化布局。强调内容的可复用性（Repurposing）和 SEO 与社交媒体的协同效应。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 内容审计 -> 2. 核心支柱确定 -> 3. 编辑日历排期 -> 4. 生产与多渠道分发 -> 5. 数据反馈与迭代。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "坚持 80/20 原则（80% 提供价值，20% 软性转化）；建立内容中台，实现‘一处生产，多处分发’；为每一个内容板块设定明确的北极星指标。"
+      }
+    ]
+  },
+  "tags": ["内容营销", "战略规划", "矩阵分发", "编辑日历"]
+}

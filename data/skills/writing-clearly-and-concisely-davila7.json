@@ -1,0 +1,34 @@
+{
+  "id": "writing-clearly-and-concisely-davila7",
+  "name": "writing-clearly-and-concisely",
+  "author": "davila7",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/writing-clearly-and-concisely",
+  "wisdom": {
+    "score": 96,
+    "human_gain": "获得一种“文字的穿透力”。你写下的每一句话都将充满力量，不再被废话淹没，让读者的注意力 100% 聚焦在你的核心观点上。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "删减即力量",
+        "content": "写作是去掉多余词汇的艺术。正如雕刻，删减得越多，真相显露得越清晰。肯定陈述优于否定规避。"
+      },
+      {
+        "type": "System",
+        "title": "极简表达系统",
+        "content": "基于 Strunk 风格法则：使用主动语态、具体的名词、强有力的动词。剔除 AI 常见的膨胀式表达（Puffery）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 原始产出 -> 2. 暴力脱水（剔除形容词/副词） -> 3. 语态翻转（被动转主动） -> 4. 末尾加压。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "省略多余词汇（Needless words）；将重音词放在句末；用 Definite Language 代替模糊表达；严禁使用 delve, multifaceted 等 AI 常用词。"
+      }
+    ]
+  },
+  "tags": ["极简", "清晰", "Strunk", "反AI膨胀"]
+}

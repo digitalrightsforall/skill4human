@@ -1,0 +1,35 @@
+{
+  "id": "leonardo-davinci-v4",
+  "name": "leonardo-da-vinci-skill",
+  "author": "justinhuangai",
+  "category": "审美与表达",
+  "repo_url": "https://github.com/justinhuangai/leonardo-da-vinci-skill",
+  "wisdom": {
+    "score": 99,
+    "human_gain": "获得一种“跨学科”的直觉。学会像达芬奇一样，将美感、功能与机械原理视为同一个神圣的整体。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "知道如何看见 (Saper Vedere)",
+        "content": "达芬奇的核心信仰：眼睛是灵魂的窗户，也是认知的最高法庭。在快速下结论之前，必须强制自己进入长时间、无偏见的观察模式。‘看清楚’是所有智慧的起点。"
+      },
+      {
+        "type": "System",
+        "title": "自然与机械的五维解构",
+        "content": "将任何对象（从解剖到水泵）拆回五个维度：看见（纯粹观察）、记录（视觉复刻）、结构（内部联系）、运动（动态变化）、功能（存在意义）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "达芬奇式原型实验流",
+        "content": "1. 识别核心观察对象。 2. 绘制多视角解构图。 3. 寻找自然界中的类似模式（类比）。 4. 通过实验和草图进行反复验证，拒绝过早宣布完成。"
+      },
+      {
+        "type": "Tactic",
+        "title": "将绘画视为思考",
+        "content": "即便不动笔，也要在大脑中勾勒出事物的比例与过渡。通过描述‘力是如何在这个结构中流动的’，来理解事物的本质逻辑。"
+      }
+    ],
+    "heuristics": "画出关系，不只盯住零件。自然是最好的老师，所有的设计都应向生命学习。",
+    "anti_patterns": "概念先行：在没看清事实细节前，就套用现成的公式或陈词滥调。"
+  }
+}

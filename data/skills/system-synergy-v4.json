@@ -1,0 +1,35 @@
+{
+  "id": "system-synergy-v4",
+  "name": "productivity-integration",
+  "author": "Avery2",
+  "category": "个人效能系统",
+  "repo_url": "https://github.com/Avery2/things3-mcp-tools",
+  "wisdom": {
+    "score": 97,
+    "human_gain": "获得极其清晰的脑空间。彻底终结因工具混乱导致的认知负荷，让你的注意力永远锁定在当前最核心的动作上。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "执行与规划的物理隔离",
+        "content": "你的大脑不适合在战斗（执行）的同时进行复杂的路线规划。你需要两个互补的系统：一个极其简洁、以‘动作’为中心的执行引擎，和一个结构丰富、以‘知识’为中心的规划档案馆。"
+      },
+      {
+        "type": "System",
+        "title": "单事实来源原则 (SSoT)",
+        "content": "规定每一个信息的‘主场’。任务的主场是执行工具（如 Things3/Todoist），项目背景和长远目标的主场是规划工具（如 Notion/Obsidian）。绝不允许信息在两个地方重叠，从而产生冲突。"
+      },
+      {
+        "type": "Workflow",
+        "title": "跨系统分流协议",
+        "content": "1. 统一捕获（所有念头先进入执行工具的 Inbox）；2. 分流处理（简单的动作留下，复杂的项目规划移至 Notion）；3. 定期对齐（在周回顾时，将 Notion 的新计划拆解为 Things3 的具体动作）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "嵌套复盘循环",
+        "content": "每日复盘（执行层：今天做完了吗？）；每周复盘（战术层：我的项目状态需要更新吗？）；每月复盘（战略层：我的执行系统是否还在服务于我的长远目标？）。"
+      }
+    ],
+    "heuristics": "不要在战斗的时候看地图。将‘想’与‘做’在时间和空间上彻底分开。",
+    "anti_patterns": "工具全能幻想：试图在一个工具（如只用 Notion 或只用日历）里完成所有事，这会导致系统由于过于臃肿而最终被弃用。"
+  }
+}
