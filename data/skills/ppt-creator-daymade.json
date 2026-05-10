@@ -1,0 +1,34 @@
+{
+  "id": "ppt-creator-daymade",
+  "name": "ppt-creator",
+  "author": "daymade",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/daymade/claude-code-skills/tree/main/daymade-docs/ppt-creator",
+  "wisdom": {
+    "score": 96,
+    "human_gain": "学会如何将冰冷的文档转化为具备视觉冲击力的演示逻辑。掌握金字塔原理与断言-证据模型，让你的 PPT 每一页都具备说服力。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "视觉是逻辑的延伸",
+        "content": "PPT 是听众的视觉证据，而不是演讲者的提词器。每一页都必须服务于一个核心断言。留白是思考的空间。"
+      },
+      {
+        "type": "System",
+        "title": "AE 论证模型",
+        "content": "采用‘断言-证据’（Assertion-Evidence）架构：标题即结论，内容即证据。结合‘金字塔原理’确保整体逻辑的自上而下对齐。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 确立中心结论 -> 2. 搭建逻辑金字塔 -> 3. 设计断言式标题 -> 4. 匹配视觉证据 -> 5. 撰写演说草稿。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "使用 Rule of Three（三法则）；标题必须是完整的动宾短语；严禁使用‘背景’、‘结论’等无意义标题；确保单页视觉焦点唯一。"
+      }
+    ]
+  },
+  "tags": ["PPT", "演示", "逻辑视觉化", "金字塔原理"]
+}

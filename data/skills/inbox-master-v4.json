@@ -1,0 +1,35 @@
+{
+  "id": "inbox-master-v4",
+  "name": "obsidian-inbox-processing",
+  "author": "J-DubApps",
+  "category": "元学习与自进化",
+  "repo_url": "https://github.com/J-DubApps/obsidian-extra-skills",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得清空“认知负债”的能力。学会如何快速处理堆积如山的收件箱，将杂乱的灵感瞬间转化为有序的知识资产，保持大脑的清爽与高效。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "分诊优于治疗",
+        "content": "处理收件箱时的第一优先序是‘清空’而非‘完善’。你要做的是给每条信息分配一个‘去处’（Action/Archive/Trash），而不是在收件箱里就开始深度阅读。这种‘分诊思维’能极大地降低心理阻力。"
+      },
+      {
+        "type": "System",
+        "title": "Forever Notes 分类法",
+        "content": "将所有捕捉到的内容分为：1. Braindump（闪念）；2. Meeting（记录）；3. Research（研究）；4. People（人脉）。针对每一类，预设好对应的标签和存储路径。"
+      },
+      {
+        "type": "Workflow",
+        "title": "批处理清空协议",
+        "content": "1. 扫描收件箱文件夹；2. 进行模式识别（分类）；3. 批量打标（Tagging）；4. 批量移动。通过‘同类合并’，你可以利用心理惯性在 10 分钟内处理掉 50 条笔记。"
+      },
+      {
+        "type": "Tactic",
+        "title": "快速完结原则",
+        "content": "如果一条笔记在 2 分钟内无法分类或打标，直接将其移动到‘待处理’或直接删除。不要让一条复杂的笔记阻塞了整个系统的流动。"
+      }
+    ],
+    "heuristics": "先分类，再处理。每一个留在收件箱超过 24 小时的灵感，其价值都在减半。流动性即生命力。",
+    "anti_patterns": "细节沉溺：在处理收件箱时开始优化文案或查阅资料。这会导致收件箱永远清不空，最终系统彻底瘫痪。"
+  }
+}

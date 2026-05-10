@@ -1,0 +1,35 @@
+{
+  "id": "leadership-listening-v4",
+  "name": "executive-coaching",
+  "author": "leehanchung",
+  "category": "人际与领导力",
+  "repo_url": "https://github.com/leehanchung/hstack",
+  "wisdom": {
+    "score": 99,
+    "human_gain": "获得顶级高管教练的沟通功力。学会如何通过三级倾听和 GROW 提问模型，在不提供直接答案的情况下引导团队成员自主解决问题，建立极强的心理安全感和团队凝聚力。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "从‘顾问’到‘教练’的身份转变",
+        "content": "传统领导者习惯于给出建议（Advising），这虽然快，但剥夺了下属成长的机会。高管教练式领导力强调通过倾听来揭示对方的潜能。你的任务不是解决问题，而是帮助对方看清问题的真相。"
+      },
+      {
+        "type": "System",
+        "title": "三级倾听模型 (Levels of Listening)",
+        "content": "1. 内部倾听（我在想什么）；2. 聚焦倾听（全神贯注于对方的言语和情绪）；3. 全局倾听（捕捉空气中的‘震动’、房间的‘氛围’和未被说出口的直觉）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "GROW 引导式对话协议",
+        "content": "1. Goal（你的理想结果是什么？）；2. Reality（目前发生了什么？你的感受如何？）；3. Options（如果你有魔法，你会怎么做？还有吗？）；4. Will（你的第一步具体行动是什么？）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "全局信号捕捉 (Global Listening)",
+        "content": "在对话中，问自己：‘除了字面意思，对方的身体语言、语速的变化和此时此刻的沉默在传达什么？’将这些直觉反馈给对方：‘我感觉到你现在似乎有些犹豫，是吗？’"
+      }
+    ],
+    "heuristics": "智慧在对方心中。让对方多说 30%，你会多得到 300% 的信任。关闭你的‘建议开关’，直到对方请求它。",
+    "anti_patterns": "过早介入：在对方还没讲完情况时就跳出来说‘你应该这样做’。这会制造依赖感，并关闭对方的思考回路。"
+  }
+}

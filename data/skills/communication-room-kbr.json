@@ -1,0 +1,34 @@
+{
+  "id": "communication-room-kbr",
+  "name": "communication-room",
+  "author": "KBRglobal",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/KBRglobal/advisiorai/tree/main/skills/communication-room",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得一个由历史上最伟大的 6 位沟通专家组成的私人智囊团。你将通过卡内基、杜阿尔特等人的视角，对演讲稿进行 360 度无死角的专业重塑。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "沟通即连接",
+        "content": "成功的演示不是为了向听众展示你有多聪明，而是为了在听众心中植入一颗改变的种子。共鸣是连接的桥梁。"
+      },
+      {
+        "type": "System",
+        "title": "六专家决策模型",
+        "content": "集结 Dale Carnegie（人性）、Nancy Duarte（视觉叙事）、Chris Anderson（思想传播）、Carmine Gallo（苹果式极简）、Matthew Dicks（故事化）、Jerry Weissman（利益点对齐）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 导入初稿 -> 2. 依次运行六专家分析 -> 3. 汇总冲突与共识建议 -> 4. 迭代剧本 -> 5. 压力测试 Q&A。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "寻找 WIIFY（对听众有什么好处）；使用 Duarte 曲线（现状 vs 愿景）；应用 Steve Jobs 的‘三点’结构；通过‘故事化’赋予枯燥概念以生命。"
+      }
+    ]
+  },
+  "tags": ["演讲", "沟通专家", "剧本研磨", "领导力"]
+}

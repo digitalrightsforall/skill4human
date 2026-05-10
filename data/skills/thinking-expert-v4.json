@@ -1,0 +1,35 @@
+{
+  "id": "thinking-expert-v4",
+  "name": "thinking-expert",
+  "author": "felixgeelhaar",
+  "category": "认知增强",
+  "repo_url": "https://github.com/felixgeelhaar/skills",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "建立决策的“心理免疫系统”，在关键时刻识别并跳出本能驱动的认知陷阱。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "概率性生存 (Thinking in Bets)",
+        "content": "世界是概率性的。一个坏的结果不代表一个坏的决策，一个好的结果也不代表一个好的决策。关注过程而非仅仅关注结局。"
+      },
+      {
+        "type": "System",
+        "title": "偏误审计框架 (Bias Auditor)",
+        "content": "将人类常见的认知偏误分为四类：信息偏差（信息不全）、判断偏差（逻辑漏洞）、行动偏差（情绪干扰）和社会偏差（群体压力）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "决策架构协议 (Decision Architecture)",
+        "content": "1. 启动苏格拉底式质询。 2. 进行“事前验尸”(Pre-Mortem)。 3. 应用单向门/双向门测试。 4. 记录决策日志以对抗事后聪明偏差。"
+      },
+      {
+        "type": "Tactic",
+        "title": "单向门/双向门测试",
+        "content": "快速判断决策是否可逆。如果是“双向门”（可逆），应立即行动；如果是“单向门”（不可逆），则必须引入第三方独立审计。"
+      }
+    ],
+    "heuristics": "在下结论之前，先问：‘我最可能在哪一步产生偏误？’",
+    "anti_patterns": "过度确定性：认为自己的直觉是完美的，拒绝承认环境中存在的随机性和自身偏误。"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "systems-room-v4",
+  "name": "systems-room",
+  "author": "KBRglobal",
+  "category": "认知增强",
+  "repo_url": "https://github.com/KBRglobal/advisiorai",
+  "wisdom": {
+    "score": 97,
+    "human_gain": "获得一个由世界级智者组成的“大脑顾问团”。学会在面对复杂问题时，同时调用查理·芒格的跨学科视角和塔勒布的非线性视角。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "多维博弈原则 (Multi-Dimensional Debate)",
+        "content": "真相往往藏在不同视角的交界处。不要试图寻找单一答案，要尝试让不同的思维模型相互挑战，看谁能经受住逻辑的敲打。"
+      },
+      {
+        "type": "System",
+        "title": "智者顾问室 (The Advisor Board)",
+        "content": "模拟一个包含查理·芒格（模型）、纳西姆·塔勒布（风险）、唐内拉·梅多斯（结构）的闭环讨论机制。"
+      },
+      {
+        "type": "Workflow",
+        "title": "智者交叉质询",
+        "content": "1. 陈述问题。 2. 依次调用不同智者的思维模型。 3. 寻找观点冲突点。 4. 在冲突中发现真正的系统杠杆。"
+      },
+      {
+        "type": "Tactic",
+        "title": "反脆弱审计",
+        "content": "模仿塔勒布的思考：这个决策在最坏的情况下，我的损失是否有上限？而好的情况下，收益是否无上限？"
+      }
+    ],
+    "heuristics": "反向思维：总是反过来想，总是反过来想。",
+    "anti_patterns": "单向思维：只听从一个权威或只信奉一种模型，在复杂系统面前这等同于盲人摸象。"
+  }
+}

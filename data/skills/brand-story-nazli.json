@@ -1,0 +1,34 @@
+{
+  "id": "brand-story-nazli",
+  "name": "brand-storytelling",
+  "author": "nazlicancaglar",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/nazlicancaglar/nova-workflow/tree/main/skills/core-strategy/brand-storytelling",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "赋予品牌深层的人格魅力。学会利用心理原型和英雄之旅模型，将枯燥的企业介绍转化为让人产生情感共振的品牌神话。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "品牌是活着的原型",
+        "content": "伟大的品牌不是在卖功能，而是在卖一种身份认同。品牌必须在人类的集体无意识中找到自己的‘原型’位置。"
+      },
+      {
+        "type": "System",
+        "title": "叙事支柱模型",
+        "content": "包含：1.起源故事（为什么存在）；2.反派设定（我们反对什么）；3.转化故事（客户如何因我们而变）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 确定主副原型 -> 2. 挖掘起源与愿景 -> 3. 构建叙事支柱 -> 4. 定义触点语态（Tone of Voice）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "让客户做英雄，品牌做向导；使用原型特有的关键词（如‘智者’多用‘洞察’，‘反叛者’多用‘颠覆’）；确保品牌神话的一致性。"
+      }
+    ]
+  },
+  "tags": ["品牌原型", "叙事", "营销心理学", "品牌战略"]
+}

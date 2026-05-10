@@ -1,0 +1,35 @@
+{
+  "id": "execution-discipline-v4",
+  "name": "closing-the-loop",
+  "author": "jonhill90",
+  "category": "元学习与自进化",
+  "repo_url": "https://github.com/jonhill90/Hill90",
+  "wisdom": {
+    "score": 99,
+    "human_gain": "获得极严谨的交付质量。学会如何通过‘证据链’确保每一项认知的转化都是可验证、可持续的，彻底消除‘我知道但没做成’的执行盲区。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "将执行视为严密的科学契约",
+        "content": "闭环执行的核心在于‘证据（Evidence）’。在动手之前，你必须明确成功的‘信号’是什么，以及你将提供什么样的‘证据’来证明你达到了目标。这种思维方式能强迫你从模糊的‘尝试’转向精准的‘交付’。"
+      },
+      {
+        "type": "System",
+        "title": "9 维度执行矩阵",
+        "content": "这是一套完整的执行架构。通过明确界定‘范围（Scope）’和‘出界（Out-of-Scope）’，防止需求蔓延；通过‘证据矩阵（Verification Matrix）’，要求每一个步骤都产出日志或截图，确保每一步都踩在实处。"
+      },
+      {
+        "type": "Workflow",
+        "title": "闭环执行四步法",
+        "content": "1. 信号定义（成功的样子）；2. 步骤拆解（带证据要求）；3. 风险预判（Plan B）；4. 完工声明（对照初始信号进行终审）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "证据即反馈 (Evidence as Feedback)",
+        "content": "不要只看结果，要看产生结果的过程证据。这种对过程的‘病理性关注’能让你在出错的第一时间发现逻辑漏洞，而不是等到项目崩溃。"
+      }
+    ],
+    "heuristics": "没有证据的执行是无效的。如果一个步骤无法产出‘成功信号’，那就不要执行它。",
+    "anti_patterns": "临时工心态：只追求‘现在能跑通’，通过手动操作绕过核心问题。这种‘知行不合一’会累积大量的技术与认知债。"
+  }
+}

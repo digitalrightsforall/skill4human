@@ -1,0 +1,34 @@
+{
+  "id": "contagious-wondelai",
+  "name": "contagious",
+  "author": "wondelai",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/wondelai/skills/tree/main/contagious",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "掌握流行的科学。通过 STEPPS 框架，学会如何有意识地为你的产品、观点或内容注入传播动力，让其在社交网络中像病毒一样自发扩散。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "传播是精心设计的产物",
+        "content": "疯传不是运气，而是对人类社交心理的精准操纵。如果你的内容不能增加受众的‘社交货币’，它就注定会被淹没。"
+      },
+      {
+        "type": "System",
+        "title": "STEPPS 病毒模型",
+        "content": "包含六大核心：1.社交货币（显得牛逼）；2.诱因（联想触发）；3.情绪（高唤醒驱动）；4.公共性（视觉模仿）；5.实用价值（乐于助人）；6.故事（特洛伊木马）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 确立传播核心 -> 2. 进行 STEPPS 审计 -> 3. 增强社交货币与情绪点 -> 4. 植入环境诱因 -> 5. 包装进引人入胜的故事。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "制造神秘感（不直接说结论）；寻找与日常行为的强关联；利用‘群体压力’促使分享；确保你的核心信息与故事紧密耦合。"
+      }
+    ]
+  },
+  "tags": ["流行预测", "病毒营销", "STEPPS", "社会心理学"]
+}

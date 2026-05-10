@@ -1,0 +1,38 @@
+{
+  "id": "1k-perf-vFinal",
+  "name": "1k-performance",
+  "author": "OneKey",
+  "category": "工程与系统",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "在受限环境下压榨极致性能。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "流畅即正义：性能是用户情绪。任何不必要的等待都是谋杀信任。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "并发管控模型：限制并发数量，分批执行。剥离重计算，防止系统崩塌。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 埋点波峰采集。 2. 压力测试。 3. 针对性重构核心链路逻辑。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "UI线程洁癖：不要在用户正在看的地方进行复杂思考。保持主线程空闲。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "staff-plus-v4",
+  "name": "swarm-discussion",
+  "author": "Ischca",
+  "category": "元学习与自进化",
+  "repo_url": "https://github.com/Ischca/swarm-discussion-skill",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得顶级架构师的博弈与决策能力。学会如何在复杂、无标准答案的场景下，通过模拟多维视角的激烈碰撞，识别隐蔽风险，做出最稳健的决策。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "通过不一致发现真相",
+        "content": "在 Staff+（资深参谋）级别，最危险的事是团队太快达成一致。真正的稳健源于对立观点的‘设计的张力’（Designed Tension）。通过强制性的角色扮演（如：乐观派 vs 悲观派），你可以穷尽所有可能的失败路径。"
+      },
+      {
+        "type": "System",
+        "title": "多角色博弈矩阵",
+        "content": "强制引入三个核心角色：1. Moderator（调解者：负责进度与中立）；2. Contrarian（唱反调者：负责寻找逻辑漏洞）；3. Historian（历史学家：负责记录决策脉络与少数派意见）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "结构化冲突协议",
+        "content": "1. 明确张力轴（如：速度 vs 安全）；2. 各角色强制表态（禁止中庸）；3. 迭代辩论（针对证据而非立场）；4. 综合产出（包含共识与不妥协的少数派报告）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "少数派报告 (Minority Report)",
+        "content": "在决策文档中，必须保留那份‘非共识’的异议。当未来环境发生变化时，这份报告就是你最宝贵的‘转向指南’。"
+      }
+    ],
+    "heuristics": "没有对立观点的决策是危险的。如果你找不到一个反对理由，说明你的思考还停留在表面。",
+    "anti_patterns": "伪一致性：为了维持团队和谐而压制异议，导致‘群体思维’（Groupthink）产生的灾难性决策。"
+  }
+}

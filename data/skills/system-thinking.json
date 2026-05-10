@@ -1,0 +1,38 @@
+{
+  "id": "system-thinking-vFinal",
+  "name": "system-thinking",
+  "author": "Expert",
+  "category": "通用思维",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "看清事物的底层脉络。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "万物皆有联系：没问题是孤立存在的。盯本身无法根治。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "因果回路模型：识别增强和平衡回路。理解延迟效应，防过度用力。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 绘制关联图。 2. 锁定增强回路。 3. 寻找牵一发而动全身的杠杆。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "慢即是快：快速方案往往导致长期恶化。学会静观其变再决策。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

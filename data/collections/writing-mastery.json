@@ -1,0 +1,27 @@
+{
+  "id": "writing-mastery",
+  "title": "表达与创作：重塑语言灵魂",
+  "description": "拒绝工业味。本集锦结合了极简主义写作、语域校准与叙事穿透力，教你如何像大师一样打磨文字，让你的表达具备‘呼吸感’与‘生命力’。",
+  "skills": [
+    "baoyu-translate-vFinal",
+    "baoyu-format-vFinal",
+    "storytelling-vFinal"
+  ],
+  "playbook": [
+    {
+      "step": "1. 实施‘去欧化’语言净化",
+      "action": "应用 baoyu-translate 逻辑。剔除所有‘进行’、‘关于’、‘由于’等冗余虚词。将长难句拆解为短促、有力的主动语态。",
+      "heuristic": "‘好的翻译是不着痕迹的转译’。让文字回归母语本来的节奏，拒绝 AI 带来的僵硬感。"
+    },
+    {
+      "step": "2. 构建‘视觉化’排版层级",
+      "action": "利用 baoyu-format。使用加粗、列表与引用框，将核心论点视觉化。确保文档在不阅读正文的情况下依然具备可导航性。",
+      "heuristic": "‘格式即内容’。在碎片化阅读时代，无法快速扫视的内容等同于不存在。"
+    },
+    {
+      "step": "3. 注入‘情感共鸣’叙事钩子",
+      "action": "启动 storytelling-vFinal。在开头设立冲突，在结尾升华愿景。用具体的细节描述代替抽象的价值陈述。",
+      "heuristic": "‘Show, Don't Tell’。不要说你很专业，要展示你解决复杂问题时的每一个呼吸。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "1k-retro-vFinal",
+  "name": "1k-retrospective",
+  "author": "OneKey",
+  "category": "工程与系统",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "获得从痛苦中进化的能力。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "故障是最好教材：复盘是寻找导致失败的思维断裂带。不掉进同个坑。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "规则进化模型：错误->识别模式->更新清单->自动拦截。建立永久免疫力。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 收集血泪教训。 2. 寻找共性特征。 3. 制定一句话防错准则。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "三打点原则：出现三次的偶然才叫模式。针对模式必须建立强制性防御。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

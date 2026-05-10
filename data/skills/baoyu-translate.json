@@ -1,0 +1,38 @@
+{
+  "id": "baoyu-translate-vFinal",
+  "name": "baoyu-translate",
+  "author": "JimLiu",
+  "category": "表达与创作",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "重塑语言灵魂。写出具有母语穿透力的文字。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "重写而非翻译：翻译终极目标是重新创作，追求信号的等效性。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "三模态质量矩阵：分级分配资源。精修模式包含全生命周期闭环。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 原始建模。 2. 打破句式意译初稿。 3. 批判性评审。 4. 终极润色。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "主动解释：括号中简洁解释黑话。译者注如盐消融，拒绝博学展示。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

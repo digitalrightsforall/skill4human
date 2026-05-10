@@ -1,0 +1,38 @@
+{
+  "id": "creative-sim-vFinal",
+  "name": "creative-writing-coach",
+  "author": "liangdabiao",
+  "category": "表达与创作",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "学会多重人格模拟。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "叙事是认知的最高形式。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "认知建模三部曲：语料注射、认知卡片、内心独白驱动。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 锁定极端人设。 2. 感官锚定训练。 3. 内心独白自检。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "Show, Don't Tell：不要写‘他很生气’。要写‘他手里的杯子在剧烈摇晃’。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "energy-optimizer-v4",
+  "name": "lifestyle-optimizer",
+  "author": "sanada123",
+  "category": "个人效能系统",
+  "repo_url": "https://github.com/sanada123/openclaw-skills",
+  "wisdom": {
+    "score": 99,
+    "human_gain": "获得全方位的生命控制感。学会在高压、多任务的环境下，依然能保持稳定的高产出且不枯竭（Anti-Burnout）。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "管理能量而非时间 (Energy Management)",
+        "content": "时间是公平的，但能量不是。一个小时的‘深度工作’产生的价值，可能超过十个小时的‘疲劳工作’。高效的本质是学会在能量最高峰时攻击最难的问题，在能量低谷时处理琐碎杂事。"
+      },
+      {
+        "type": "System",
+        "title": "5 块式全天架构 (5-Block Day)",
+        "content": "将全天划分为固定的功能模块：1. 核心深度工作区（3小时，拒绝任何干扰）；2. 行政/沟通区（处理邮件、消息）；3. 能量补给区（午休、运动）；4. 会议/外部协作区；5. 明日构建区（收尾与规划）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "非排他性 3 原则 (Non-Negotiable 3)",
+        "content": "每天找出三件无论发生什么（哪怕孩子生病、老板临时加活）都必须完成的小事。这种‘绝对的连续性’是维持长期动力和信心的基石。"
+      },
+      {
+        "type": "Tactic",
+        "title": "紧急刹车协议 (Emergency Protocol)",
+        "content": "当感到彻底崩溃（Overwhelmed）时，立即启动协议：1. 停止所有新任务流入；2. 只保留生存级任务；3. 强行休息 15 分钟进行深呼吸。这能防止你在恐慌中做出毁灭性的决策。"
+      }
+    ],
+    "heuristics": "系统胜过意志力。不要问‘我想不想做’，要看‘日历是否要求我做’。",
+    "anti_patterns": "疲劳冲刺：在精力枯竭时强行熬夜。这不仅产出极低，还会透支未来三天的效率。"
+  }
+}

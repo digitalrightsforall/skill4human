@@ -1,0 +1,35 @@
+{
+  "id": "lara-acosta-growth-v4",
+  "name": "linkedin-audience-mastery",
+  "author": "Farrice / Lara Acosta",
+  "category": "商业直觉与品牌",
+  "repo_url": "https://github.com/Farrice/mes-knowledge-base",
+  "wisdom": {
+    "score": 99,
+    "human_gain": "获得顶级的 B2B 个人品牌增长能力。学会如何利用算法钩子和叙事黑客技术，在 LinkedIn 等平台建立真实的专家权威与高粘度粉丝群。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "算法优化的叙事力",
+        "content": "不要发‘公司通告’，要发‘个人蜕变’。社交平台算法奖励的是停留时间和互动率。通过将个人经验转化为通用的成功/失败模型，你可以将个人品牌从‘自我介绍’升级为‘价值磁铁’。"
+      },
+      {
+        "type": "System",
+        "title": "SLAY 增长协议",
+        "content": "1. Social：发布前 30 分钟与目标领域的 KOL 进行高质量互动，预热算法；2. Leverage：引用行业共识或反共识来借力；3. Authority：展示‘硬核教训’而非‘浅层成功’；4. Yield：结尾必须提供一个具象的价值点，而非单纯的‘点赞’请求。"
+      },
+      {
+        "type": "Workflow",
+        "title": "8 字钩子架构 (Rehook Architecture)",
+        "content": "在文案的第 3-5 行，以及结尾前，插入一个不超过 8 个字的强力短句。这个短句的作用是像‘呼吸孔’一样，给读者一个心理间隙，引导他们继续向下阅读长内容。"
+      },
+      {
+        "type": "Tactic",
+        "title": "负向约束钩子 (Negative Hook)",
+        "content": "与其说‘如何做 X’，不如说‘停止做 Y’。人类对规避损失的欲望远大于获得收益。通过指出常见的错误，你可以瞬间建立‘我比你懂行’的专家地位。"
+      }
+    ],
+    "heuristics": "价值产出（Yield）优于行动号召（Action）。在要求别人关注你之前，先给他们一个无法拒绝的理由。",
+    "anti_patterns": "自嗨式更新：发布那些除了你自己（或你的老板）以外没人关心的自夸内容，这会迅速损毁你的品牌信誉。"
+  }
+}

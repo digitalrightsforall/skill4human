@@ -1,0 +1,38 @@
+{
+  "id": "frontend-design-vFinal",
+  "name": "frontend-design",
+  "author": "Anthropic",
+  "category": "表达与创作",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "培养对视觉张力的掌控。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "拒绝 AI 泔水：设计是表达态度。平庸对齐是杀手。专业来自极致执行。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "空间构图模型：利用非对称布局制造视觉压力。通过负空间建立呼吸感。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 确立基调。 2. 寻找唯一记忆点。 3. 像素级打磨细节。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "减法默认：每个元素必须赚回占用的像素。去掉不影响体验就删掉。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

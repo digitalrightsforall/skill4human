@@ -1,0 +1,27 @@
+{
+  "id": "visual-thinking",
+  "title": "视觉化思维：穿透认知的叙事力量",
+  "description": "拒绝信息的堆砌。本集锦结合了视觉隐喻、网格秩序与叙事漫画逻辑，教你如何将死板的数据转化为流动的视觉语言，实现跨维度的认知降载。",
+  "skills": [
+    "baoyu-comic-vFinal",
+    "baoyu-article-illustrator-vFinal",
+    "baoyu-slide-deck-vFinal"
+  ],
+  "playbook": [
+    {
+      "step": "1. 确立核心‘视觉隐喻’",
+      "action": "应用 baoyu-article-illustrator。不要直接画图，先找类比。将抽象架构转化为具象物体（如：地基、楼层、管道）。",
+      "heuristic": "‘意象胜于具象’。一个好的类比能瞬间抹平非专业读者的认知门槛。"
+    },
+    {
+      "step": "2. 构建网格化‘视觉秩序’",
+      "action": "利用 baoyu-slide-deck。强制要求版面符合黄金比例或网格系统。利用留白（Negative Space）来强调核心信息。",
+      "heuristic": "‘混乱是理解的杀手’。视觉秩序不仅是为了美，更是为了降低大脑的扫描开销。"
+    },
+    {
+      "step": "3. 实施‘漫画式’叙事节奏",
+      "action": "启动 baoyu-comic 逻辑。将信息切分为有节奏的‘分镜’。利用‘冲突-转折-结局’的视觉流引导读者进入心流。",
+      "heuristic": "‘引导目光，就是引导思想’。通过视觉流的导向性设计，让读者顺着你的轨道进行思考。"
+    }
+  ]
+}

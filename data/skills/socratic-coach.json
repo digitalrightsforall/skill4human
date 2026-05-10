@@ -1,0 +1,38 @@
+{
+  "id": "socratic-coach-vFinal",
+  "name": "socratic-writing-coach",
+  "author": "narthur",
+  "category": "决策与评审",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "获得‘苏格拉底’式的批判性直觉。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "拒绝廉价的文字替代思考：教练的任务是揭露逻辑漏洞。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "思想助产术模型：不提建议，只提问题。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 目标对齐问询。 2. 识别模糊地带。 3. 逻辑断裂处施压。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "严禁代劳：绝不接受模糊的回答。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "hum-rhetoric-asgard",
+  "name": "hum-rhetoric",
+  "author": "asgard-ai-platform",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/asgard-ai-platform/skills/tree/main/hum-rhetoric",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "掌握人类三千年的说服艺术。学会如何在逻辑之上覆盖人格魅力与情感共鸣，让你的观点不仅被理解，更被接受和追随。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "说服即平衡",
+        "content": "说服不是信息的单向输出，而是 Ethos（信任）、Pathos（情感）与 Logos（逻辑）的动态平衡。"
+      },
+      {
+        "type": "System",
+        "title": "经典修辞三角",
+        "content": "人格感召 (Ethos)：建立权威与共同价值观；情感驱动 (Pathos)：激发同情、愤怒或希望；逻辑推导 (Logos)：数据与推理支撑。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1.分析受众心理倾向 -> 2.设定说服基调 -> 3.构建核心论据（Logos） -> 4.注入情感诱饵（Pathos） -> 5.展示专家人格（Ethos）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "开篇建立共同点（Common Ground）；使用隐喻和排比增强感染力；展示你的脆弱点或中立立场以获取 Ethos。"
+      }
+    ]
+  },
+  "tags": ["修辞", "说服", "亚里士多德", "演讲"]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "recruiting-vFinal",
+  "name": "recruiting-pipeline",
+  "author": "Anthropic",
+  "category": "领导与组织",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "像经营资产一样经营人才库。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "人才即资产流：关注长期信任建立，而非短期成交。招聘者是经营者。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "漏斗式筛选模型：全链路监控瓶颈。通过数据反馈而非主观感觉选拔。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 锚定精准画像。 2. 批量科学测试。 3. 挖掘隐性价值。 4. 快速闭环。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "反馈及时性：尊重是最低成本吸引力。每个动作必须有反馈时限。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

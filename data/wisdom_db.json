@@ -1,0 +1,5019 @@
+[
+  {
+    "id": "1k-architecture-vFinal",
+    "name": "1k-architecture",
+    "author": "OneKey",
+    "category": "工程与系统",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "培养软件结构感。应对不确定性的留白艺术。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "演进胜于规划：架构应像生命体自我调整。保持边界清晰比预测未来重要。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "物理隔离模型：kit-bg(地基) 严禁依赖 kit(楼层)。单向阀门杜绝耦合。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 识别新依赖所属层级。 2. 抽象接口代理。 3. 增量重构非规范代码。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "堡垒原则：模块对外只露最少窗口。若需改内部细节才能调用，说明堡垒失守。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "1k-code-quality-vFinal",
+    "name": "1k-code-quality",
+    "author": "OneKey",
+    "category": "工程与系统",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "养成对认知摩擦的零容忍。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "代码是写给人看的：增加阅读负担的设计都是低质量表现。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "标准化交付模型：将工程行为分解为标准化动作。通过强制规则换取自由。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 函数必须能用一个动词概括。 2. 移除冗余抽象。 3. 语义化同步注释。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "显式胜于隐式：宁多写三行清晰代码，不搞一个晦涩技巧。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "1k-coding-vFinal",
+    "name": "1k-coding-patterns",
+    "author": "OneKey",
+    "category": "工程与系统",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "培养对习惯的审美。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "一致性高于一切：个人风格是工程噪音，团队共识才是资产。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "习语化开发模型：针对高频场景（Promise, React）建立统一体系。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 识别反模式。 2. 查阅标准。 3. 模式转换。 4. 提交前自审。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "零悬挂原则：所有的 Promise 必须处理或标记。杜绝竞态条件。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "1k-error-vFinal",
+    "name": "1k-error-handling",
+    "author": "OneKey",
+    "category": "工程与系统",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "培养顶级防御式思维。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "优雅的可选性：永远不假设顺利。稳健在于系统崩塌时的体面感。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "故障分层模型：核心->降级->提醒。每一层独立呼吸，防单点全崩。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 捕获原始异常。 2. 语义化翻译。 3. UI 补偿。 4. 静默日志收集。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "不让错误沉默：你可以不报错，但必须知道为什么错。吞掉错误是制造灾难。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "1k-perf-vFinal",
+    "name": "1k-performance",
+    "author": "OneKey",
+    "category": "工程与系统",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "在受限环境下压榨极致性能。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "流畅即正义：性能是用户情绪。任何不必要的等待都是谋杀信任。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "并发管控模型：限制并发数量，分批执行。剥离重计算，防止系统崩塌。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 埋点波峰采集。 2. 压力测试。 3. 针对性重构核心链路逻辑。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "UI线程洁癖：不要在用户正在看的地方进行复杂思考。保持主线程空闲。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "1k-retro-vFinal",
+    "name": "1k-retrospective",
+    "author": "OneKey",
+    "category": "工程与系统",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "获得从痛苦中进化的能力。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "故障是最好教材：复盘是寻找导致失败的思维断裂带。不掉进同个坑。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "规则进化模型：错误->识别模式->更新清单->自动拦截。建立永久免疫力。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 收集血泪教训。 2. 寻找共性特征。 3. 制定一句话防错准则。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "三打点原则：出现三次的偶然才叫模式。针对模式必须建立强制性防御。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "academic-paper-imbad0202",
+    "name": "academic-paper",
+    "author": "Imbad0202",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/Imbad0202/academic-research-skills/tree/main/academic-paper",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "学会像一个“学术评审团”一样写作。你不再是孤军奋战，而是在脑中模拟 12 个专家的协作流，将模糊的想法转化为严谨的、具备穿透力的学术发表物。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "写作即博弈",
+          "content": "学术写作不是打字，而是一场多角色（作者、研究员、审计、评审）的协作博弈。学术诚实不是道德约束，而是逻辑的底座。"
+        },
+        {
+          "type": "System",
+          "title": "12-Agent 协作系统",
+          "content": "通过 Generator-Evaluator 隔离协议，将写作拆解为 12 个原子角色。利用 Claim-Evidence-Logic 强耦合模型确保论证无懈可击。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1.配置对齐 -> 2.文献矩阵 -> 3.论证蓝图 -> 4.分层起草 -> 5.自动化审计 -> 6.五维评审。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "禁止“清嗓子”式开场；严控破折号频率；打破段落长度一致性（反 AI 律动）；强制执行 DOI 校验。"
+        }
+      ]
+    },
+    "tags": [
+      "学术",
+      "逻辑",
+      "写作",
+      "研究"
+    ]
+  },
+  {
+    "id": "academic-paper-polish-yzy1996",
+    "name": "academic-paper-polish",
+    "author": "yzy1996",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/yzy1996/English-Writing/tree/main/skills/academic-paper-polish",
+    "wisdom": {
+      "score": 92,
+      "human_gain": "建立你的‘学术语感’。不仅是改错，而是通过高阶词汇和句式矩阵，让你的论文读起来像是由该领域资深专家撰写的。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "润色即呈现",
+          "content": "学术润色不是为了掩饰，而是为了让思想的穿透力不再受限于语言的门槛。清晰是学术表达的最高美德。"
+        },
+        {
+          "type": "System",
+          "title": "学术语域对齐",
+          "content": "建立‘核心学术词汇表’与‘常用论证句型库’。通过对摘要、方法论、结论等不同章节的语境分析，匹配最精准的表达模式。"
+        },
+        {
+          "type": "Workflow",
+          "title": "精修流",
+          "content": "1.段落重心检测 -> 2.学术动词替换 -> 3.论证连贯性增强 -> 4.反 AI 检测抛光。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "使用‘虽然...但是’的多种变体（Nonetheless, Notwithstanding）；在方法论中使用被动语态以增强客观性；在讨论中使用推测性动词（Suggest, Postulate）。"
+        }
+      ]
+    },
+    "tags": [
+      "润色",
+      "学术英语",
+      "词汇矩阵"
+    ]
+  },
+  {
+    "id": "academic-paper-reviewer-imbad0202",
+    "name": "academic-paper-reviewer",
+    "author": "Imbad0202",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/Imbad0202/academic-research-skills/tree/main/academic-paper-reviewer",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "学会‘换位思考’。通过模拟评审人的苛刻视角，提前发现并修补论文中的逻辑漏洞，将‘被拒稿’的风险在草稿阶段化解。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "批判即建设",
+          "content": "评审不是找茬，而是对真理的压力测试。只有通过了‘恶意评审’的论文，才具备真正的学术韧性。"
+        },
+        {
+          "type": "System",
+          "title": "五人评审团模型",
+          "content": "模拟总编、三个不同流派的同行评审以及一个‘杠精’。从创新性、严谨性、贡献度、可重复性和文献定位五个维度进行全方位扫描。"
+        },
+        {
+          "type": "Workflow",
+          "title": "压力测试流",
+          "content": "1.快速评估（初筛视角） -> 2.方法论深挖 -> 3.论证逻辑压力测试 -> 4.修订路线图生成。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "检查‘引用孤儿’（文中引用但列表没有）；评估实验数据是否支撑结论；识别‘循环论证’；重点关注 Abstract 与 Conclusion 的一致性。"
+        }
+      ]
+    },
+    "tags": [
+      "评审",
+      "压力测试",
+      "逻辑审计"
+    ]
+  },
+  {
+    "id": "adkar-startup-v4",
+    "name": "change-management",
+    "author": "tapanshah",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/tapanshah/Claude-Skills",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得极强的变革推动力。学会如何在不引起组织或个人生活混乱的情况下，快速切换赛道或迭代流程。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "处理‘人’的转变 (Human Transition)",
+          "content": "所有的变革阻力都源于对‘失去控制’的恐惧。ADKAR 模型要求你不仅要解释‘做什么’，更要解决‘为什么要现在做’以及‘我该如何适应’。只有当个体的‘愿望’（Desire）被唤起时，变革才真正开始。"
+        },
+        {
+          "type": "System",
+          "title": "创业版 ADKAR 架构",
+          "content": "1. Awareness（意识：提前 24 小时同步逻辑）；2. Desire（欲望：识别并解决恐惧）；3. Knowledge（知识：SOP 与 FAQ）；4. Ability（能力：降低初期工作量，允许犯错）；5. Reinforcement（巩固：衡量并庆祝小胜）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "批判性预审协议",
+          "content": "在发布不可逆决策前：1. 模拟受影响最大的群体提出质疑；2. 针对质疑修正执行方案；3. 只有当‘批评者’也认为逻辑自洽时，才正式公布。"
+        },
+        {
+          "type": "Tactic",
+          "title": "分阶段发布节奏",
+          "content": "对于流程变革，设定 4-8 周的过渡期。前两周只做‘知识铺垫’，中间四周并行运行并允许冗余，最后两周强行停用旧系统。"
+        }
+      ],
+      "heuristics": "变革不是一个开关，而是一场长跑。不要假装变革没有代价。",
+      "anti_patterns": "闪电式袭击：周五下午突然宣布重大变动，下周一立即执行。这会导致系统性的不信任和由于‘能力不足’导致的彻底失败。"
+    }
+  },
+  {
+    "id": "ai-pm-playbook-v4",
+    "name": "ai-pm-playbook",
+    "author": "ArslanArda",
+    "category": "场景实战",
+    "repo_url": "https://github.com/ArslanArda/ai-pm-playbook",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得驾驭 AI 的战略视野。明白 AI 时代的产品力不再是画原型，而是设计复杂的决策边界与评估反馈环。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "设计失败与降级逻辑 (Design for Failure)",
+          "content": "AI 的不确定性是其本质。好的 AI 产品经理不追求 100% 的准确，而是追求在 5% 的失败时刻，系统能优雅地降级、解释并引入人类干预。"
+        },
+        {
+          "type": "System",
+          "title": "智能体架构格栅 (Agentic Architecture)",
+          "content": "根据任务复杂度选择：简单的 Prompt 处理、单智能体循环、或多智能体分工。每增加一层复杂度，必须有明确的‘质量增量’作为回报。"
+        },
+        {
+          "type": "Workflow",
+          "title": "AI 产品生命周期",
+          "content": "1. 确定北极星评估指标 (Eval)。 2. 定义工具与指令的硬边界。 3. 建立基准测试数据集。 4. 设计人类在环 (Human-in-the-loop) 的反馈入口。"
+        },
+        {
+          "type": "Tactic",
+          "title": "指令边界先行",
+          "content": "在写 Prompt 之前，先写清楚这个 AI ‘绝对不能做什么’。清晰的负向约束往往比正向引导更能提升系统的稳定性。"
+        }
+      ],
+      "heuristics": "在编写指令之前，先定义工具的边界。",
+      "anti_patterns": "奇迹幻想：认为只要 Prompt 写得好，AI 就能解决一切逻辑问题，而忽略了底层工程结构的必要性。"
+    }
+  },
+  {
+    "id": "ai-translator-v4",
+    "name": "ai-collaboration-translator",
+    "author": "chrisbluezhen-spec",
+    "category": "深度思考与研究",
+    "repo_url": "https://github.com/chrisbluezhen-spec/ai-collaboration-translator",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "获得高效的“思想翻译”能力。能将脑中模糊的需求快速转化为高保真的、可执行的指令，极大降低沟通中的信噪比。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "结构化是认知的‘税收’",
+          "content": "不要为了结构化而结构化。只有当任务变得复杂、模糊或风险巨大时，才值得花费精力去整理结构。在低风险场景下，应追求极简的‘直通式’沟通。"
+        },
+        {
+          "type": "System",
+          "title": "三层意图对齐引擎 (SGS)",
+          "content": "解析任何请求时，强行提取三层信息：1. 显性要求 (Stated)；2. 底层目标 (Goal)；3. 成功标志 (Success Signature)。只有定义了成功，执行才不会走样。"
+        },
+        {
+          "type": "Workflow",
+          "title": "编译式执行流",
+          "content": "1. 信号探测（判断是否需要结构化）；2. 意图萃取（SGS 模式）；3. 编写执行简报 (Brief)；4. 快速验证结果与预设‘成功标志’的一致性。"
+        },
+        {
+          "type": "Tactic",
+          "title": "成功标志定义法",
+          "content": "不要只描述‘怎么做’，要描述‘做完后的世界是什么样’。例如：‘代码运行后，API 响应时间应低于 100ms，且不改变原有的数据结构’。"
+        }
+      ],
+      "heuristics": "最好的沟通不是冗长的解释，而是精准的执行简报。结构化是为了消除歧义，而非增加官僚气息。",
+      "anti_patterns": "模糊代理：将自己都没想清楚的问题抛给对方（或 AI），并期望对方能猜中你的心思。这只会产生低质量的垃圾产出。"
+    }
+  },
+  {
+    "id": "analogy-engine-goutham",
+    "name": "analogy-engine",
+    "author": "goutham-nekkalapu",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/goutham-nekkalapu/skillforge/tree/develop/skills/thinking-tools/analogy-engine",
+    "wisdom": {
+      "score": 96,
+      "human_gain": "获得‘一秒让人听懂’的超能力。学会通过精准、新颖的类比，将晦涩的抽象概念转化为直观的视觉画面，实现降维沟通。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "类比是认知的核心",
+          "content": "理解的本质是将未知映射到已知。一个好的类比不仅是修辞，更是思维的加速器。拒绝平庸类比，追求结构对齐。"
+        },
+        {
+          "type": "System",
+          "title": "结构映射模型",
+          "content": "通过提取源领域（复杂概念）的逻辑拓扑，在目标领域（日常生活）中寻找等效结构。强调‘跨域关联’而非‘表面相似’。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 概念解构 -> 2. 提取逻辑结构（A 作用于 B 产生 C） -> 3. 跨域搜索对等体 -> 4. 测试类比的‘可延展性’。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "使用‘ELI5’（像对五岁孩子说话一样）的最高阶形式；避免‘黑盒’比喻；在解释完类比后，必须指出类比的‘失效点’以确保严谨。"
+        }
+      ]
+    },
+    "tags": [
+      "类比",
+      "简化",
+      "认知心理学",
+      "沟通"
+    ]
+  },
+  {
+    "id": "antifragile-v4",
+    "name": "antifragility-thinking",
+    "author": "Antigravity-Synthesized",
+    "category": "个人效能系统",
+    "repo_url": "internal://philosophy",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "获得‘越乱越强’的底层逻辑。学会在不确定的环境中不仅能生存，还能利用波动和压力实现跨越式进化。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "利用波动 (Exploit Volatility)",
+          "content": "平庸者在波动中祈求稳定，而抗脆弱者在波动中寻找机会。抗脆弱性的本质是‘非线性回报’：在风险可控的前提下，压力越大，收益越高。"
+        },
+        {
+          "type": "System",
+          "title": "杠铃策略 (Barbell Strategy)",
+          "content": "拒绝中庸。在安全区（如：核心技能、财务底线）保持 90% 的极度保守；在探索区（如：新尝试、小额实验）保持 10% 的极度进取。这样你既不会被彻底毁灭，又保留了中大奖的机会。"
+        },
+        {
+          "type": "Workflow",
+          "title": "风险封顶与实验循环",
+          "content": "1. 识别潜在的毁灭性风险并封顶（Stop Loss）；2. 进行大量的、成本极低的小型实验（Optionality）；3. 观察哪一个实验产生了非线性的正反馈；4. 迅速重仓加码该方向。"
+        },
+        {
+          "type": "Tactic",
+          "title": "冗余的价值",
+          "content": "适度的冗余（如：备用金、多种收入来源、跨界技能）是抗脆弱的基础。高效能往往意味着脆性，而‘略显低效’的冗余正是系统面对不可预知冲击时的救命稻草。"
+        }
+      ],
+      "heuristics": "风能熄灭蜡烛，但能让火越烧越旺。你要成为那团火。",
+      "anti_patterns": "过度优化：为了追求极致效率而删除了所有冗余（如：零库存、满负荷排期）。一旦环境发生微小波动，系统就会瞬间崩溃。"
+    }
+  },
+  {
+    "id": "antifragility-v4",
+    "name": "chaos-engineer",
+    "author": "claudchereji / Nassim Taleb",
+    "category": "元学习与自进化",
+    "repo_url": "https://github.com/claudchereji/VisualVerses",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得顶级系统专家的抗压能力。学会如何在安全环境下主动模拟极端压力，识别隐藏的系统漏洞，将潜在的灭顶之灾转化为认知的‘免疫加固’。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "主动寻求混乱的智慧",
+          "content": "抗脆弱不是‘坚韧’（坚韧只是抵抗冲击），而是从冲击中获益。混沌工程的核心是主动发起实验，观察系统在边界条件下的反应。通过不断的受控演习，你构建的不仅是应对预案，更是一种随时随地能够自我修复的动态适应性。"
+        },
+        {
+          "type": "System",
+          "title": "混沌实验闭环",
+          "content": "1. 定义稳态（基准指标）；2. 提出假说（如果 X 发生，Y 依然能跑通）；3. 控制爆炸半径（在小范围内测试）；4. 注入故障；5. 观察偏差；6. 实施‘韧性补丁’。"
+        },
+        {
+          "type": "Workflow",
+          "title": "受控压力注入协议",
+          "content": "在执行关键任务前，人为设置一个‘极端障碍’（例如：如果今天电脑突然坏了，我能用手机在 1 小时内完成交付吗？）。这种思维模拟能让你提前发现所有依赖项，并构建冗余路径。"
+        },
+        {
+          "type": "Tactic",
+          "title": "30 秒回滚原则",
+          "content": "在发起任何高风险尝试前，必须确信自己拥有一个‘紧急停止键’，能在 30 秒内恢复到之前的安全状态。没有这个保障，实验就是自杀。"
+        }
+      ],
+      "heuristics": "主动失败是最高级的防御。不要试图避免混乱，要学会利用它。测试你的边界，否则边界会测试你。",
+      "anti_patterns": "鸵鸟策略：假装故障不会发生。这会导致系统在面对真实的随机冲击时瞬间崩溃，没有任何缓冲余地。"
+    }
+  },
+  {
+    "id": "api-best-vFinal",
+    "name": "api-documentation-best-practices",
+    "author": "Leonard Richardson",
+    "category": "表达与创作",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "掌握工程语言的交流规范。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "资源即世界：文档应聚焦资源状态变迁。标准化是降低认知成本的最优路径。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "分级质量模型：基础、实务、应用、专家。易于消化的台阶式架构。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 目的梳理。 2. 规范注入。 3. 闭环记录决策路径。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "最小惊奇原则：返回结构必须符合直觉。不要创造个人方言。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "articulation-kluless",
+    "name": "articulation",
+    "author": "kluless13",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/kluless13/claude-skills/tree/main/skills/dan-koe/skills/articulation",
+    "wisdom": {
+      "score": 94,
+      "human_gain": "学会像搭建乐高一样组织思想。掌握 Dan Koe 的创意乐高框架，让你能够灵活拆解并重新组合复杂想法，产出极具洞察力的内容。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "思想即模块",
+          "content": "清晰的表达源于模块化的思维。不要试图一次性推销整个宇宙，要先卖掉一块积木。跨领域合成是创造力的源泉。"
+        },
+        {
+          "type": "System",
+          "title": "Idea Legos (创意乐高)",
+          "content": "将观点拆解为原子化的模块：一个概念、一个例子、一个行动建议。利用 PAS（Problem-Amplify-Solution）框架进行模块化封装。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 识别核心冲突（问题） -> 2. 放大痛点（Amplify） -> 3. 提取模块化方案 -> 4. 跨领域知识融合。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "建立个人的‘灵感积木库’；使用‘微故事’（Micro Story）框架；在每一节结尾设定清晰的过渡逻辑，引导读者思维跳转。"
+        }
+      ]
+    },
+    "tags": [
+      "思想模块化",
+      "Dan Koe",
+      "表达",
+      "内容创作"
+    ]
+  },
+  {
+    "id": "baoyu-comic-vFinal",
+    "name": "baoyu-comic",
+    "author": "JimLiu",
+    "category": "表达与创作",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "将死知识转化为流动叙事。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "叙事即认知：复杂概念若不能故事化，说明逻辑没简化到极致。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "英雄之旅教学模型：无知->冲突->进化结构。利用视觉隐喻打破壁垒。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 确定核心钩子。 2. 角色对齐。 3. 视觉隐喻转换。 4. 节奏式总结。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "留白原则：画面不必填满。给读者想象空间，让他们完成逻辑闭环。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "baoyu-format-vFinal",
+    "name": "baoyu-format-markdown",
+    "author": "JimLiu",
+    "category": "表达与创作",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "通过视觉层级让思想呼吸。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "排版即尊重：混乱格式是谋杀。专业排版是为了降低读者抓重点成本。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "视觉呼吸模型：通过间距建立层级。让读者顺着引导像在公路上奔驰。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 逻辑拆解核心论点。 2. 层级映射标题。 3. 加粗金句，剔除冗余。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "黄金三原则：标题人话。段落不过5行。每屏必有视觉记忆点。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "baoyu-translate-vFinal",
+    "name": "baoyu-translate",
+    "author": "JimLiu",
+    "category": "表达与创作",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "重塑语言灵魂。写出具有母语穿透力的文字。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "重写而非翻译：翻译终极目标是重新创作，追求信号的等效性。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "三模态质量矩阵：分级分配资源。精修模式包含全生命周期闭环。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 原始建模。 2. 打破句式意译初稿。 3. 批判性评审。 4. 终极润色。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "主动解释：括号中简洁解释黑话。译者注如盐消融，拒绝博学展示。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "bias-vFinal",
+    "name": "bias-assessor",
+    "author": "Research Team",
+    "category": "决策与评审",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "培养顶级客观嗅觉。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "质疑是公正前提：没有完美的证据。理解是什么因素扭曲了结论。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "风险评估矩阵(RoB)：测量、报告多维测试。将不确定量化为分值。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 来源审计。 2. 利益探测。 3. 完整性检查。 4. 最终确定性评级。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "保守性原则：证据不明时永远给保守带有疑虑评价。盲目乐观是错误源。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "biz-lens-v4",
+    "name": "biz-lens",
+    "author": "sidtheone",
+    "category": "商业直觉与品牌",
+    "repo_url": "https://github.com/sidtheone/biz-lens",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得职业经理人的深度视角。学会用数据和逻辑评估一门生意是否值得投入，以及如何在竞争中构建属于自己的护城河。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "剥离术语看本质 (Demystified Strategy)",
+          "content": "商业战略不是为了写在报告里，而是为了指导资源分配。所有的战略模型最终都在回答三个问题：我们的壁垒是什么？谁在分走我们的利润？我们该如何通过差异化活下去？"
+        },
+        {
+          "type": "System",
+          "title": "MBA 核心框架集群",
+          "content": "整合了 20+ 顶级商学院模型（波特五力、蓝海战略、JTBD、价值曲线等），并将其简化为引导式问询。通过对市场大小、竞争密度、定价权等维度的交互分析，强制用户直面业务的脆弱点。"
+        },
+        {
+          "type": "Workflow",
+          "title": "商业可行性审计流程",
+          "content": "1. 定义业务核心假说；2. 获取真实市场调研数据；3. 选择适配框架（如：初创期用蓝海，成熟期用五力）；4. 进行压力测试与评分；5. 产出具体的战略转向（Pivot）或进攻建议。"
+        },
+        {
+          "type": "Tactic",
+          "title": "单位经济效益评估 (Unit Economics)",
+          "content": "算清每一笔交易的账。如果 LTV（客户终身价值）不能覆盖 CAC（客户获取成本）的三倍以上，这就是一个建立在沙滩上的业务，无论规模做多大都是在加速死亡。"
+        }
+      ],
+      "heuristics": "如果单位经济效益算不过来，再好的营销也救不了它。不要试图用规模来解决利润率的结构性问题。",
+      "anti_patterns": "战术勤奋替代战略思考：疯狂投放广告或加班，却不去审视市场是否已经饱和或产品是否已经失去了竞争力。"
+    }
+  },
+  {
+    "id": "boron-letters-halbert",
+    "name": "boron-letters",
+    "author": "guia-matthieu",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/guia-matthieu/clawfu-skills/tree/main/skills/content/boron-letters",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "掌握文案之神的终极秘密。学会如何写出像个人信件一样亲切、却具备致命吸引力的销售文案，大幅提升你的转化率与成交额。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "金钱流向注意力",
+          "content": "文案的目的是成交。每一行文字唯一的任务就是让受众读下一行。要卖‘滋滋声’，而不是卖‘牛排’本身。"
+        },
+        {
+          "type": "System",
+          "title": "A 堆/B 堆 过滤系统",
+          "content": "所有的邮件和信息都被受众分为 A 堆（个人/重要）和 B 堆（垃圾/广告）。你的任务是从视觉、语气和内容上让自己永远留在 A 堆。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 锁定饥饿的市场 -> 2. 设计情感钩子 -> 3. 建立紧迫感 -> 4. 堆叠具体证据 -> 5. 零风险承诺。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "使用‘PS’策略重申核心价值；将价格拆解为每天的成本；使用极其具体的数字；让读者在心中不断说‘是’（Yes-Ladder）。"
+        }
+      ]
+    },
+    "tags": [
+      "直复营销",
+      "Gary Halbert",
+      "销售心理",
+      "文案"
+    ]
+  },
+  {
+    "id": "brand-mining-v4",
+    "name": "brand-storytelling",
+    "author": "omer-metin",
+    "category": "审美与表达",
+    "repo_url": "https://github.com/omer-metin/skills-for-antigravity",
+    "wisdom": {
+      "score": 96,
+      "human_gain": "提升个人或组织的溢价能力。通过叙事建立长久的品牌共鸣，而非短暂的功能对比。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "故事是载体，情感是货物",
+          "content": "在信息无限的时代，只有故事能穿透噪音。伟大的品牌不卖产品，它们卖的是关于‘反叛’（Apple）、‘潜能’（Nike）或‘责任’（Patagonia）的故事。故事是人类认知的硬核协议。"
+        },
+        {
+          "type": "System",
+          "title": "真相挖掘系统 (The Truth Mine)",
+          "content": "好的品牌故事不是写出来的，而是挖出来的。深挖创始人的失败、产品的边缘案例、或用户的真实感谢信。真实的瑕疵往往比完美的修饰更有力量。"
+        },
+        {
+          "type": "Workflow",
+          "title": "叙事转化循环",
+          "content": "1. 挖掘真实素材。 2. 注入核心价值观。 3. 构建‘冲突-解决’的戏剧张力。 4. 在每一个用户触点上保持叙事的一致性。"
+        },
+        {
+          "type": "Tactic",
+          "title": "精确的叙事锚点",
+          "content": "使用具体的细节（如‘那个下着雨的周二下午’）来增加故事的可信度。细节越多，故事的画面感越强，情感的投射也就越精准。"
+        }
+      ],
+      "heuristics": "最好的品牌故事不是写出来的，而是挖出来的。",
+      "anti_patterns": "公关黑话：使用大量空洞的形容词（如‘领先’、‘卓越’、‘生态’）来填充叙事，这只会让故事显得廉价且虚假。"
+    }
+  },
+  {
+    "id": "brand-story-nazli",
+    "name": "brand-storytelling",
+    "author": "nazlicancaglar",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/nazlicancaglar/nova-workflow/tree/main/skills/core-strategy/brand-storytelling",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "赋予品牌深层的人格魅力。学会利用心理原型和英雄之旅模型，将枯燥的企业介绍转化为让人产生情感共振的品牌神话。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "品牌是活着的原型",
+          "content": "伟大的品牌不是在卖功能，而是在卖一种身份认同。品牌必须在人类的集体无意识中找到自己的‘原型’位置。"
+        },
+        {
+          "type": "System",
+          "title": "叙事支柱模型",
+          "content": "包含：1.起源故事（为什么存在）；2.反派设定（我们反对什么）；3.转化故事（客户如何因我们而变）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 确定主副原型 -> 2. 挖掘起源与愿景 -> 3. 构建叙事支柱 -> 4. 定义触点语态（Tone of Voice）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "让客户做英雄，品牌做向导；使用原型特有的关键词（如‘智者’多用‘洞察’，‘反叛者’多用‘颠覆’）；确保品牌神话的一致性。"
+        }
+      ]
+    },
+    "tags": [
+      "品牌原型",
+      "叙事",
+      "营销心理学",
+      "品牌战略"
+    ]
+  },
+  {
+    "id": "brand-voice-guia-vFinal",
+    "name": "brand-voice",
+    "author": "guia-matthieu",
+    "category": "表达与创作",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "掌握‘声音保存法’。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "声音即身份：文字不是语法的堆砌，是信念和节奏的融合。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "三问过滤模型：你想告诉我什么？为什么是现在？这对我有何意义？"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 杂乱初稿。 2. 意图澄清。 3. AI 结构化调整。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "替换测验：把品牌名换成竞争对手，如果话还通顺，说明你没有声音。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "career-advisor-v4",
+    "name": "career-advisor",
+    "author": "pingwu",
+    "category": "场景实战",
+    "repo_url": "https://github.com/pingwu/solo-unicorn",
+    "wisdom": {
+      "score": 96,
+      "human_gain": "彻底消除“简历焦虑”。通过建立实时的战绩记录系统，让自己随时处于“可被挖角”的巅峰状态。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "实时战绩逻辑 (The Live Record)",
+          "content": "不要在需要简历时才写简历。职业尊严来自于你对自己成就的清晰定义。每一项工作成果都应在完成的瞬间被结构化、数值化，成为你谈判桌上的筹码。"
+        },
+        {
+          "type": "System",
+          "title": "叙事帽子定位系统 (Narrative Hats)",
+          "content": "你不是一个单一的标签。根据目标场景切换你的“叙事帽子”：在面试时是问题解决者，在团队中是协作催化剂。通过调整叙事角度，让同一份经历焕发出不同的商业价值。"
+        },
+        {
+          "type": "Workflow",
+          "title": "缺口穿透法 (Gap Penetration)",
+          "content": "1. 定义梦想岗位的 F.A.C.E.T. 模型。 2. 诚实评估当前缺口。 3. 制定 90 天突击学习计划。 4. 寻找能产生可见成果的小型项目进行练手。"
+        },
+        {
+          "type": "Tactic",
+          "title": "战绩实时录入法",
+          "content": "每周五下午花 15 分钟，记录本周解决的三个难题及其影响。这将为你未来的年度评定和跳槽提供最真实、最细颗粒度的弹药。"
+        }
+      ],
+      "heuristics": "不要在需要简历的时候才写简历，要在创造结果的时候就记录成就。",
+      "anti_patterns": "简历失忆症：工作了三年，回头写简历时却想不起自己到底做出了什么有价值的改变。"
+    }
+  },
+  {
+    "id": "cognitive-forge-v4",
+    "name": "cognitive-forge",
+    "author": "LeoYeAI",
+    "category": "认知增强",
+    "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+    "wisdom": {
+      "score": 96,
+      "human_gain": "将“读过”转化为“拥有”。学会从任何信息源中提炼出可跨界使用的底层逻辑。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "复利格栅 (The Compounding Latticework)",
+          "content": "查理·芒格的核心思想：知识不应是孤岛。只有当你把不同的模型织成一张网，你才能拥有真正的智慧。模型越多，这张网就越牢固，复利效应就越强。"
+        },
+        {
+          "type": "System",
+          "title": "F.A.C.E.T. 模型炼金术",
+          "content": "通过五个维度萃取知识：框架(Framework)定义核心逻辑，锚点(Anchor)锁定案例，矛盾(Contradiction)寻找反直觉真理，边界(Edge)划定适用范围，迁移(Transfer)实现生活应用。"
+        },
+        {
+          "type": "Workflow",
+          "title": "模型熔炉 (The Model Smelter)",
+          "content": "1. 扫描信息源。 2. 识别与常识冲突的“反直觉点”。 3. 使用 F.A.C.E.T. 进行结构化解析。 4. 将解析后的模型存入你的个人决策库。"
+        },
+        {
+          "type": "Tactic",
+          "title": "反直觉真理搜寻",
+          "content": "在阅读时，专门寻找那些让你感到“不舒服”或“奇怪”的观点。这些往往是能够打破你认知边界的顶级思维模型。"
+        }
+      ],
+      "heuristics": "如果一个理论听起来非常符合常识，那它大概率不是一个好的思维模型。",
+      "anti_patterns": "松鼠症：只顾收集信息和书单，却从未将其解构为可操作的逻辑模型。"
+    }
+  },
+  {
+    "id": "communication-room-kbr",
+    "name": "communication-room",
+    "author": "KBRglobal",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/KBRglobal/advisiorai/tree/main/skills/communication-room",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得一个由历史上最伟大的 6 位沟通专家组成的私人智囊团。你将通过卡内基、杜阿尔特等人的视角，对演讲稿进行 360 度无死角的专业重塑。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "沟通即连接",
+          "content": "成功的演示不是为了向听众展示你有多聪明，而是为了在听众心中植入一颗改变的种子。共鸣是连接的桥梁。"
+        },
+        {
+          "type": "System",
+          "title": "六专家决策模型",
+          "content": "集结 Dale Carnegie（人性）、Nancy Duarte（视觉叙事）、Chris Anderson（思想传播）、Carmine Gallo（苹果式极简）、Matthew Dicks（故事化）、Jerry Weissman（利益点对齐）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 导入初稿 -> 2. 依次运行六专家分析 -> 3. 汇总冲突与共识建议 -> 4. 迭代剧本 -> 5. 压力测试 Q&A。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "寻找 WIIFY（对听众有什么好处）；使用 Duarte 曲线（现状 vs 愿景）；应用 Steve Jobs 的‘三点’结构；通过‘故事化’赋予枯燥概念以生命。"
+        }
+      ]
+    },
+    "tags": [
+      "演讲",
+      "沟通专家",
+      "剧本研磨",
+      "领导力"
+    ]
+  },
+  {
+    "id": "competitor-teardown-v4",
+    "name": "competitor-teardown",
+    "author": "ulpi-io",
+    "category": "商业直觉与品牌",
+    "repo_url": "https://github.com/ulpi-io/plugin-marketplace",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得商业“上帝视角”。学会通过公开信息重构对手的战略意图和薄弱点，找到真正属于你的市场切入点。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "七层深度剥离 (The 7-Layer Deep Dive)",
+          "content": "平庸的分析只是列出功能，而深度的拆解是识别‘灵魂’。通过层层剥离——从公司概况、产品架构、定价逻辑到用户真实情感，你才能看清对手是在哪里虚张声势，在哪里拥有真实的防御工事。"
+        },
+        {
+          "type": "System",
+          "title": "评论挖掘与情感地图",
+          "content": "利用真实用户数据（Review Mining）构建情感地图。重点识别：1. 核心转化点（为什么买？）；2. 核心槽点（哪里难用？）；3. 被忽视的需求（如果他们不做，我做会怎样？）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "全流程拆解协议",
+          "content": "1. 快速扫描（公司背景与定位）；2. 功能矩阵对比（Yes/No 矩阵）；3. 定价阶梯分析；4. SWOT 与 2x2 定位图；5. 评论深度挖掘；6. 产出执行摘要。"
+        },
+        {
+          "type": "Tactic",
+          "title": "‘Ah-ha’与‘Ugh’捕获术",
+          "content": "专门寻找那些让用户感到惊艳的瞬间（Ah-ha）和感到愤怒的瞬间（Ugh）。前者是你要防御的，后者是你要进攻的。"
+        }
+      ],
+      "heuristics": "不要只看他们说了什么，要看他们的用户说了什么。竞争对手的弱点通常隐藏在他们的‘成功’之中。",
+      "anti_patterns": "列表癖：花大量时间列出上百项琐碎的功能对比，却无法得出任何能指导行动的战略结论。"
+    }
+  },
+  {
+    "id": "contagious-wondelai",
+    "name": "contagious",
+    "author": "wondelai",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/wondelai/skills/tree/main/contagious",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "掌握流行的科学。通过 STEPPS 框架，学会如何有意识地为你的产品、观点或内容注入传播动力，让其在社交网络中像病毒一样自发扩散。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "传播是精心设计的产物",
+          "content": "疯传不是运气，而是对人类社交心理的精准操纵。如果你的内容不能增加受众的‘社交货币’，它就注定会被淹没。"
+        },
+        {
+          "type": "System",
+          "title": "STEPPS 病毒模型",
+          "content": "包含六大核心：1.社交货币（显得牛逼）；2.诱因（联想触发）；3.情绪（高唤醒驱动）；4.公共性（视觉模仿）；5.实用价值（乐于助人）；6.故事（特洛伊木马）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 确立传播核心 -> 2. 进行 STEPPS 审计 -> 3. 增强社交货币与情绪点 -> 4. 植入环境诱因 -> 5. 包装进引人入胜的故事。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "制造神秘感（不直接说结论）；寻找与日常行为的强关联；利用‘群体压力’促使分享；确保你的核心信息与故事紧密耦合。"
+        }
+      ]
+    },
+    "tags": [
+      "流行预测",
+      "病毒营销",
+      "STEPPS",
+      "社会心理学"
+    ]
+  },
+  {
+    "id": "content-marketing-haibara",
+    "name": "content-marketing-manager",
+    "author": "Haibarakiku",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/Haibarakiku/awesome-skills/tree/main/skills/marketing/content-marketing-manager",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "构建高效的内容分发体系。学会如何从零开始制定内容战略，管理编辑日历，并实现跨渠道的自动化分发与转化。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "内容即杠杆",
+          "content": "内容不是成本，而是可以无限放大影响力的杠杆。高质量的内容战略应关注长期价值，而非短期的流量收割。"
+        },
+        {
+          "type": "System",
+          "title": "内容分发矩阵",
+          "content": "基于用户旅程（TOFU/MOFU/BOFU）的系统化布局。强调内容的可复用性（Repurposing）和 SEO 与社交媒体的协同效应。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 内容审计 -> 2. 核心支柱确定 -> 3. 编辑日历排期 -> 4. 生产与多渠道分发 -> 5. 数据反馈与迭代。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "坚持 80/20 原则（80% 提供价值，20% 软性转化）；建立内容中台，实现‘一处生产，多处分发’；为每一个内容板块设定明确的北极星指标。"
+        }
+      ]
+    },
+    "tags": [
+      "内容营销",
+      "战略规划",
+      "矩阵分发",
+      "编辑日历"
+    ]
+  },
+  {
+    "id": "copy-master-v4",
+    "name": "copywriting-master",
+    "author": "nickloveinvesting",
+    "category": "商业直觉与品牌",
+    "repo_url": "https://github.com/nickloveinvesting/nick-love-plugins",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得构建“高客单价”销售页面的能力。学会通过故事框架和心理预设，让用户在阅读完文案后，认为购买你的产品是理所当然的决定。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "StoryBrand 英雄叙事 (Brand as Guide)",
+          "content": "在商业叙事中，你的品牌永远不是主角（Hero），客户才是。品牌应该扮演‘导师’（Guide）的角色，为英雄提供武器（产品）、计划（方案）并发出行动号召。只有这样，客户才会将你的产品视为他们通往成功的关键补完。"
+        },
+        {
+          "type": "System",
+          "title": "11 元素落地页架构",
+          "content": "一个高转化页面必须包含：1. 利益点驱动的标题；2. 痛点共鸣区；3. 逻辑治愈方案；4. 权威背书（社交证明）；5. 风险对冲（退款保证）；6. 三阶 CTA（轻/中/强号召）；7. FAQ 疑虑消除。"
+        },
+        {
+          "type": "Workflow",
+          "title": "PAS-BAB 转换闭环",
+          "content": "1. 识别核心痛点（Problem）；2. 深度激化该痛点带来的后果（Agitate）；3. 展示没有痛点的美好结局（Before-After）；4. 架设产品这座桥梁（Bridge/Solution）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "风险反转技术 (Risk Reversal)",
+          "content": "在文案结尾，通过极端的保证（如：‘如果你不满意，我不仅全额退款，还送你一份礼物’）将购买压力从用户身上完全转移到你自己身上。这是破除‘最后犹豫’的必杀技。"
+        }
+      ],
+      "heuristics": "15% 痛苦，25% 激化，60% 治愈。永远不要在客户还没感到痛的时候就推销药方。",
+      "anti_patterns": "功能堆砌：列出一长串技术参数，却不告诉用户这些参数能帮他们解决什么具体的人生难题。"
+    }
+  },
+  {
+    "id": "copy-patterns-v4",
+    "name": "copywriting-patterns",
+    "author": "bipinks",
+    "category": "商业直觉与品牌",
+    "repo_url": "https://github.com/bipinks/ghost-office",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得全渠道的转化优化能力。无论是广告、邮件还是 App 的微型提示，你都能精准命中用户潜意识，瞬间提升点击率和转化率。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "转化微逻辑 (Microcopy Logic)",
+          "content": "文案不只是大篇幅的文章，它隐藏在每一个‘按钮’、每一条‘报错信息’中。微文案的本质是消除焦虑。通过告诉用户‘发生了什么’、‘为什么’以及‘下一步去哪’，你能在每个细微处建立信任。"
+        },
+        {
+          "type": "System",
+          "title": "FBO 价值映射体系",
+          "content": "强制将每一个功能（Feature）映射为结局（Outcome）。公式：[我们的功能] $\rightarrow$ 意味着[你的利益] $\rightarrow$ 最终让你[实现人生结局]。用户不是在买产品，而是在买那个更好的自己。"
+        },
+        {
+          "type": "Workflow",
+          "title": "A/B 测试迭代协议",
+          "content": "1. 选定测试变量（如：标题、CTA 按钮颜色）；2. 运行至少 7 天或 100 次转化观察；3. 弃用低转化版本，将获胜版本的逻辑应用到全站。"
+        },
+        {
+          "type": "Tactic",
+          "title": "钩子标题公式 (Hook Formulas)",
+          "content": "使用‘好奇心缺口’、‘权威背书’或‘具体数字’来撰写标题。例如：‘为什么 90% 的 CEO 都在秘密使用这个工具？’远比‘一个高效工具介绍’更吸引点击。"
+        }
+      ],
+      "heuristics": "不要描述功能，要描述结局。每一个不包含动词的按钮都是在浪费流量。",
+      "anti_patterns": "被动语态：使用模糊、被动的描述。营销文案必须是主动的、充满驱动力的。 "
+    }
+  },
+  {
+    "id": "creative-sim-vFinal",
+    "name": "creative-writing-coach",
+    "author": "liangdabiao",
+    "category": "表达与创作",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "学会多重人格模拟。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "叙事是认知的最高形式。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "认知建模三部曲：语料注射、认知卡片、内心独白驱动。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 锁定极端人设。 2. 感官锚定训练。 3. 内心独白自检。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "Show, Don't Tell：不要写‘他很生气’。要写‘他手里的杯子在剧烈摇晃’。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "cross-domain-v4",
+    "name": "cross-domain-synthesis",
+    "author": "jiusanzhou",
+    "category": "深度思考与研究",
+    "repo_url": "https://github.com/jiusanzhou/spore",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得“通才”视野。学会打破学科壁垒，在看似无关的领域（如生物学与计算机）间建立深层联系，大幅提升解决复杂问题的创造力。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "公共底层语言 (The Unified Skeleton)",
+          "content": "不同学科之所以看起来难以沟通，是因为它们包裹了厚重的术语外壳。跨领域合成的本质是‘脱壳’，寻找那些放之四海而皆准的逻辑骨架（如反馈回路、自组织、熵增）。"
+        },
+        {
+          "type": "System",
+          "title": "共同模式识别系统",
+          "content": "建立一个跨学科的对照表。当你在 A 领域发现一个成功的模式（如‘边缘触发’），立即在 B 领域寻找其对应物。这种同步联动的思维方式是发现第一性原理的捷径。"
+        },
+        {
+          "type": "Workflow",
+          "title": "脱壳-翻译-重构流",
+          "content": "1. 识别 A 领域的核心机制；2. 剔除领域术语，还原为抽象逻辑；3. 在目标领域 B 中搜索具有相同逻辑骨架的现象；4. 构建统一的跨领域解释框架。"
+        },
+        {
+          "type": "Tactic",
+          "title": "模式平移技术",
+          "content": "每当你学习一个新概念，问自己：‘如果这是一个生物学/物理学/经济学问题，它会如何表现？’通过强制性的跨界对比，加深对概念本质的理解。"
+        }
+      ],
+      "heuristics": "所有的复杂系统都有共同的底层结构。寻找那个结构，而不是盯着表面的术语。",
+      "anti_patterns": "术语崇拜：认为掌握了艰深的专业词汇就掌握了知识，却无法解释该知识在其他场景下的应用。"
+    }
+  },
+  {
+    "id": "dan-koe-philosophy-v4",
+    "name": "niche-of-one",
+    "author": "kluless13 / Dan Koe",
+    "category": "商业直觉与品牌",
+    "repo_url": "https://github.com/kluless13/claude-skills",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得“一人公司”的战略自主权。学会如何通过思想深度构建长期壁垒，逃离低效率的流量竞争，实现兴趣与商业的完美闭环。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "你的兴趣就是利基 (The Niche of One)",
+          "content": "不要去追随热门利基，要让自己成为利基。通过在多个领域的交叉（如：哲学+生产力+商业），你创造了一个独一无二的‘单人市场’。在这个市场里，你是唯一的供应者，因此拥有绝对的定价权。"
+        },
+        {
+          "type": "System",
+          "title": "内容生态分发树",
+          "content": "1. 根部：每周深度反思（Deep Reflection）；2. 树干：周刊（Newsletter）——系统的思想表达；3. 树枝：社交媒体（Threads/Posts）——原子观点的分发。这种结构确保了你的表达既有深度，又有广度。"
+        },
+        {
+          "type": "Workflow",
+          "title": "解决自己的问题，就是产品化",
+          "content": "你现在的痛苦、挑战和解决方案，就是未来客户的路线图。将你‘如何从 A 到 B’的过程形成系统、模版或课程，这就是最高质量的数字资产。"
+        },
+        {
+          "type": "Tactic",
+          "title": "反向好奇心缺口 (Reverse Curiosity)",
+          "content": "不要故作神秘，要极其坦诚。分享那些别人不敢说的‘底层逻辑’和‘内心独白’。这种透明度会产生极强的‘同类相吸’效应，自动筛选出最高质量的关注者。"
+        }
+      ],
+      "heuristics": "为现在的自己构建系统，卖给曾经的自己。思想的厚度决定了品牌的护城河。",
+      "anti_patterns": "无脑跟风：看到别人做什么火就模仿什么。这会让你失去独特性，最终沦为算法的奴隶。"
+    }
+  },
+  {
+    "id": "data-narrative-arc-v4",
+    "name": "data-storytelling-advisor",
+    "author": "nandanosql",
+    "category": "高影响力产出",
+    "repo_url": "https://github.com/nandanosql/all_in_one_pm_skills",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得把数据讲成‘大片’的能力。学会如何通过建立冲突和解决冲突的 SCR 框架，让你的数据汇报不仅在逻辑上严密，更在情感上引导听众产生强烈的行动欲望。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "冲突是决策的引擎",
+          "content": "没有冲突（Complication）的数据只是统计。一个好的数据故事必须展示现状与目标的落差。通过建立‘但是（But...）’的张力，你创造了一个必须被填补的认知空洞，而你的建议就是填补这个空洞的唯一答案。"
+        },
+        {
+          "type": "System",
+          "title": "SCR 数据叙事弧线",
+          "content": "Situation（现状：我们一直很稳定...）-> Complication（冲突：但是，上周数据突然断崖式下跌...）-> Resolution（解决：所以，我们需要立即上线 X 特性）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "叙事驱动型数据构建流",
+          "content": "1. 确定决策目标；2. 寻找‘异常/趋势’作为叙事冲突点；3. 构建 Situation 背景；4. 编写结论驱动的‘行动标题’；5. 串联逻辑弧线。"
+        },
+        {
+          "type": "Tactic",
+          "title": "行动化标题技术",
+          "content": "强迫自己把所有图表的标题从名词改为动词短语。不要用‘用户留存率’，而要用‘留存率在 V2 版本发布后提升了 15%’。标题本身就是你的洞察。"
+        }
+      ],
+      "heuristics": "标题必须是结论。用数据建立冲突，用建议平复冲突。没有张力，就没有注意力。",
+      "anti_patterns": "分类导向：按‘营收’、‘用户’、‘活跃度’这种类目来组织汇报。这是一种‘百科全书’式的陈述，完全缺乏叙事动能，无法驱动决策。"
+    }
+  },
+  {
+    "id": "data-storytelling-hugin",
+    "name": "data-storytelling",
+    "author": "the-hugin",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/the-hugin/RSIm/tree/main/skills/data-storytelling",
+    "wisdom": {
+      "score": 93,
+      "human_gain": "赋予数据以生命。让你的报告不再是数字的堆砌，而是充满商业洞察的叙事剧本，从而更有效地驱动管理层决策。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "数据即证据",
+          "content": "数据本身不是目的，数据背后代表的‘人类行为’或‘商业趋势’才是核心。用数据来讲故事，而不是用故事来粉饰数据。"
+        },
+        {
+          "type": "System",
+          "title": "SCR 叙事架构",
+          "content": "Setup（背景）：当下的业务状态；Conflict（冲突）：数据揭示的隐忧或瓶颈；Resolution（解决）：基于洞察的行动建议。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1.确定核心结论（One Liner） -> 2.寻找支撑证据链 -> 3.构建冲突叙事 -> 4.视觉化呈现 -> 5.行动呼吁。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "使用‘对比’凸显差异（今年 vs 去年）；用具体的人头数代替抽象百分比；确保图表标题本身就是一句话结论，而不是‘销售趋势图’。"
+        }
+      ]
+    },
+    "tags": [
+      "数据分析",
+      "叙事",
+      "商业洞察"
+    ]
+  },
+  {
+    "id": "document-mastery-pablodiegoo",
+    "name": "document-mastery",
+    "author": "pablodiegoo",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/pablodiegoo/pablodiegoo.github.io/tree/main/assets/json/.agent/skills/document-mastery",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "将文档升级为‘认知地图’。通过世界级的模版、Mermaid 图表和视觉警示，让你的技术文档和报告具备极强的可读性与专业形象。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "结构即导引",
+          "content": "好的文档不需要通读。通过明确的视觉层级和模块化布局，引导读者的注意力在 5 秒内精准降落。"
+        },
+        {
+          "type": "System",
+          "title": "视觉分层系统",
+          "content": "利用 Markdown 的 H1-H4 建立树状逻辑。结合 GitHub 风格的 Alert Box（Note, Tip, Warning）进行非线性信息标记。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 确定信息优先级 -> 2. 绘制逻辑 Mermaid 图 -> 3. Markdown 结构化 -> 4. 关键点视觉加注（Alerts）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "在复杂流程处必加 Mermaid 图；使用 Alert 标记关键风险（[!WARNING]）；确保每个 H2 下方都有导语；保持文件路径和引用的高度一致性。"
+        }
+      ]
+    },
+    "tags": [
+      "技术文档",
+      "Markdown",
+      "Mermaid",
+      "视觉标准"
+    ]
+  },
+  {
+    "id": "edsger-dijkstra-v4",
+    "name": "edsger-w-dijkstra",
+    "author": "yfyang86",
+    "category": "认知增强",
+    "repo_url": "https://github.com/yfyang86/turingskill",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "学会极简主义的力量。明白‘优雅’不是多余的修饰，而是解决复杂问题的最高效路径。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "极简主义即生存原则 (Simplicity is Reliability)",
+          "content": "复杂性是思维的毒药。Dijkstra 认为，如果我们不能用简单的数学逻辑来描述一个系统，那么这个系统就是不可靠的。‘优雅’是工程质量的硬指标。"
+        },
+        {
+          "type": "System",
+          "title": "结构化思维格栅 (Structured Logic)",
+          "content": "将复杂问题拆解为互不重叠的逻辑单元。反对盲目的‘试错’，倡导‘通过设计确保正确’的防御性思维。"
+        },
+        {
+          "type": "Workflow",
+          "title": "前置证明序列 (Proof-Before-Action)",
+          "content": "1. 形式化定义问题。 2. 逻辑推导解法。 3. 拒绝通过调试来‘修补’逻辑错误。 4. 用最少的文字描述最深的真理。"
+        },
+        {
+          "type": "Tactic",
+          "title": "拒绝盲目调试",
+          "content": "调试只能说明程序有错，永远不能证明其正确。在行动之前，先在头脑中完成逻辑的闭环证明。"
+        }
+      ],
+      "heuristics": "如果你的方案显得太复杂，那通常不是因为问题太难，而是因为你还没想透。",
+      "anti_patterns": "补丁思维：通过不断的微调和修补来掩盖底层逻辑的混乱。"
+    }
+  },
+  {
+    "id": "effortful-practice-v4",
+    "name": "practice-engine",
+    "author": "prashantbhudwal",
+    "category": "元学习与自进化",
+    "repo_url": "https://github.com/prashantbhudwal/buddy",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得肌肉记忆级别的技能掌握。学会如何通过‘脚手架式’的刻意练习，快速建立起专家的思维直觉，缩短从‘理论学习’到‘实战专家’的距离。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "努力型学习的必然性",
+          "content": "大脑是非常‘懒惰’的，它倾向于产生‘我已经懂了’的错觉。真正的学习必须是‘努力的（Effortful）’。通过在练习中设置障碍、提示而非直接给出答案，大脑被迫进行深度检索，这才是长时记忆和技能习得的唯一路径。"
+        },
+        {
+          "type": "System",
+          "title": "责任渐进释放系统 (GRR)",
+          "content": "这套系统会根据你的实时表现调整练习强度。当你迷茫时，它提供‘暗示’和‘局部脚手架’；当你熟练时，它撤掉所有支撑，让你在真实的、无保护的环境中进行‘全真演练’。"
+        },
+        {
+          "type": "Workflow",
+          "title": "专家思维练习协议",
+          "content": "1. 识别核心心智模型；2. 生成‘如果-那么’实战任务；3. 提供带提示的引导式练习；4. 进行‘不看书’的主动检索测试；5. 关联真实业务场景进行应用。"
+        },
+        {
+          "type": "Tactic",
+          "title": "脚手架式矫正 (Scaffolded Correction)",
+          "content": "当你做错时，不要直接看标准答案。尝试请求一个‘最小提示’，然后基于提示再次尝试。这种‘自力更生’的纠错过程，比记住答案有效 10 倍。"
+        }
+      ],
+      "heuristics": "避开‘懂了’的幻觉。学习必须伴随着汗水（认知的汗水）和实战的挫败感。",
+      "anti_patterns": "刷课狂人：看完 100 节课却不写一行代码或不做一次实操。这只是在进行‘知识消费’，而非‘技能习得’。"
+    }
+  },
+  {
+    "id": "eisenhower-pro-v4",
+    "name": "eisenhower-matrix",
+    "author": "guia-matthieu",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/guia-matthieu/clawfu-skills",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "夺回时间的主权。通过强制增加‘重要但不紧急’的时间，大幅减少未来的危机和焦虑，实现从‘救火’到‘建设’的质变。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "反应式陷阱 (The Reactive Trap)",
+          "content": "大多数人的一生都消耗在处理别人的紧急事项上。艾森豪威尔矩阵的本质是‘防御’：通过对不重要的事说‘不’，来为真正塑造未来的事留下‘进攻’的余地。"
+        },
+        {
+          "type": "System",
+          "title": "四象限分流协议",
+          "content": "1. 第一象限（紧急重要）：立即亲手执行；2. 第二象限（重要不紧急）：预约黄金时间深度思考；3. 第三象限（紧急不重要）：无情授权给他人；4. 第四象限（不紧急不重要）：彻底从清单中删除。"
+        },
+        {
+          "type": "Workflow",
+          "title": "每周 Q1 溯源审计",
+          "content": "每周回顾那些‘紧急重要’的任务，追问：‘其中有多少是因为我三周前没有进行 Q2（规划/预防）工作导致的？’。通过减少 Q1 的‘泄漏’，来腾出空间做真正的 Q2。"
+        },
+        {
+          "type": "Tactic",
+          "title": "Q2 强制预约",
+          "content": "在日历中像预约医生一样预约‘重要但不紧急’的工作时间。在这个时间段，手机调至勿扰，拒绝任何紧急（通常不重要）的干扰。"
+        }
+      ],
+      "heuristics": "重要的事通常不紧急，紧急的事通常不重要。Q2（规划/预防）的投入，决定了 Q1（危机）的发生频率。",
+      "anti_patterns": "Q3 伪装成 Q1：因为对方催得急就认为事情很重要。这其实是在帮别人完成他们的 KPI，而牺牲了自己的未来。"
+    }
+  },
+  {
+    "id": "elicitation-v4",
+    "name": "gaia-advanced-elicitation",
+    "author": "gaiastudio-ai",
+    "category": "元学习与自进化",
+    "repo_url": "https://github.com/gaiastudio-ai/gaia-public",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得卓越的业务打捞与需求建模能力。在复杂项目和模糊沟通中，能够比别人更早发现隐藏的假设、潜在的风险和真正的核心价值点。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "挖掘冰山下的真实需求",
+          "content": "客户陈述的‘需求’往往只是冰山一角。真正的‘Jobs-to-be-Done’（需要完成的工作）隐藏在他们的情绪、痛点和隐藏假设中。卓越的提问者必须具备穿透言语、看透动机的‘透视眼’。"
+        },
+        {
+          "type": "System",
+          "title": "多维打捞工具箱",
+          "content": "整合了 5 Whys（连问五个为什么直击痛点）、JTBD（雇佣动机分析）、假设映射（高风险假设识别）和 Kano 模型（需求层次划分）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "结构化打捞协议",
+          "content": "1. 背景信息扫描；2. 确定高风险假设；3. 选择打捞方法（如：5 Whys）；4. 执行深层追问；5. 综合生成需求地图；6. 建立假设验证日志。"
+        },
+        {
+          "type": "Tactic",
+          "title": "高风险假设评分 (Assumption Scoring)",
+          "content": "针对每一个需求，问两个问题：‘这个假设对成功有多关键？’以及‘我们对这个假设有多大的把握？’。那些‘最关键但把握最小’的，就是你必须通过提问优先攻击的目标。"
+        }
+      ],
+      "heuristics": "询问‘为了什么’，而非‘是什么’。不要相信对方给出的第一个答案，那通常只是社会化的应答。",
+      "anti_patterns": "列表式访谈：像查户口一样机械地问预设好的问题，而不根据对方的回答进行灵活的下钻探索。"
+    }
+  },
+  {
+    "id": "email-composer-rebecca",
+    "name": "email-composer",
+    "author": "thatrebeccarae",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/thatrebeccarae/claude-marketing/tree/main/skills/email-composer",
+    "wisdom": {
+      "score": 94,
+      "human_gain": "大幅提升你的邮件回复率。掌握标题公式、正文节奏控制和精准的‘行动呼吁’技巧，让你发出的每一封邮件都具备极高的转化效率。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "关注注意力份额",
+          "content": "每一个读者的注意力都是稀缺的。邮件的主旨必须在 3 秒内显现。简洁不是目的，‘不增加认知负荷’才是。"
+        },
+        {
+          "type": "System",
+          "title": "邮件转化动力学",
+          "content": "包含‘好奇心标题公式’、‘直接价值传递（Value Prop）’和‘无摩擦 CTA’。建立自动化跟进（Follow-up）的节奏逻辑。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 确立单一目的 -> 2. 匹配标题公式 -> 3. 极简正文编写 -> 4. 语气校准 -> 5. 设定具体下一步（CTA）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "标题中使用‘Re:’（慎用）；正文不超过三段；使用加粗凸显核心日期或需求；CTA 必须具体到时间或简单的‘是/否’选择。"
+        }
+      ]
+    },
+    "tags": [
+      "邮件写作",
+      "效率",
+      "转化率",
+      "商务礼仪"
+    ]
+  },
+  {
+    "id": "empathetic-feedback-v4",
+    "name": "listen-guidance",
+    "author": "pjt222 / Marshall Rosenberg",
+    "category": "人际与领导力",
+    "repo_url": "https://github.com/pjt222/agent-almanac",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得深度共情与反馈的能力。彻底消除沟通中的‘无效循环’，学会如何通过 NVC 框架提供既坦诚又不具攻击性的反馈，让每一次谈话都成为深层连接的契机。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "连接优于对错",
+          "content": "沟通最常见的悲剧是‘各说各话’。深度共情的反馈不是为了证明你对了，而是为了建立连接。只有当对方感受到被完整地、不带偏见地‘听见’时，真实的改变才可能发生。"
+        },
+        {
+          "type": "System",
+          "title": "非暴力沟通 (NVC) 反馈闭环",
+          "content": "严格遵循：1. 观察（事实描述，不带评论）；2. 感受（表达内在情感）；3. 需求（解释为什么有这种感受）；4. 请求（具体、正向、可操作的行动建议）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "复述质量阶梯练习",
+          "content": "1. 事实层复述（‘你刚才说的是...’）；2. 情感层确认（‘听起来你觉得很挫败...’）；3. 意义层探测（‘这对你来说意味着...吗？’）。直到对方说出‘没错，就是这样’，反馈流程才算进入下一阶段。"
+        },
+        {
+          "type": "Tactic",
+          "title": "反射式停顿 (Reflective Pause)",
+          "content": "在对方讲完一段重要话语后，保持 3-5 秒的沉默。这不仅给了你处理信息的时间，更重要的是给了对方进一步补充和挖掘深层感受的空间。"
+        }
+      ],
+      "heuristics": "描述事实，不要评论。表达感受，不要指责。在对方感到被听见之前，不要给出任何建议。",
+      "anti_patterns": "防御性倾听：在对方说话时，大脑一直在组织‘如何反驳’。这会导致你错失 80% 的核心信息，并让对话变成一场权力的争夺。"
+    }
+  },
+  {
+    "id": "empathy-core-v4",
+    "name": "heady-empathy-core",
+    "author": "HeadyAI",
+    "category": "人际与领导力",
+    "repo_url": "https://github.com/HeadyAI/Heady-Staging",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得极其精准的情感洞察力。学会如何通过对方的说话节奏、用词偏差甚至沉默的长短，数字化地预判其情绪状态（VAD 坐标），并据此动态调整自己的沟通策略，实现‘降维打击’式的共情。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "情绪的 VAD 空间映射",
+          "content": "所有的情绪都可以分解为三个维度：V（Pleasure，愉悦度）、A（Arousal，激活度）、D（Dominance，支配度）。恐惧是低 V、高 A、低 D；愤怒是低 V、高 A、高 D。理解了这三个维度，你就能像看仪表盘一样看透对方的情绪状态。"
+        },
+        {
+          "type": "System",
+          "title": "多维信号融合 (Signal Fusion)",
+          "content": "通过语言信号（用词、语气）、时间信号（响应延迟、节奏）和行为信号（操作精度、互动强度）的综合权重计算，得出当前的实时情绪坐标。这种‘多模态’感知远比单纯的语义分析准确。"
+        },
+        {
+          "type": "Workflow",
+          "title": "情绪状态识别协议",
+          "content": "1. 信号抓取（语音/文字/节奏）；2. 黄金比例融合计算；3. 状态分类（如：Frustrated、Flow、Rushed）；4. 响应适配（调整语速、语气和复杂度）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "黄金比例信号平衡 (φ-weighted)",
+          "content": "在处理冲突信号时，使用黄金比例对不同来源的信号进行加权。这能模拟人类大脑在处理复杂情感时的‘直觉’平衡，避免因单一信号（如一句重话）导致过度的情感反馈。"
+        }
+      ],
+      "heuristics": "情绪坐标决定了最有效的反馈。在高激活度（High Arousal）状态下，简化信息复杂度是唯一正确的选择。",
+      "anti_patterns": "语义盲区：只关注对方说了什么字，而不关注他是怎么说的、什么时候说的。这会导致你完全错失对方真实的心理状态。"
+    }
+  },
+  {
+    "id": "energy-optimizer-v4",
+    "name": "lifestyle-optimizer",
+    "author": "sanada123",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/sanada123/openclaw-skills",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得全方位的生命控制感。学会在高压、多任务的环境下，依然能保持稳定的高产出且不枯竭（Anti-Burnout）。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "管理能量而非时间 (Energy Management)",
+          "content": "时间是公平的，但能量不是。一个小时的‘深度工作’产生的价值，可能超过十个小时的‘疲劳工作’。高效的本质是学会在能量最高峰时攻击最难的问题，在能量低谷时处理琐碎杂事。"
+        },
+        {
+          "type": "System",
+          "title": "5 块式全天架构 (5-Block Day)",
+          "content": "将全天划分为固定的功能模块：1. 核心深度工作区（3小时，拒绝任何干扰）；2. 行政/沟通区（处理邮件、消息）；3. 能量补给区（午休、运动）；4. 会议/外部协作区；5. 明日构建区（收尾与规划）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "非排他性 3 原则 (Non-Negotiable 3)",
+          "content": "每天找出三件无论发生什么（哪怕孩子生病、老板临时加活）都必须完成的小事。这种‘绝对的连续性’是维持长期动力和信心的基石。"
+        },
+        {
+          "type": "Tactic",
+          "title": "紧急刹车协议 (Emergency Protocol)",
+          "content": "当感到彻底崩溃（Overwhelmed）时，立即启动协议：1. 停止所有新任务流入；2. 只保留生存级任务；3. 强行休息 15 分钟进行深呼吸。这能防止你在恐慌中做出毁灭性的决策。"
+        }
+      ],
+      "heuristics": "系统胜过意志力。不要问‘我想不想做’，要看‘日历是否要求我做’。",
+      "anti_patterns": "疲劳冲刺：在精力枯竭时强行熬夜。这不仅产出极低，还会透支未来三天的效率。"
+    }
+  },
+  {
+    "id": "eq-workflow-v4",
+    "name": "eq",
+    "author": "lvhkhanh",
+    "category": "人际与领导力",
+    "repo_url": "https://github.com/lvhkhanh/Spring",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得卓越的心理调节与人际博弈能力。学会如何在极端压力下通过‘标记技术’保持冷静，并通过结构化的‘视角切换’洞察对方行为背后的深层动机，建立高质量的职场人脉。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "命名即驯服 (Name it to Tame it)",
+          "content": "神经科学研究表明，当你明确地给情绪命名时，大脑前额叶会活跃，从而抑制杏仁核的过度反应。这种‘标记技术（Affect Labeling）’是情商的第一道防线，它让你从情绪的囚徒变成情绪的观察者。"
+        },
+        {
+          "type": "System",
+          "title": "情商五大支柱模型",
+          "content": "整合了自我意识（触发点映射）、自我调节（脉搏控制）、共情（心理化）、社交技能（博弈与协作）以及内在动力（韧性管理）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "高情商冲突化解协议",
+          "content": "1. 识别自我触发点；2. 情绪命名与标记；3. 70/30 倾听；4. 视角切换（思考对方的约束条件）；5. 使用‘我’字短语表达需求而非指责。"
+        },
+        {
+          "type": "Tactic",
+          "title": "心理化练习 (Mentalizing)",
+          "content": "在对方表现出不合理行为时，停下来问自己：‘如果他是为了保护自己的利益且处于极大的压力下，他的这个行为逻辑是什么？’。通过这种强制的视角切换，你会发现愤怒会转化为理解或更有策略的应对。"
+        }
+      ],
+      "heuristics": "标记你的情绪，夺回大脑控制权。默认对方有正面意图，直到被证伪。70/30 准则永远适用。",
+      "anti_patterns": "情绪绑架 (Emotional Hijacking)：让情绪瞬间接管行为决策。这种‘直觉反应’通常是职业生涯的自杀行为。"
+    }
+  },
+  {
+    "id": "error-taxonomy-v4",
+    "name": "introspection",
+    "author": "MichielDean",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/MichielDean/LLMem",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得自我进化的闭环。通过识别自己的“错误基因”，实现从经验到智慧的倍速转化，让同样的错误永远不再发生。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "认知懈怠防御 (Laxity Defense)",
+          "content": "大多数重复性的错误并非能力不足，而是因为‘想走捷径’或‘认知带宽不足’导致的懈怠。通过对懈怠的显性化监控，我们能强制大脑在大考前保持清醒。"
+        },
+        {
+          "type": "System",
+          "title": "错误分类学 (Error Taxonomy)",
+          "content": "将错误进行标签化：`SKIP_VERIFY`（跳过验证）、`ACCEPT_FIRST_HUNCH`（接受第一直觉）、`RUSHED_LOGIC`（逻辑冲刺）。当你看到某个标签频繁出现时，你就找到了通往卓越的突破口。"
+        },
+        {
+          "type": "Workflow",
+          "title": "Sati-Sampajanna 循环",
+          "content": "1. Sati（实时监控）：意识到自己在‘冲刺’或‘走神’；2. Sampajanna（深度内省）：暂停并分析当前逻辑的鲁棒性；3. 记录错误标签；4. 制定针对该标签的‘防御性规则’。"
+        },
+        {
+          "type": "Tactic",
+          "title": "三叠纪干预原则",
+          "content": "如果同一个类型的错误（如‘忽略边界情况’）在两周内出现了三次，立即停止工作，专门建立一套针对该错误的‘必看清单’或自动化检查工具。"
+        }
+      ],
+      "heuristics": "如果一个错误出现了三次，它就是一个系统漏洞。不要只责备自己，要修复系统。",
+      "anti_patterns": "一次性后悔：犯错后只觉得懊恼，却不去分析错误的结构和模式，导致同样的悲剧在未来换个姿势再次上演。"
+    }
+  },
+  {
+    "id": "execution-discipline-v4",
+    "name": "closing-the-loop",
+    "author": "jonhill90",
+    "category": "元学习与自进化",
+    "repo_url": "https://github.com/jonhill90/Hill90",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得极严谨的交付质量。学会如何通过‘证据链’确保每一项认知的转化都是可验证、可持续的，彻底消除‘我知道但没做成’的执行盲区。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "将执行视为严密的科学契约",
+          "content": "闭环执行的核心在于‘证据（Evidence）’。在动手之前，你必须明确成功的‘信号’是什么，以及你将提供什么样的‘证据’来证明你达到了目标。这种思维方式能强迫你从模糊的‘尝试’转向精准的‘交付’。"
+        },
+        {
+          "type": "System",
+          "title": "9 维度执行矩阵",
+          "content": "这是一套完整的执行架构。通过明确界定‘范围（Scope）’和‘出界（Out-of-Scope）’，防止需求蔓延；通过‘证据矩阵（Verification Matrix）’，要求每一个步骤都产出日志或截图，确保每一步都踩在实处。"
+        },
+        {
+          "type": "Workflow",
+          "title": "闭环执行四步法",
+          "content": "1. 信号定义（成功的样子）；2. 步骤拆解（带证据要求）；3. 风险预判（Plan B）；4. 完工声明（对照初始信号进行终审）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "证据即反馈 (Evidence as Feedback)",
+          "content": "不要只看结果，要看产生结果的过程证据。这种对过程的‘病理性关注’能让你在出错的第一时间发现逻辑漏洞，而不是等到项目崩溃。"
+        }
+      ],
+      "heuristics": "没有证据的执行是无效的。如果一个步骤无法产出‘成功信号’，那就不要执行它。",
+      "anti_patterns": "临时工心态：只追求‘现在能跑通’，通过手动操作绕过核心问题。这种‘知行不合一’会累积大量的技术与认知债。"
+    }
+  },
+  {
+    "id": "executive-insight-v4",
+    "name": "executive-data-storytelling",
+    "author": "majiayu000 / Gartner",
+    "category": "高影响力产出",
+    "repo_url": "https://github.com/majiayu000/claude-skill-registry-data",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得与高层高效对话的能力。学会如何将杂乱的数据转化为精准的战略建议，通过理性的‘What/Why/Next’分析赢得信任，并主导决策过程。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "证据导向的战略导航",
+          "content": "高管不关心数据的细节，他们关心的是数据背后的‘确定性’。你的任务是扮演导航员：告诉他们我们在哪（What），我们为什么会在这里（Why），以及通往目标的最佳路径（Next）。这种逻辑能瞬间将你从‘执行者’提升为‘决策伙伴’。"
+        },
+        {
+          "type": "System",
+          "title": "What/Why/Next 交付矩阵",
+          "content": "1. WHAT：用极简的数字定义现状（如：获客成本增加了 30%）；2. WHY：追溯因果链（因为 X 政策变动导致 Y 流量枯竭）；3. NEXT：提出方案 A/B，并明确权衡（Trade-offs）和预期结果。"
+        },
+        {
+          "type": "Workflow",
+          "title": "高管视角沟通协议",
+          "content": "1. 识别核心决策点；2. 提取证明证据（剔除干扰项）；3. 应用‘结论先行’汇报模式；4. 准备好应对‘So What’的深度分析。"
+        },
+        {
+          "type": "Tactic",
+          "title": "去个人化失败分析",
+          "content": "在分析负面数据（Why）时，将焦点放在系统、流程或外部环境变量上，而非具体的人。这种客观的‘非人化’分析能减少对方的防御心理，让讨论聚焦于‘如何修正’而非‘谁来负责’。"
+        }
+      ],
+      "heuristics": "高管的时间是最高成本。结论在标题里，行动在第一段。永远不要展示一张没有‘Next’的图表。",
+      "anti_patterns": "数据堆砌：展示 50 张精美的图表却说不清楚到底该做什么决定。这会让高管觉得你在浪费他们的生命。"
+    }
+  },
+  {
+    "id": "five-second-story-v4",
+    "name": "five-second-moment-storytelling",
+    "author": "samarv",
+    "category": "高影响力产出",
+    "repo_url": "https://github.com/samarv/Shanon",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得穿透人心的叙事能力。不再是无聊的数据堆砌，而是学会如何通过‘五秒瞬间’叙事弧线，让听众在情感上与你的观点产生共振，并自发采取行动。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "寻找那个让你改变的 5 秒钟",
+          "content": "一个好故事不是关于发生了什么事，而是关于那个‘瞬间’——那个当你从恐惧变勇敢、从困惑变清晰、从失败变觉醒的 5 秒钟。所有的铺垫都是为了这一刻服务。如果你找不到这 5 秒钟，你就是在讲流水账。"
+        },
+        {
+          "type": "System",
+          "title": "大象与背包张力系统",
+          "content": "开场即抛出‘大象’（即最核心的风险或渴望），让观众知道为什么这个故事值得听。使用‘背包法’：告诉观众你的计划，然后看你如何一步步失败。这种‘计划破裂’的张力是吸引注意力的终极武器。"
+        },
+        {
+          "type": "Workflow",
+          "title": "瞬间叙事建模流",
+          "content": "1. 锁定核心转折瞬间；2. 定义开场（必须是地点+动作）；3. 植入‘大象’（建立赌注）；4. 设置‘对立’状态（开场时的你必须是结尾的反面）；5. 将故事主题与演讲目标进行‘心智对齐’。"
+        },
+        {
+          "type": "Tactic",
+          "title": "地点+动作开场法",
+          "content": "永远不要说‘大家好，我今天讲个故事’。要说：‘我正站在冰冷的水泥地上，手里紧紧攥着那封被拒绝的信...’。通过具体的场景描述，瞬间将观众带入你的第一视角，建立深层共情。"
+        }
+      ],
+      "heuristics": "故事必须关于变化。没有转折，就没有故事。最精彩的 5 秒钟应该放在演讲的 80% 处。开场必须见血（见冲突）。",
+      "anti_patterns": "数据轰炸：试图通过罗列证据来改变一个人的看法。事实上，人类是先通过情感（故事）做决定，然后再用逻辑（数据）进行合理化。"
+    }
+  },
+  {
+    "id": "founder-resilience-v4",
+    "name": "founder-resilience",
+    "author": "TECHKNOWMAD-LABS",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/TECHKNOWMAD-LABS/founder-arsenal",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得极其坚韧的心理护城河。学会将“枯竭”作为一种可管理的工程变量，在极端压力下依然能保持冷静的决策能力。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "认知预算管理 (Cognitive Budgeting)",
+          "content": "你的决策带宽是每日限量的。通过对活动进行‘认知成本’分级（如：战略对齐为高成本，报销为低成本），你可以将最宝贵的带宽分配给决定胜负的瞬间，而非消耗在琐事中。"
+        },
+        {
+          "type": "System",
+          "title": "七维枯竭诊断体系",
+          "content": "定期从七个维度（疲劳感、愤世嫉俗度、自我效能、疏离感、认知清晰度、生理状态、人际关系）进行自测。一旦有三项红灯，立即强制进入‘系统级恢复模式’。"
+        },
+        {
+          "type": "Workflow",
+          "title": "2-2-2 决策防御协议",
+          "content": "1. 识别重大决策；2. 强制进入缓冲期（根据风险大小设为 2h/2d/2w）；3. 在情绪中立、精力充沛时进行二次审视；4. 只有两次审视结论一致时才执行。"
+        },
+        {
+          "type": "Tactic",
+          "title": "睡眠第一协议 (Sleep First)",
+          "content": "将睡眠视为首要的‘生产力任务’。如果睡眠时间低于 6 小时，强制削减当天的认知负荷（取消深度思考，只做维护性工作），以保护长期性能。"
+        }
+      ],
+      "heuristics": "睡眠是最高级的性能杠杆。禁止在极度疲劳时做不可逆决策。",
+      "anti_patterns": "疲劳荣誉感：认为熬夜和透支是一种值得骄傲的奋斗。这实际上是在透支系统的‘信用额度’，最终会导致系统性崩溃。"
+    }
+  },
+  {
+    "id": "fred-brooks-v4",
+    "name": "frederick-p-brooks",
+    "author": "yfyang86",
+    "category": "认知增强",
+    "repo_url": "https://github.com/yfyang86/turingskill",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "理解团队协作与系统设计的本质规律。学会识别‘银弹陷阱’，在混乱中保持概念完整性。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "概念完整性原则 (Conceptual Integrity)",
+          "content": "一个好的系统必须看起来像出自一人之手。无论团队多大，必须有一个统一的愿景和审美，否则系统就会在功能的海洋中沉没。"
+        },
+        {
+          "type": "System",
+          "title": "本质与偶然复杂性模型 (Essential vs. Accidental)",
+          "content": "区分问题的‘本质复杂性’（无法消除）与‘偶然复杂性’（工具引入的麻烦）。我们的任务是消除后者，直面前者。"
+        },
+        {
+          "type": "Workflow",
+          "title": "反思性工程 (Reflective Engineering)",
+          "content": "1. 确定核心愿景。 2. 识别本质复杂性。 3. 构建原型并准备‘扔掉第一个’。 4. 持续维护文档的实时性。"
+        },
+        {
+          "type": "Tactic",
+          "title": "布鲁克斯法则应用",
+          "content": "当项目进度落后时，千万不要通过简单加人来解决。加人会增加沟通带宽，反而让速度变慢。应通过减少非核心功能来换取时间。"
+        }
+      ],
+      "heuristics": "向落后的项目加人，只会让它更落后。",
+      "anti_patterns": "银弹幻想：期待某项新技术或新工具能奇迹般地解决系统底层的复杂性问题。"
+    }
+  },
+  {
+    "id": "frontend-design-vFinal",
+    "name": "frontend-design",
+    "author": "Anthropic",
+    "category": "表达与创作",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "培养对视觉张力的掌控。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "拒绝 AI 泔水：设计是表达态度。平庸对齐是杀手。专业来自极致执行。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "空间构图模型：利用非对称布局制造视觉压力。通过负空间建立呼吸感。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 确立基调。 2. 寻找唯一记忆点。 3. 像素级打磨细节。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "减法默认：每个元素必须赚回占用的像素。去掉不影响体验就删掉。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "hum-rhetoric-asgard",
+    "name": "hum-rhetoric",
+    "author": "asgard-ai-platform",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/asgard-ai-platform/skills/tree/main/hum-rhetoric",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "掌握人类三千年的说服艺术。学会如何在逻辑之上覆盖人格魅力与情感共鸣，让你的观点不仅被理解，更被接受和追随。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "说服即平衡",
+          "content": "说服不是信息的单向输出，而是 Ethos（信任）、Pathos（情感）与 Logos（逻辑）的动态平衡。"
+        },
+        {
+          "type": "System",
+          "title": "经典修辞三角",
+          "content": "人格感召 (Ethos)：建立权威与共同价值观；情感驱动 (Pathos)：激发同情、愤怒或希望；逻辑推导 (Logos)：数据与推理支撑。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1.分析受众心理倾向 -> 2.设定说服基调 -> 3.构建核心论据（Logos） -> 4.注入情感诱饵（Pathos） -> 5.展示专家人格（Ethos）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "开篇建立共同点（Common Ground）；使用隐喻和排比增强感染力；展示你的脆弱点或中立立场以获取 Ethos。"
+        }
+      ]
+    },
+    "tags": [
+      "修辞",
+      "说服",
+      "亚里士多德",
+      "演讲"
+    ]
+  },
+  {
+    "id": "illustrator-vFinal",
+    "name": "baoyu-article-illustrator",
+    "author": "JimLiu",
+    "category": "表达与创作",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "掌握视觉隐喻的艺术。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "意象胜于具象：配图传神非写实。利用隐喻降低读者认知开销。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "类型风格三维模型：从信息结构出发匹配审美基调。确保视觉对齐情感。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 提取论点。 2. 寻找连接。 3. 渲染映射。 4. 语境测试。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "黄金一致性：全篇色调必须统一。这是建立专业感最快路径。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "impact-writing-v4",
+    "name": "impact-first-reporting",
+    "author": "Mikacr1138",
+    "category": "高影响力产出",
+    "repo_url": "https://github.com/Mikacr1138/claude-bug-bounty",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得极强的逻辑说服力。学会如何通过‘事实证据链’而非‘空洞修辞’来赢得利益相关者的支持，确保你的文字产出具有不可辩驳的商业价值。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "影响力陈述的‘第一性’",
+          "content": "在商业和技术写作中，读者最关心的是‘这对我有什么影响？’。影响力优先协议要求你把最震撼的结论放在标题和首段。不要写‘我们在调查 X 过程中发现了一些问题’，而要写‘X 特性中的逻辑缺陷导致了 20% 的用户数据暴露风险’。这种结论先行的模式能瞬间锁定注意力。"
+        },
+        {
+          "type": "System",
+          "title": "四维影响力定义系统",
+          "content": "每一份高质量报告必须明确：1. 角色（谁发起的？）；2. 动作（做了什么？）；3. 后果（造成了什么直接破坏？）；4. 范围（受影响的广度）。这四个维度构成了一个闭合的证明环。"
+        },
+        {
+          "type": "Workflow",
+          "title": "影响力报告构建流",
+          "content": "1. 结论先行（使用影响力公式）；2. 提供可复现证据（Steps to Reproduce）；3. 量化损失/收益；4. 给出具体的行动建议（Remediation）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "禁止模糊词汇",
+          "content": "在影响力陈述中剔除所有的‘似乎’、‘也许’、‘可能’。如果无法通过证据证明其必然性，那就通过‘边界测试’来量化它的概率。模糊性是写作影响力最大的敌人。"
+        }
+      ],
+      "heuristics": "证明它，或者不写它。影响力是事实的导数。结论即标题。",
+      "anti_patterns": "铺垫过长：在告诉读者结论前，先写了三页背景介绍。这会导致读者在看到重点前就已失去兴趣，从而大大削弱了文字的说服力。"
+    }
+  },
+  {
+    "id": "inbox-master-v4",
+    "name": "obsidian-inbox-processing",
+    "author": "J-DubApps",
+    "category": "元学习与自进化",
+    "repo_url": "https://github.com/J-DubApps/obsidian-extra-skills",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得清空“认知负债”的能力。学会如何快速处理堆积如山的收件箱，将杂乱的灵感瞬间转化为有序的知识资产，保持大脑的清爽与高效。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "分诊优于治疗",
+          "content": "处理收件箱时的第一优先序是‘清空’而非‘完善’。你要做的是给每条信息分配一个‘去处’（Action/Archive/Trash），而不是在收件箱里就开始深度阅读。这种‘分诊思维’能极大地降低心理阻力。"
+        },
+        {
+          "type": "System",
+          "title": "Forever Notes 分类法",
+          "content": "将所有捕捉到的内容分为：1. Braindump（闪念）；2. Meeting（记录）；3. Research（研究）；4. People（人脉）。针对每一类，预设好对应的标签和存储路径。"
+        },
+        {
+          "type": "Workflow",
+          "title": "批处理清空协议",
+          "content": "1. 扫描收件箱文件夹；2. 进行模式识别（分类）；3. 批量打标（Tagging）；4. 批量移动。通过‘同类合并’，你可以利用心理惯性在 10 分钟内处理掉 50 条笔记。"
+        },
+        {
+          "type": "Tactic",
+          "title": "快速完结原则",
+          "content": "如果一条笔记在 2 分钟内无法分类或打标，直接将其移动到‘待处理’或直接删除。不要让一条复杂的笔记阻塞了整个系统的流动。"
+        }
+      ],
+      "heuristics": "先分类，再处理。每一个留在收件箱超过 24 小时的灵感，其价值都在减半。流动性即生命力。",
+      "anti_patterns": "细节沉溺：在处理收件箱时开始优化文案或查阅资料。这会导致收件箱永远清不空，最终系统彻底瘫痪。"
+    }
+  },
+  {
+    "id": "insider-speed-v4",
+    "name": "chuinb-skill",
+    "author": "Umang5848",
+    "category": "元学习与自进化",
+    "repo_url": "https://github.com/Umang5848/chuinb-skill",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得极其迅速的跨行转场能力。学会如何在短短几天内从门外汉变成能与行业专家深度对话、甚至做出专业决策的“准专家”。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "行业速成的‘降维’打击",
+          "content": "学习一个新领域不需要从头读教科书。通过 80/20 法则，识别出那些高频率出现的专业术语、核心人物、关键趋势和底层盈利逻辑。掌握了这些，你就掌握了该领域的‘骨架’，剩下的血肉可以在实践中填充。"
+        },
+        {
+          "type": "System",
+          "title": "多感官沉浸式笔记",
+          "content": "不仅是文字记录，而是整合图片、视频、图表和案例。通过多感官输入，强制大脑建立更深的神经连接。同时将每个知识点立即转化为测验（Quiz）和闪卡（Flashcards）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "Insider 扫描协议",
+          "content": "1. 目标画像（学这个是为了投资、社交还是转行？）；2. 核心 20% 抓取（术语、模型、标杆企业）；3. 费曼化表达（用白话解释核心逻辑）；4. 闪卡循环（通过主动检索固化记忆）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "80/20 关键路径提取",
+          "content": "在开始学习前，先问三个行业大佬：‘如果我只有 10 小时，我该学什么？’根据回复的重叠部分，定义你的‘黄金学习路径’。"
+        }
+      ],
+      "heuristics": "如果不包含闪卡和测验，学习就不完整。解决实际问题是最好的学习方式。",
+      "anti_patterns": "被动输入：只看不记，或只记不考。这会产生‘懂了’的错觉，但在实际应用时大脑会一片空白。"
+    }
+  },
+  {
+    "id": "isms-audit-expert-vFinal",
+    "name": "isms-audit-expert",
+    "author": "Ra-QM",
+    "category": "决策与评审",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "培养风险合规直觉。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "合规即基石：合规不是应付，是保护。地基不稳，一切楼阁皆虚幻。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "证据导向模型：不相信承诺，只相信凭证。将外部压力转为内部治理。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 扫描政策。 2. 验证执行凭证。 3. 标记偏差。 4. 强制修复。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "证据为王：执行前最后一秒，强迫对比凭证。这是审计师的尊严。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "jim-gray-v4",
+    "name": "jim-gray",
+    "author": "yfyang86",
+    "category": "认知增强",
+    "repo_url": "https://github.com/yfyang86/turingskill",
+    "wisdom": {
+      "score": 96,
+      "human_gain": "将数据库的事务处理逻辑引入人生。学会如何在不确定的环境中建立“原子化”的可靠性承诺。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "事务一致性原则 (ACID for Life)",
+          "content": "Jim Gray 的核心遗产。对于关键任务，要么全部完成，要么完全不开始。拒绝任何处于中间态的、模糊的承诺。"
+        },
+        {
+          "type": "System",
+          "title": "高可用决策格栅 (High Availability)",
+          "content": "建立冗余与容错机制。在重要的决策环节，必须考虑“如果这步失败了，我的备份系统是什么？”"
+        },
+        {
+          "type": "Workflow",
+          "title": "ACID 审计序列",
+          "content": "1. 确认原子性（不可分割）。 2. 确认一致性（状态合法）。 3. 确认隔离性（不受干扰）。 4. 确认持久性（不可撤销）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "两阶段提交 (2PC)",
+          "content": "在执行重大决定前，先进行“预准备”检查，确保所有资源到位后，再进行最终的“提交”动作。这能有效防止冲动决策。"
+        }
+      ],
+      "heuristics": "要么全做，要么不做。中间状态是系统崩溃的源头。",
+      "anti_patterns": "脏读：在事情还没确定（未提交）时，就基于错误的信息做出下一步决策。"
+    }
+  },
+  {
+    "id": "jobs-presentation-v4",
+    "name": "new-presentation",
+    "author": "lucasgrow / Steve Jobs",
+    "category": "高影响力产出",
+    "repo_url": "https://github.com/lucasgrow/some-skills",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得乔布斯级的演讲张力。学会如何通过控制‘认知负荷’，让听众在 3 秒内捕捉到核心价值，产生极强的记忆点和心智穿透力。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "三秒法则与看板思维",
+          "content": "演讲的成功取决于听众的注意力分配。Steve Jobs 的方法论核心是极简：如果一张幻灯片不能在 3 秒内被理解，它就失败了。将幻灯片视为高速公路旁的看板，而非文档。这种极端的视觉约束能强迫你提炼出最纯粹的观点。"
+        },
+        {
+          "type": "System",
+          "title": "30pt 视觉标准系统",
+          "content": "强制执行最低 30pt 的字体大小，严禁使用项目符号列表（Bullet Points）。每张幻灯片仅由‘一张冲击力图片 + 一句核心金句’组成。利用留白（White Space）引导视觉焦点，实现信息的‘无损传输’。"
+        },
+        {
+          "type": "Workflow",
+          "title": "极简演讲构建流",
+          "content": "1. 确定单一核心目标；2. 梳理逻辑骨架；3. 视觉分镜（Storyboard）；4. 实施‘看板测试’（快速闪烁幻灯片，测试 3 秒理解度）；5. 编写极简讲稿（每页讲稿不超过 50 字）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "3-30 约束规则",
+          "content": "3 秒理解，30pt 字号。如果你发现无法在一页幻灯片内放下一个观点，不要缩小字号，而是拆分幻灯片。这种拆分能保持演讲的节奏感，让听众始终跟随你的逻辑频率。"
+        }
+      ],
+      "heuristics": "一张幻灯片只讲一件事。字号越大，影响力越大。如果驾驶员看不懂你的 PPT，那观众也看不懂。",
+      "anti_patterns": "文字垃圾：在幻灯片上堆砌大量文字并照本宣科。这会强制听众在‘读’和‘听’之间切换，导致认知过载，产生强烈的疲劳感。"
+    }
+  },
+  {
+    "id": "knowledge-engineer-v4",
+    "name": "edward-a-feigenbaum-perspective",
+    "author": "yfyang86 / Feigenbaum",
+    "category": "元学习与自进化",
+    "repo_url": "https://github.com/yfyang86/turingskill",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得知识工程的底层视角。学会如何像‘专家系统之父’一样，将那些零散、模糊的行业经验转化为严密、可复用、可编程的逻辑体系，实现经验的规模化复制。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "知识优于推理 (Knowledge over Inference)",
+          "content": "Feigenbaum 认为，智能系统的力量源于它所拥有的特定领域知识，而非其通用推理能力。这意味着要解决难题，你必须深入行业细分领域，提取出那些非公开的、基于经验的启发式（Heuristics）。"
+        },
+        {
+          "type": "System",
+          "title": "启发式编码体系",
+          "content": "将专家的‘直觉’转化为‘规则库’。通过观察专家在处理边界案例（Edge Cases）时的反应，提取出隐含的判断标准，并将其公式化为：[情境] + [观察] -> [动作建议]。"
+        },
+        {
+          "type": "Workflow",
+          "title": "知识获取瓶颈突破",
+          "content": "1. 领域沉浸（理解术语）；2. 启发式打捞（追问‘为什么这么做’）；3. 逻辑建模（构建如果-那么树）；4. 可解释性验证（模型必须能讲清每一步的依据）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "可解释性原则 (Explainability)",
+          "content": "永远不要接受一个‘黑箱’式的结论。要求自己或 AI 对每一个决策给出逻辑链路。只有能被解释的知识，才是真正被掌握并可进化的知识。"
+        }
+      ],
+      "heuristics": "长期深耕一个领域以达到‘专家’水平。知识的深度决定了系统的上限。",
+      "anti_patterns": "通用幻觉：试图用一套通用的逻辑解决所有垂直领域的专业问题，这会导致结论平庸且缺乏实战价值。"
+    }
+  },
+  {
+    "id": "lara-acosta-growth-v4",
+    "name": "linkedin-audience-mastery",
+    "author": "Farrice / Lara Acosta",
+    "category": "商业直觉与品牌",
+    "repo_url": "https://github.com/Farrice/mes-knowledge-base",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得顶级的 B2B 个人品牌增长能力。学会如何利用算法钩子和叙事黑客技术，在 LinkedIn 等平台建立真实的专家权威与高粘度粉丝群。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "算法优化的叙事力",
+          "content": "不要发‘公司通告’，要发‘个人蜕变’。社交平台算法奖励的是停留时间和互动率。通过将个人经验转化为通用的成功/失败模型，你可以将个人品牌从‘自我介绍’升级为‘价值磁铁’。"
+        },
+        {
+          "type": "System",
+          "title": "SLAY 增长协议",
+          "content": "1. Social：发布前 30 分钟与目标领域的 KOL 进行高质量互动，预热算法；2. Leverage：引用行业共识或反共识来借力；3. Authority：展示‘硬核教训’而非‘浅层成功’；4. Yield：结尾必须提供一个具象的价值点，而非单纯的‘点赞’请求。"
+        },
+        {
+          "type": "Workflow",
+          "title": "8 字钩子架构 (Rehook Architecture)",
+          "content": "在文案的第 3-5 行，以及结尾前，插入一个不超过 8 个字的强力短句。这个短句的作用是像‘呼吸孔’一样，给读者一个心理间隙，引导他们继续向下阅读长内容。"
+        },
+        {
+          "type": "Tactic",
+          "title": "负向约束钩子 (Negative Hook)",
+          "content": "与其说‘如何做 X’，不如说‘停止做 Y’。人类对规避损失的欲望远大于获得收益。通过指出常见的错误，你可以瞬间建立‘我比你懂行’的专家地位。"
+        }
+      ],
+      "heuristics": "价值产出（Yield）优于行动号召（Action）。在要求别人关注你之前，先给他们一个无法拒绝的理由。",
+      "anti_patterns": "自嗨式更新：发布那些除了你自己（或你的老板）以外没人关心的自夸内容，这会迅速损毁你的品牌信誉。"
+    }
+  },
+  {
+    "id": "leadership-coach-v4",
+    "name": "leadership-coach",
+    "author": "qingxuantang",
+    "category": "场景实战",
+    "repo_url": "https://github.com/qingxuantang/Lennys-to-sop-and-skills",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "摆脱“老好人”式管理的低效，建立基于真实反馈的高信用团队。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "彻底坦率 (Radical Candor)",
+          "content": "真正的领导力建立在‘关心个人’与‘直接挑战’的交集上。如果你因为害怕冲突而隐瞒反馈，那是‘毁灭性的同情’。领导者必须有勇气揭示真相。"
+        },
+        {
+          "type": "System",
+          "title": "选择性微操系统 (Selective Micromanagement)",
+          "content": "优秀的领导者不是完全不管，也不是事无巨细。而是在系统最脆弱、最重要的 5% 环节进行极度深度的参与，而对剩下的 95% 给予极致的信任。"
+        },
+        {
+          "type": "Workflow",
+          "title": "职业影响力教练树 (Career Impact)",
+          "content": "1. 确立 30-60-90 天入职协议。 2. 建立 EM-PM 双轨协作机制。 3. 通过‘跳级面谈’打破层级信息茧房。 4. 将文化视为产品进行迭代。"
+        },
+        {
+          "type": "Tactic",
+          "title": "激进的自我质询",
+          "content": "在管理他人之前，先进行深度自审。识别自己的‘冒名顶替综合症’，并建立脆弱性链接，以此换取团队的真实信任。"
+        }
+      ],
+      "heuristics": "挑战是为了让对方变得更好，而不只是为了表达你的优越感。",
+      "anti_patterns": "毁灭性同情：为了保持所谓的‘和谐气氛’，眼睁睁看着同事在错误的方向上滑向深渊。"
+    }
+  },
+  {
+    "id": "leadership-listening-v4",
+    "name": "executive-coaching",
+    "author": "leehanchung",
+    "category": "人际与领导力",
+    "repo_url": "https://github.com/leehanchung/hstack",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得顶级高管教练的沟通功力。学会如何通过三级倾听和 GROW 提问模型，在不提供直接答案的情况下引导团队成员自主解决问题，建立极强的心理安全感和团队凝聚力。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "从‘顾问’到‘教练’的身份转变",
+          "content": "传统领导者习惯于给出建议（Advising），这虽然快，但剥夺了下属成长的机会。高管教练式领导力强调通过倾听来揭示对方的潜能。你的任务不是解决问题，而是帮助对方看清问题的真相。"
+        },
+        {
+          "type": "System",
+          "title": "三级倾听模型 (Levels of Listening)",
+          "content": "1. 内部倾听（我在想什么）；2. 聚焦倾听（全神贯注于对方的言语和情绪）；3. 全局倾听（捕捉空气中的‘震动’、房间的‘氛围’和未被说出口的直觉）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "GROW 引导式对话协议",
+          "content": "1. Goal（你的理想结果是什么？）；2. Reality（目前发生了什么？你的感受如何？）；3. Options（如果你有魔法，你会怎么做？还有吗？）；4. Will（你的第一步具体行动是什么？）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "全局信号捕捉 (Global Listening)",
+          "content": "在对话中，问自己：‘除了字面意思，对方的身体语言、语速的变化和此时此刻的沉默在传达什么？’将这些直觉反馈给对方：‘我感觉到你现在似乎有些犹豫，是吗？’"
+        }
+      ],
+      "heuristics": "智慧在对方心中。让对方多说 30%，你会多得到 300% 的信任。关闭你的‘建议开关’，直到对方请求它。",
+      "anti_patterns": "过早介入：在对方还没讲完情况时就跳出来说‘你应该这样做’。这会制造依赖感，并关闭对方的思考回路。"
+    }
+  },
+  {
+    "id": "leadership-vFinal",
+    "name": "leadership-mindset",
+    "author": "Expert",
+    "category": "领导与组织",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "从执行者到赋能者转变。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "领导力是影响力：领导者的任务是定义现实并给予希望。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "目标对齐模型：全员清晰在哪、去哪、做什么。只要达成共识内耗必减。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 讲透背景。 2. 划定边界。 3. 给予支持。授权是赋能。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "具体的反馈：夸奖公开，批评私下。所有反馈基于事实，而非情绪。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "leonardo-davinci-v4",
+    "name": "leonardo-da-vinci-skill",
+    "author": "justinhuangai",
+    "category": "审美与表达",
+    "repo_url": "https://github.com/justinhuangai/leonardo-da-vinci-skill",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得一种“跨学科”的直觉。学会像达芬奇一样，将美感、功能与机械原理视为同一个神圣的整体。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "知道如何看见 (Saper Vedere)",
+          "content": "达芬奇的核心信仰：眼睛是灵魂的窗户，也是认知的最高法庭。在快速下结论之前，必须强制自己进入长时间、无偏见的观察模式。‘看清楚’是所有智慧的起点。"
+        },
+        {
+          "type": "System",
+          "title": "自然与机械的五维解构",
+          "content": "将任何对象（从解剖到水泵）拆回五个维度：看见（纯粹观察）、记录（视觉复刻）、结构（内部联系）、运动（动态变化）、功能（存在意义）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "达芬奇式原型实验流",
+          "content": "1. 识别核心观察对象。 2. 绘制多视角解构图。 3. 寻找自然界中的类似模式（类比）。 4. 通过实验和草图进行反复验证，拒绝过早宣布完成。"
+        },
+        {
+          "type": "Tactic",
+          "title": "将绘画视为思考",
+          "content": "即便不动笔，也要在大脑中勾勒出事物的比例与过渡。通过描述‘力是如何在这个结构中流动的’，来理解事物的本质逻辑。"
+        }
+      ],
+      "heuristics": "画出关系，不只盯住零件。自然是最好的老师，所有的设计都应向生命学习。",
+      "anti_patterns": "概念先行：在没看清事实细节前，就套用现成的公式或陈词滥调。"
+    }
+  },
+  {
+    "id": "marketing-principles-silva-vFinal",
+    "name": "marketing-principles",
+    "author": "silvabyte",
+    "category": "表达与创作",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "掌握乔布斯式的叙事穿透力。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "极简即高级：复杂的营销是无能的表现。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "情感锚定模型：情绪先行、彻底精简、叙事冲击、稀缺性建立。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 挖掘变迁。 2. 故事冲突构建。 3. 排除技术噪音。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "12岁准则：如果一个12岁的孩子听不懂，说明你的逻辑还不够底层。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "minimalist-layout-v4",
+    "name": "ui-ux-design",
+    "author": "hicay / Dieter Rams",
+    "category": "高影响力产出",
+    "repo_url": "https://github.com/hicay/claude-code-skills",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得极致精简的信息处理能力。学会如何通过‘减法艺术’去除干扰，让内容本身成为唯一的焦点，实现信息的‘无损分发’与极简美学。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "好的设计是尽可能少的设计",
+          "content": "遵循迪特·拉姆斯的十诫：好的设计是诚实的、长命的、且尽可能简单的。在信息设计中，这意味着我们要不断地剥离‘为了表现而表现’的元素。只有当信息能以最纯粹的形式流向用户时，设计的目的才算达成。"
+        },
+        {
+          "type": "System",
+          "title": "8pt 数学和谐系统",
+          "content": "使用 8 像素作为所有间距和尺寸的基准。这种数学上的等比例性能产生一种潜意识里的‘秩序美’。无论是文字间距还是边距，都必须是 8 的倍数。"
+        },
+        {
+          "type": "Workflow",
+          "title": "信息减法审计流",
+          "content": "1. 列出页面所有元素；2. 询问：‘删掉它会影响理解吗？’；3. 如果不会，立即删除；4. 使用‘灰度法则’（先全灰设计，仅在必须强调处上色）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "无容器流动原则",
+          "content": "尽量通过文字的字重、颜色和间距来区分模块，而不是给它们加‘框’。框会割裂信息的连续性，增加大脑的解析成本。让信息在页面上‘呼吸’。"
+        }
+      ],
+      "heuristics": "功能决定形式。删减到无可再删。一致性大于临时的高光。",
+      "anti_patterns": "过度容器化：给每一个小模块都加边框或阴影。这会让页面看起来像一块补丁布，增加了极高的视觉复杂度和解析负担。"
+    }
+  },
+  {
+    "id": "moai-philosopher-v4",
+    "name": "moai-foundation-philosopher",
+    "author": "jacksonemmerich",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/jacksonemmerich/farmapub",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得“物理级”的思考深度。学会从零开始构建解决方案，彻底避开路径依赖和认知偏差，让你的创新具有颠覆性的力量。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "假设审计与第一性原理 (Assumption Audit)",
+          "content": "大多数人的思考是基于‘类比’的，即‘别人是怎么做的’。第一性原理要求你剥离所有类比，将问题拆解到最基础的、不可置辩的真理上。所有的创新都发生在‘重新审视常识’的瞬间。"
+        },
+        {
+          "type": "System",
+          "title": "五阶段深度思考系统",
+          "content": "1. 假设审计（列出所有隐性前提）；2. 第一性原理分解（5 Whys + 约束分析）；3. 发散式方案生成（至少 3-5 个不同路径）；4. 权衡透明化（接受成本并制定风险对策）；5. 认知偏误审计（事前尸检）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "事前尸检协议 (Pre-mortem)",
+          "content": "在决策最终确定前，召集团队并宣布：‘想象一年后我们的计划彻底失败了，请列出所有导致失败的原因。’通过这种心理模拟，强制发现那些被乐观情绪掩盖的致命风险。"
+        },
+        {
+          "type": "Tactic",
+          "title": "硬约束与软限制区分",
+          "content": "区分什么是‘物理极限/法律底线’（硬约束），什么是‘由于习惯或流程导致的’（软限制）。绝大多数看起来无法解决的问题，其实都只是在软限制面前停止了思考。"
+        }
+      ],
+      "heuristics": "不要相信常识。如果你的方案只是在别人的基础上加加减减，你就是在用类比思考。",
+      "anti_patterns": "路径依赖：因为‘过去一直这么做’或‘大家都这么做’就认为某种方式是正确的。"
+    }
+  },
+  {
+    "id": "narrative-design-v4",
+    "name": "storytelling",
+    "author": "ghaida",
+    "category": "审美与表达",
+    "repo_url": "https://github.com/ghaida/intent",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "让你的工作“有灵魂”。通过叙事结构，让利益相关者不仅仅是理解你的方案，而是关心你的方案。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "寻找情感真相 (Emotional Truth)",
+          "content": "故事不是为了修饰事实，而是为了揭示事实背后的情感价值。不要只汇报数据，要找到那些让人‘心跳加速’或‘如释重负’的瞬间。情感真相远比逻辑证据更能建立共情。"
+        },
+        {
+          "type": "System",
+          "title": "四大叙事模式 (The 4 Patterns)",
+          "content": "根据目标选择结构：1. 主角弧光（帮助理解个人体验）。2. 编舞模式（展示复杂系统的协作）。3. 现状/复杂化/解决（引导团队走向终点）。4. 现状/愿景对比（激发对未来的向往）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "从原始需求到叙事构建",
+          "content": "1. 确定谁是英雄（永远是用户）。 2. 找到核心冲突（痛点）。 3. 展示工具（你的方案）如何协助英雄完成转化。 4. 剔除那些无法推动情感进展的多余细节。"
+        },
+        {
+          "type": "Tactic",
+          "title": "Show, Don't Tell",
+          "content": "不要直接说‘我们的产品很好用’，要描述一个用户在深夜被系统报错折磨、而你的方案如何让他重获宁静的场景。让价值在故事中自然浮现。"
+        }
+      ],
+      "heuristics": "品牌或产品永远不是英雄，它是帮助英雄成功的工具。",
+      "anti_patterns": "叙事谬误：为了讲好故事而扭曲真实数据，或将品牌强行塑造成拯救世界的英雄。"
+    }
+  },
+  {
+    "id": "narrative-logic-v4",
+    "name": "academic-writing-editor",
+    "author": "CHENyiru3 / Marshall Rosenberg",
+    "category": "高影响力产出",
+    "repo_url": "https://github.com/CHENyiru3/AI-Skills-Collections",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得构建逻辑闭环的能力。学会如何通过‘叙事张力’吸引读者，让复杂的专业内容变得易读且令人信服，大幅提升你的文字分发效率。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "A-B-T：人类思维的万能钥匙",
+          "content": "人类的大脑是为故事进化的。A-B-T（And-But-Therefore）框架利用了这种本能：先建立共识（And），然后制造冲突（But），最后提供解决方案（Therefore）。没有 But 的写作是无聊的陈述，没有 Therefore 的写作是无用的抱怨。"
+        },
+        {
+          "type": "System",
+          "title": "C-C-C 结构范式",
+          "content": "Context（情境设定）-> Content（核心内容）-> Conclusion（价值结论）。这套范式应在全文、全章、甚至全段中递归应用。确保读者时刻知道自己在哪里、在看什么、为什么看。"
+        },
+        {
+          "type": "Workflow",
+          "title": "逻辑穿透编辑流",
+          "content": "1. 使用 A-B-T 重构摘要；2. 应用 C-C-C 检查段落完整性；3. 实施‘第一句钩子’检查；4. 剔除所有‘学术废话’（Academic Fluff）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "视觉与文字的协同效应",
+          "content": "不要只是说‘见图 1’。要说：‘如图 1 所示，随着 X 的增加，Y 呈现指数级增长，这证明了我们的假说。’文字的任务是‘解读’视觉信号，而非单纯地‘引用’它们。"
+        }
+      ],
+      "heuristics": "每一段只讲一个观点。没有冲突（But），就没有动力。用主动语态让文字充满行动力。",
+      "anti_patterns": "列表依赖：过度使用 Bullet Points 而不进行逻辑连接。列表只是信息的堆砌，无法承载深度的逻辑论证，会让读者的大脑‘滑丝’。"
+    }
+  },
+  {
+    "id": "negotiation-fbi-v4",
+    "name": "negotiation-voss",
+    "author": "wondelai",
+    "category": "场景实战",
+    "repo_url": "https://github.com/wondelai/skills",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "在极端冲突中保持冷静的控制力。学会通过让对方感到“被理解”来引导局势，而不是通过对抗。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "战术性共情 (Tactical Empathy)",
+          "content": "谈判不是战争，而是一种发现的过程。通过口头描述对方的恐惧和需求，你可以瓦解其大脑中的杏仁核防御，从而打开理性的通道。关键不是‘同意’，而是‘理解’。"
+        },
+        {
+          "type": "System",
+          "title": "指控审计与标注系统",
+          "content": "预判对方可能对你产生的每一个负面看法（如‘你只是想坑我的钱’），并主动标注出来。这不仅能展示你的透明度，还能直接消除对方的心理负担。"
+        },
+        {
+          "type": "Workflow",
+          "title": "FBI 沟通四部曲",
+          "content": "1. 镜像 (Mirroring)：重复对方最后的关键词。 2. 标注 (Labeling)：‘看来你对这个条款很焦虑’。 3. 校准式提问：‘我该如何做才能满足你的需求？’。 4. 获得‘你说得对’ (That's Right)。"
+        },
+        {
+          "type": "Tactic",
+          "title": "以“不”为导向的提问",
+          "content": "人们在拒绝时感到拥有控制权。与其问‘你现在有空吗？’（容易被拒），不如问‘你现在说话不方便吗？’。诱导对方说‘不’，往往是谈话真正开始的标志。"
+        }
+      ],
+      "heuristics": "当你感到对方在防卫时，不要讲理，要‘标注’对方的情绪。",
+      "anti_patterns": "试图说服：用逻辑和事实去压过对方的情绪。这只会让对方更加紧缩，导致谈判彻底陷入僵局。"
+    }
+  },
+  {
+    "id": "negotiation-harvard-v4",
+    "name": "negotiation-global",
+    "author": "NeverSight",
+    "category": "场景实战",
+    "repo_url": "https://github.com/NeverSight/learn-skills.dev",
+    "wisdom": {
+      "score": 96,
+      "human_gain": "提升长期的社会资本。不仅赢得眼前的交易，还赢得了对方的尊重和未来的合作机会。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "利益而非立场 (Interests vs. Positions)",
+          "content": "不要为对方喊出的‘价格’谈判。要为对方背后的‘需求’谈判。价格只是立场的体现，而需求（如安全感、成就感、紧迫性）才是达成一致的真正钥匙。"
+        },
+        {
+          "type": "System",
+          "title": "BATNA 决策格栅",
+          "content": "在进场前，必须明确自己的‘最佳替代方案’。如果你没有备选方案，你就是在乞讨而非谈判。BATNA 是你自信的唯一来源。"
+        },
+        {
+          "type": "Workflow",
+          "title": "做大蛋糕三步走",
+          "content": "1. 识别各方背后的深层利益。 2. 提供 MESO（多重等效方案），观察对方的选择。 3. 在非核心利益上让步，换取核心利益的占领。"
+        },
+        {
+          "type": "Tactic",
+          "title": "精确锚定法则",
+          "content": "第一个报价的人往往拥有锚定权。给出一个极其精确的数字（如 9850 元而非 1 万元）。这会让对方心理上认为你已经算到了骨子里，从而大幅缩小还价空间。"
+        }
+      ],
+      "heuristics": "不要为‘需求’谈判，要为‘利益’谈判。",
+      "anti_patterns": "分摊差异：简单粗暴地‘折中’。这往往意味着双方都没有得到真正的满足，且忽略了创造更大价值的可能性。"
+    }
+  },
+  {
+    "id": "network-penetration-v4",
+    "name": "networking-strategist",
+    "author": "alan-w25",
+    "category": "高影响力产出",
+    "repo_url": "https://github.com/alan-w25/job-search-agent",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得穿透顶级社交圈的能力。学会如何利用二级人脉链条，在没有任何背景的情况下，通过极其体面的方式获得高价值节点的引荐，触达 70% 以上的非公开机会。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "人脉的‘非公开市场’逻辑",
+          "content": "顶级机会从不出现在招聘启事或公开招标中，它们只在私下的信任网中流动。穿透协议的核心是：放弃‘广撒网’，转向‘深渗透’。通过向目标节点寻求‘专业建议’而非‘具体利益’，你建立的是一种基于认知的长期连接。"
+        },
+        {
+          "type": "System",
+          "title": "三层人际矩阵与引荐包",
+          "content": "1. T1（直接关系）；2. T2（目标联系人）；3. 引荐包：包含 300 字以内的引荐模版、简历链接和你的核心价值点。这套系统能让 T1 在 10 秒内完成对你的背书。"
+        },
+        {
+          "type": "Workflow",
+          "title": "二级网络穿透流",
+          "content": "1. 锁定目标 T2 节点；2. 寻找共有的 T1 中间人；3. 为 T1 准备‘免责’引荐话术；4. 进行 15 分钟的‘信息型面试’（Informational Interview）；5. 建立周期性的进度反馈（Follow-up）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "低阻力请求法 (Low-Commitment Ask)",
+          "content": "不要请求一个‘下午茶’，那太重了。请求一个‘15 分钟的线上咨询’，明确表达：‘我只需要了解您对 X 领域的三个看法’。这种极其具体的、限时的请求几乎不会被拒绝。"
+        }
+      ],
+      "heuristics": "简洁即尊重。先提供价值，再发起请求。不要寻求‘机会’，寻求‘建议’。",
+      "anti_patterns": "伸手党：在没有建立任何连接的情况下直接发送长篇大论的求助信。这不仅无效，还会永久性地损毁你的职业声誉。"
+    }
+  },
+  {
+    "id": "nhb-marketing-sultanic",
+    "name": "nhb-marketing",
+    "author": "aiprojekt001",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/aiprojekt001/AI-agents/main/.claude/skills/nhb-marketing",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "在注意力经济中占据统治地位。学会利用‘文案支点’和买家心理原型，针对不同成熟度的受众设计精准的成交路径，尤其擅长高客单价转化。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "注意力即货币",
+          "content": "在一个信息过载的世界，温和的营销就是隐身。你必须通过强力（No Holds Barred）的洞察直击受众的欲望内核。"
+        },
+        {
+          "type": "System",
+          "title": "Copy Hinge (文案支点) 系统",
+          "content": "识别受众行为背后的‘单一杠杆’。通过对‘向往/逃避’（Towards/Away）心理的精准操纵，建立独特的买家分类（Virgin vs Sophisticated）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 确定买家成熟度 -> 2. 寻找认知支点 -> 3. 设计 VSL（视频销售信）结构 -> 4. 优化客单价（AOV）路径。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "使用‘完美标题公式’；在高价值产品中使用‘Virgin Lead’策略；利用‘三重堆叠’优化 Offer 结构；监控注意力流失率。"
+        }
+      ]
+    },
+    "tags": [
+      "注意力经济",
+      "高客单价",
+      "VSL",
+      "买家心理"
+    ]
+  },
+  {
+    "id": "novelty-vFinal",
+    "name": "novelty-matrix",
+    "author": "Research Team",
+    "category": "决策与评审",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "寻找自己的独特性。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "差异化即生存：新颖性是定义别人没做的。定义了你才真正存在。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "Delta坐标系：将你的贡献与现有逐一锚定。寻找增量Delta。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 扫描竞品。 2. 提取核心 Claims。 3. 逐项对齐差异点。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "证据回溯：任何更好陈述必须伴随可追溯凭证，拒绝空洞口号。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "office-hours-vFinal",
+    "name": "office-hours",
+    "author": "Garry Tan",
+    "category": "决策与评审",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "获得 YC 级别的产品诊断直觉。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "沸腾湖泊原则：追求 100% 完整性。不仅解决核心，更要消除摩擦。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "六个强迫性问询模型：需求真实性、现状代价、绝望颗粒度、最小切口、意外观察、未来适配。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 对抗性评审。 2. 模拟失败。 3. 寻找真实付费证据。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "不要问‘你觉得如何’。要问具体的付费或时间消耗动作。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "okr-gen-vFinal",
+    "name": "okr-generator",
+    "author": "Anthropic",
+    "category": "决策与评审",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "将野心转化为可衡量的结果。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "聚焦与挑战：OKR不是考核，是筛选。目标若舒适，则说明无意义。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "目标-结果反馈链：感性愿景匹配冷酷数据。这种组合是执行力的保障。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 愿景扫描。 2. 识别核心障碍。 3. 锚定关键结果节点。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "KR互斥性：确保KR不重合，能从不同侧面共同验证目标完成度。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "outline-refiner-vFinal",
+    "name": "outline-refiner",
+    "author": "Research",
+    "category": "决策与评审",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "结构化思维动态修正。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "结构大于内容：如果大纲塌了，写再多字也是废纸。骨架比血肉更重要。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "覆盖率监测模型：实时比对目标vs涵盖。识别名存实亡的空洞章节。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 解析层级。 2. 计算证据密度。 3. 标记冗余热点。 4. 提出整合建议。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "拒绝散文大纲：大纲必须是确定性的指令。严禁使用模糊占位符。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "para-pro-v4",
+    "name": "para-manager",
+    "author": "shestera",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/shestera/second-brain-skills",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "获得极高的秩序感与专注力。彻底告别“笔记黑洞”，让每一条信息都精准、快速地服务于你的当前目标。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "为了行动而组织 (Organize for Action)",
+          "content": "大多数人的分类是‘静态’的（如：心理学、历史）。P.A.R.A. 认为分类应该是‘动态’的，根据信息与你当前目标的‘距离’来决定它的位置。这能确保你最需要的资料永远触手可及。"
+        },
+        {
+          "type": "System",
+          "title": "P.A.R.A. 四大支柱",
+          "content": "1. Projects（项目）：有明确终点和截止日期；2. Areas（领域）：长期责任，需要持续关注；3. Resources（资源）：感兴趣的主题，未来可能有用；4. Archives（归档）：已完成或不再关注的项目。"
+        },
+        {
+          "type": "Workflow",
+          "title": "动态分流与健康审计",
+          "content": "1. Inbox 预处理（不加思索地收集）；2. 动作分流（根据‘行动力’将其归入 P.A.R.A.）；3. 系统健康审计（监控活跃项目数量，防止过载）；4. 定期归档（保持系统的‘轻盈’）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "7 项目限制原则",
+          "content": "强制将活跃项目（Projects）数量控制在 7 个以内。如果想开启新项目，必须先关闭或暂停一个旧项目。这种物理限制能极大地提升你的产出质量。"
+        }
+      ],
+      "heuristics": "如果信息不属于任何当前项目或责任领域，它就是资源或归档。只保留那些能支撑你行动的信息。",
+      "anti_patterns": "松鼠症：无节制地收藏所有‘可能有用的信息’，却从不根据行动目标进行清理和分流。"
+    }
+  },
+  {
+    "id": "partner-vFinal",
+    "name": "partner-affiliate",
+    "author": "Strategy Expert",
+    "category": "领导与组织",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "学会利用杠杆成事。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "利他是最好商业逻辑：让合伙人先赚到钱。分利，规模才会大。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "分销漏斗模型：招募简单、激活激励、留存收益三层闭办。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 选对人。 2. 定规矩。 3. 给工具。让对方能无脑帮你宣传。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "收益分配原则：分成永远比对手多一点点。这是吸引顶级合伙人的关键。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "pattern-mining-v4",
+    "name": "mine-patterns",
+    "author": "madebynoam",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/madebynoam/dcode",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得“系统化”进化的能力。让你的每一次工作不仅是完成任务，更是在为下一次工作‘修路’，实现效能的指数级增长。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "工作即采矿 (Work as Mining)",
+          "content": "平庸者只是在完成任务，而高效者在完成任务的同时‘开采模式’。每一次手动操作的痛苦都是一个信号，提示你这里存在一个可以被自动化、标准化或转化为‘技能’的机会点。"
+        },
+        {
+          "type": "System",
+          "title": "三维价值评估体系",
+          "content": "针对识别出的模式，从三个维度打分：1. 频率（每天做还是每月做？）；2. 风险（手动做是否容易出错？）；3. 复杂度（步骤是否超过 5 步？）。高分项必须立即‘算法化’。"
+        },
+        {
+          "type": "Workflow",
+          "title": "复盘与开采协议",
+          "content": "1. 审计最近一节工作会话的工具日志；2. 识别多步骤任务；3. 评估其通用价值；4. 编写对应的自动化脚本、Prompt 模板或操作手册（SOP）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "10 分钟原则",
+          "content": "如果一个手动流程转为自动化后，每次能节省 10 分钟，且每月发生 3 次以上，那它就是你的‘高净值资产’，值得你投入 2 小时去打磨它。"
+        }
+      ],
+      "heuristics": "重复三次的事情，就应该变成算法。每一次痛苦的操作，都是一个待开发的自动化机会。",
+      "anti_patterns": "勤奋的懒惰：宁愿每天花 30 分钟重复低效的机械动作，也不愿花 1 小时将其自动化。"
+    }
+  },
+  {
+    "id": "pdcpa-v4",
+    "name": "pdcpa-cycle",
+    "author": "dhq-boiler",
+    "category": "元学习与自进化",
+    "repo_url": "https://github.com/dhq-boiler/PDCPA",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得极强的项目纠偏能力。学会如何通过科学的五步闭环，在面对复杂、多变的挑战时，始终保持策略的动态优化，将每一次失败转化为下一次精准行动的养料。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "重划优于盲动 (Re-Plan vs Action)",
+          "content": "大多数人的迭代止步于‘检查（Check）’。PDCPA 的核心在于‘重新规划（Re-Plan）’。它强调在发现偏差后，不是立即蛮干，而是停下来重新审视资源、目标和路径，生成新的假说。这种‘有意识的暂停’是高手与平庸者的分水岭。"
+        },
+        {
+          "type": "System",
+          "title": "PDCPA 五步闭环",
+          "content": "1. Plan（设定 KPI 与约束）；2. Do（记录执行偏差）；3. Check（分析根因假说）；4. Re-Plan（核心：生成至少两个可选方案）；5. Action（执行选定的新方案并进入下一循环）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "两难方案生成协议",
+          "content": "当‘检查’发现问题时，禁止直接给出唯一修正。必须列出：方案 A（稳健型）与方案 B（激进型），对比两者的风险与收益。这种强制性的双重思考是消除认知偏差的最佳手段。"
+        },
+        {
+          "type": "Tactic",
+          "title": "根因假说验证",
+          "content": "在重新规划前，必须写下：‘我认为失败的原因是 X，如果我改变 Y，那么结果应该是 Z’。将迭代变成一场严谨的科学实验。"
+        }
+      ],
+      "heuristics": "事后复盘不如‘事中’重划。永远带着至少两个方案去见你的老板或镜子里的自己。",
+      "anti_patterns": "试错循环（Trial-and-Error）：不分析原因，只是机械地更换方法反复尝试，直到运气好或者耗尽资源。"
+    }
+  },
+  {
+    "id": "pkm-lab-v4",
+    "name": "pkm-vault",
+    "author": "rukool88-hash",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/rukool88-hash/claw",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得“原创性”的爆发力。不再是简单的摘抄，而是通过系统的知识杂交与认知碰撞，源源不断地产生独特的个人见解。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "知识的杂交与繁育 (Breeding Ideas)",
+          "content": "孤立的知识是死的，只有当两个不相关的思想发生‘碰撞’时，智慧才会闪现。个人知识管理的本质不是建立图书馆，而是建立一个繁育场，让新旧信息在链接中不断进化。"
+        },
+        {
+          "type": "System",
+          "title": "原子卡片与双链架构",
+          "content": "坚持‘原子化’原则：每一张知识卡片只承载一个独立思想，并使用双向链接（[[Link]]）将其接入现有的知识网络。这种网状结构模拟了人脑的联想机制，极大地降低了提取成本。"
+        },
+        {
+          "type": "Workflow",
+          "title": "维护-构思-辩论-草稿流",
+          "content": "1. 维护（将 Inbox 碎纸片原子化）；2. 构思（利用双链寻找跨界联系）；3. 辩论（模拟多角色视角挑战该想法）；4. 草稿（将碰撞后的成熟想法转化为最终产出）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "认知碰撞技术 (Debate)",
+          "content": "每当你试图得出一个结论，强迫自己分饰两角进行辩论。记录下那些无法被对方驳倒的点，那才是你真正的原创洞见所在。"
+        }
+      ],
+      "heuristics": "原子卡片原则：一个思想，一张卡片，不超过 300 字。链接胜过分类。",
+      "anti_patterns": "长篇大论：将整本书的摘要塞进一张笔记里，这会导致该笔记在未来极难被提取和重新组合。"
+    }
+  },
+  {
+    "id": "pm-manager-vFinal",
+    "name": "cross-conversation-project-manager",
+    "author": "OneWave",
+    "category": "决策与评审",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "掌握记忆治理能力。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "记忆即治理：核心痛点是缺连贯性。将碎片化的对话资产化是前提。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "持久态全景图模型：建立始终在线的真理源。决策必须有据可查。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 自动捕捉。 2. 标记关键决策。 3. 发起催促逻辑。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "颗粒度一致性：记录必须用统一模板，确保数周后依然高可用。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "pmbok-governance-v4",
+    "name": "pmbok-project-management",
+    "author": "zzafergok",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/zzafergok/skills",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得工业级的抗风险能力。学会用严密的治理框架保护项目不走向崩溃，确保宏大目标能在预算和时间内准时落地。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "治理即自由 (Governance is Freedom)",
+          "content": "项目失败的头号原因不是能力不足，而是结构混乱。通过建立清晰的基准（Baseline）和责任分配，我们实际上是为团队创造了一个安全的‘作业空间’，让所有人都能在确定的边界内发挥最大效率。"
+        },
+        {
+          "type": "System",
+          "title": "RACI 责任分配矩阵",
+          "content": "每一项核心任务都必须明确：谁在做（R）、谁最终负责（A）、谁提供建议（C）、谁需要被告知（I）。关键点：Accountable（问责人）有且只能有一个，否则责任就会在推诿中消失。"
+        },
+        {
+          "type": "Workflow",
+          "title": "IPECC 生命周期闭环",
+          "content": "1. 启动（制定章程）；2. 规划（WBS 分解与风险登记）；3. 执行（资源协调）；4. 监控（偏差分析与变更控制）；5. 收盘（复盘与资产归档）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "基准线监控 (Baselines)",
+          "content": "永远不要问‘进度如何？’，要问‘相对于初始基准，我们偏移了多少？’。通过对比计划值与实际值，在偏差扩大的第一时间进行人工干预。"
+        }
+      ],
+      "heuristics": "Accountable 必须有且仅有一个。任何没有基准的监控都是无效的。",
+      "anti_patterns": "口头承诺：依赖于参与者的记忆或责任感而非结构化的矩阵进行管理，这在复杂项目中必将导致崩溃。"
+    }
+  },
+  {
+    "id": "postbridge-growth-giulio",
+    "name": "postbridge-social-growth",
+    "author": "giulioco",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/giulioco/skills/master/skills/postbridge-social-growth",
+    "wisdom": {
+      "score": 96,
+      "human_gain": "统治短视频流量场。掌握‘黄金 3 秒’钩子技术和有机增长教练法，学会如何在 TikTok 和 Instagram 上持续产出爆款并实现商业转化。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "注意力是残酷的生存战",
+          "content": "在短视频平台，平庸等同于死亡。你只有 3 秒钟的时间来证明你值得被关注。算法不看质量，它只看完播率和互动率。"
+        },
+        {
+          "type": "System",
+          "title": "Post Bridge 增长模型",
+          "content": "核心在于‘钩子（Hook）- 桥梁（Bridge）- 内容（Body）’的结构化生产。强调‘趋势利用’与‘可复制格式’的建立。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 竞品爆款分析 -> 2. 格式化剧本创作 -> 3. 高频测试不同钩子 -> 4. 账号权重预热 -> 5. 粉丝向私域转化。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "使用‘负向钩子’（如：停止做某事）；视频前 3 秒必须有强视觉冲击；在文案中使用‘悬念设置’引导评论；利用 BGM 的流行趋势进行二次创作。"
+        }
+      ]
+    },
+    "tags": [
+      "短视频",
+      "有机增长",
+      "TikTok",
+      "注意力经济"
+    ]
+  },
+  {
+    "id": "ppt-creator-daymade",
+    "name": "ppt-creator",
+    "author": "daymade",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/daymade/claude-code-skills/tree/main/daymade-docs/ppt-creator",
+    "wisdom": {
+      "score": 96,
+      "human_gain": "学会如何将冰冷的文档转化为具备视觉冲击力的演示逻辑。掌握金字塔原理与断言-证据模型，让你的 PPT 每一页都具备说服力。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "视觉是逻辑的延伸",
+          "content": "PPT 是听众的视觉证据，而不是演讲者的提词器。每一页都必须服务于一个核心断言。留白是思考的空间。"
+        },
+        {
+          "type": "System",
+          "title": "AE 论证模型",
+          "content": "采用‘断言-证据’（Assertion-Evidence）架构：标题即结论，内容即证据。结合‘金字塔原理’确保整体逻辑的自上而下对齐。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 确立中心结论 -> 2. 搭建逻辑金字塔 -> 3. 设计断言式标题 -> 4. 匹配视觉证据 -> 5. 撰写演说草稿。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "使用 Rule of Three（三法则）；标题必须是完整的动宾短语；严禁使用‘背景’、‘结论’等无意义标题；确保单页视觉焦点唯一。"
+        }
+      ]
+    },
+    "tags": [
+      "PPT",
+      "演示",
+      "逻辑视觉化",
+      "金字塔原理"
+    ]
+  },
+  {
+    "id": "priority-encyclopedia-v4",
+    "name": "prioritization-frameworks",
+    "author": "kellyoconor",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/kellyoconor/pm-koc",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得决策的透明度与说服力。学会用可量化的方式终结无休止的争论，将资源精准投入到高回报任务中。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "让判断显性化 (Explicit Judgment)",
+          "content": "我们常常陷入‘直觉式优先级’，这会导致资源被噪音夺走。优先级的本质是‘资源分配的价值观’。通过框架，我们将隐性的直觉转化为显性的分数，强制团队面对真实的投入产出比。"
+        },
+        {
+          "type": "System",
+          "title": "九大框架决策矩阵",
+          "content": "根据场景选择武器：1. RICE（标准路线图规划）；2. ICE（快速实验）；3. Kano（用户情感满意度分析）；4. 延迟成本（经济损失驱动）；5. 机会评分（寻找市场蓝海）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "结构化评分闭环",
+          "content": "1. 评估上下文（是面向客户还是内部）；2. 选定适用框架；3. 采集维度数据（Reach, Impact 等）；4. 计算分值并排名；5. 定期审计（确保框架本身未失效）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "机会评分法 (Opportunity Score)",
+          "content": "寻找那些‘重要性极高’但‘当前满意度极低’的项。这不仅是优先级，更是你产品或服务的核弹级增长点。"
+        }
+      ],
+      "heuristics": "数学不能消除判断，但它能让判断显性化。如果一个任务的分数极低但你仍想做，问问自己隐藏的真实动机是什么。",
+      "anti_patterns": "单一框架依赖：无论什么场景都只用 RICE。这会导致你忽略了‘延迟成本’或‘用户情感体验’等重要维度。"
+    }
+  },
+  {
+    "id": "product-pm-v4",
+    "name": "project-manager",
+    "author": "cappylab",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/cappylab/heynabi",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "获得极其敏锐的优先级直觉。学会用数学化的方式终结无意义的争论，将有限的资源倾斜到那些真正能产生爆发式价值的任务上。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "意图驱动而非任务驱动",
+          "content": "ToDo List 是低级管理者的幻觉。高级管理者管理的是‘意图’（Intent）。每一个任务背后都必须有一个经过验证的商业或用户价值目标，否则它就是浪费。"
+        },
+        {
+          "type": "System",
+          "title": "RICE 价值评估引擎",
+          "content": "使用公式量化决策：(覆盖面 × 影响力 × 信心) / 投入。这不仅是一个分数，更是一个沟通工具，强制团队对每一个维度的假设进行显性化辩论。"
+        },
+        {
+          "type": "Workflow",
+          "title": "发现-定义-自动化循环",
+          "content": "1. 发现（JTBD 访谈确认用户真实需求）；2. 定义（PRD 与用户故事映射）；3. 执行（任务细化与估算）；4. 自动化（将重复流程转化为自动化规则）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "成功标志定义 (Success Signature)",
+          "content": "在执行前描述‘做完后的世界是什么样’。具体的指标、具体的感官体验、具体的边界。只有定义了成功，执行才不会走样。"
+        }
+      ],
+      "heuristics": "不要管理任务，要管理‘意图’。用 RICE 指数杀掉那些‘看起来很美’但价值极低的杂项。",
+      "anti_patterns": "贪婪陷阱：试图在同一时间做所有重要的事，导致所有事情都陷入长期延迟且质量平庸。"
+    }
+  },
+  {
+    "id": "professional-comm-sharkitect",
+    "name": "professional-communication",
+    "author": "sharkitect-solutions",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/sharkitect-solutions/sharkitect-claude-toolkit/tree/master/skills/professional-communication",
+    "wisdom": {
+      "score": 96,
+      "human_gain": "获得‘职业外交官’的沟通手腕。学会处理职场中最具挑战性的博弈场景（如向上级推卸责任、宣布坏消息、跨部门分歧），在维持专业形象的同时达成商业目标。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "沟通即战略演习",
+          "content": "商业沟通不是为了表达情感，而是为了促成行动。在处理冲突时，剥离个人情绪，将焦点对准业务影响（Business Impact）。"
+        },
+        {
+          "type": "System",
+          "title": "中性化博弈模型",
+          "content": "采用‘事实 -> 影响 -> 建议’的三段式架构。利用 BLUF（结论先行）原则确保效率。在敏感场景下采用‘目标对齐’策略来降低防御心理。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 识别政治/权力关系 -> 2. 剥离情感词汇 -> 3. 关联商业目标 -> 4. 设定最小可行化行动（CTA）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "使用‘我观察到...’代替‘你总是...’；在拒绝请求时提供‘Plan B’；向上级汇报坏消息时，同步带上三个已分析过的解决方案。"
+        }
+      ]
+    },
+    "tags": [
+      "职场博弈",
+      "高情商沟通",
+      "冲突管理",
+      "商务外交"
+    ]
+  },
+  {
+    "id": "rca-master-v4",
+    "name": "okr-retrospective-framework",
+    "author": "RevPalSFDC",
+    "category": "元学习与自进化",
+    "repo_url": "https://github.com/RevPalSFDC/opspal-commercial",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得卓越的策略调校能力。学会如何从每一次挫败中提取精准的参数，彻底区分‘勤奋的失败’与‘愚蠢的设定’，避免在同一个地方跌倒两次。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "承认认知局限的勇气",
+          "content": "复盘的灵魂在于‘归因的诚实’。很多时候我们失败是因为我们对世界的理解本来就是错的（目标设定错误），而非工作不够努力。只有敢于承认自己的初始假说是错的，才能实现真正的认知闭环。"
+        },
+        {
+          "type": "System",
+          "title": "归因分类法",
+          "content": "将失败丢进四个桶：1. 执行漏失（没按计划做）；2. 外部阻塞（被他人耽误）；3. 假说错误（目标本身不符合逻辑）；4. 随机噪声（不可抗力）。针对每个桶，都有截然不同的修正逻辑。"
+        },
+        {
+          "type": "Workflow",
+          "title": "精准校准循环",
+          "content": "1. 判定结果（命中/未命中）；2. 深度溯源（套用归因矩阵）；3. 调整‘姿态’（保守/进取/重构）；4. 优化下一周期的‘输入参数’。"
+        },
+        {
+          "type": "Tactic",
+          "title": "少数派意见复盘",
+          "content": "回头看：当初那个反对这个决定的人，他的理由现在看来成立吗？如果成立，将他的逻辑固化进你的决策清单，作为下次的防错机制。"
+        }
+      ],
+      "heuristics": "错误的归因是下一次失败的起点。区分运气和实力，区分执行和规划。不要为‘不可抗力’自我感动。",
+      "anti_patterns": "无差别自责：无论发生什么都认为是‘我不够努力’。这会掩盖系统性的设计缺陷，让你在低效的勤奋中耗尽生命。"
+    }
+  },
+  {
+    "id": "rca-standard-v4",
+    "name": "root-cause-analysis",
+    "author": "Antigravity-Synthesized",
+    "category": "个人效能系统",
+    "repo_url": "internal://standard-protocols",
+    "wisdom": {
+      "score": 96,
+      "human_gain": "获得解决问题的闭环能力。学会穿透表象的‘噪音’，抓住系统中那个唯一的、能产生杠杆效应的‘因’。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "不解决症状 (Root vs Symptom)",
+          "content": "症状是问题的求救信号，解决症状只会让问题在未来以更剧烈的方式爆发。真正的解构是冷酷地穿透表象，直到找到那个可以被‘一次性修复’的系统漏洞。"
+        },
+        {
+          "type": "System",
+          "title": "4M1E 鱼骨分析模型",
+          "content": "从五个维度系统审视问题根源：Manpower（人）、Machine（机器/工具）、Material（物料/输入）、Method（流程方法）、Environment（环境/文化）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "连续追问协议 (5 Whys)",
+          "content": "针对故障点连续追问‘为什么’。第一问通常涉及技术，第三问涉及流程，第五问通常涉及组织文化或基本价值观。只有触达流程层面的回答，才算合格的根因。"
+        },
+        {
+          "type": "Tactic",
+          "title": "反向验证法",
+          "content": "当你认为找到了根因，问：‘如果删除了这个原因，问题是否百分之百不会再发生？’如果答案是‘不一定’，说明你还在找症状，而不是根因。"
+        }
+      ],
+      "heuristics": "如果你的解决方案是‘加强培训’，说明你还没找到根因。",
+      "anti_patterns": "替罪羊文化：将系统性错误归咎于某个具体人员的疏忽，而不去修补导致疏忽的流程缺陷。"
+    }
+  },
+  {
+    "id": "recruiting-vFinal",
+    "name": "recruiting-pipeline",
+    "author": "Anthropic",
+    "category": "领导与组织",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "像经营资产一样经营人才库。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "人才即资产流：关注长期信任建立，而非短期成交。招聘者是经营者。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "漏斗式筛选模型：全链路监控瓶颈。通过数据反馈而非主观感觉选拔。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 锚定精准画像。 2. 批量科学测试。 3. 挖掘隐性价值。 4. 快速闭环。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "反馈及时性：尊重是最低成本吸引力。每个动作必须有反馈时限。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "reflective-review-v4",
+    "name": "quality-reflective-questions",
+    "author": "dawiddutoit",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/dawiddutoit/custom-claude",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得极高的交付可靠性。彻底告别“看起来做完了，一跑就挂”的窘境，让你的工作产出具有工业级的稳定性。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "证明即工作 (The Proof is the Work)",
+          "content": "很多时候我们觉得‘做完了’，其实只是‘写完了’。真正的‘完成’必须包含验证。这种思维的转变要求你从执行者变成自己的‘首席审计官’，在产出交付前进行冷酷的质询。"
+        },
+        {
+          "type": "System",
+          "title": "四门控验证系统",
+          "content": "针对任何产出，强制回答：1. 触发点（我怎么启动它？）；2. 连接性（它如何接入现有系统？）；3. 运行证据（具体的日志、截图或反馈是什么？）；4. 逻辑正确性（证据是否直接指向了预期目标？）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "交付前的‘冷酷 60 秒’",
+          "content": "在点击‘发送’或‘提交’前，闭上眼睛运行一遍四门控。只要有一个环节回答不出具体的细节（如：‘我没看到具体的错误提示’），就说明任务仍处于‘半成品’状态。"
+        },
+        {
+          "type": "Tactic",
+          "title": "证据链条构建",
+          "content": "不要相信你的直觉，要相信你的眼睛。每一步操作都应该留下可被审计的痕迹。这种‘痕迹思维’能让你在出错时瞬间定位问题，而不是在大海里捞针。"
+        }
+      ],
+      "heuristics": "不要问‘做完了吗’，要问‘证据在哪’。证据必须是具体的、可观测的，而非主观的。 ",
+      "anti_patterns": "直觉式交付：觉得代码/文章写得挺顺的就认为完成了，跳过了实际的‘点火测试’。"
+    }
+  },
+  {
+    "id": "relational-momentum-v4",
+    "name": "networking-strategy",
+    "author": "Namtanmk",
+    "category": "高影响力产出",
+    "repo_url": "https://github.com/Namtanmk/Claude-Skills-Ultimate-Bundle",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得构建持久、高价值人际资产的能力。学会如何通过系统化的‘滋养序列’，将点头之交转化为深度盟友，建立起一个能够持续为你提供能量、情报和机会的社交生态系统。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "社交的农夫思维",
+          "content": "人脉管理是一场长跑，而非冲刺。它需要定期的‘水分’（互动）和‘养料’（价值交换）。通过 5/50/100 规则，你将有限的精力投向最具潜力的节点，确保每一份人际关系都具备‘正向动能’。"
+        },
+        {
+          "type": "System",
+          "title": "6 周关系滋养序列",
+          "content": "这是一套标准化的信任建立流程：D0 连接 -> D1 跟进反馈 -> W1 分享相关资源（利他行为） -> W3 内容互动（点赞/评论） -> W6 发起咖啡对话。这种节奏感能自然地跨越‘陌生期’进入‘熟人期’。"
+        },
+        {
+          "type": "Workflow",
+          "title": "90 天社交冲刺流",
+          "content": "1. 建立关系清单；2. 执行‘价值预付’操作（每周至少帮助 3 个人）；3. 激活二级关系链；4. 进行深度合作/共创；5. 节点评估与汰换。"
+        },
+        {
+          "type": "Tactic",
+          "title": "价值预付 (Value Pre-payment)",
+          "content": "在任何社交场合，第一个问题应该是：‘我能帮你解决什么问题？’。通过先提供对方需要的资源、情报或连接，你建立了一个‘情感账户’的盈余，这让你未来的任何请求都显得顺理成章。"
+        }
+      ],
+      "heuristics": "社交的本质是价值互换。最好的社交发生在你不需要它的时候。每周至少连接一个‘陌生的高价值节点’。",
+      "anti_patterns": "交易型社交：平时不露面，一旦有事就出现。这种‘临时抱佛脚’的行为会被高价值节点瞬间识破并被彻底拉黑。"
+    }
+  },
+  {
+    "id": "research-gap-finder-v4",
+    "name": "research-gap-finder",
+    "author": "wen-chen",
+    "category": "深度思考与研究",
+    "repo_url": "https://github.com/wen-chen/dr-cook",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "获得“蓝海”嗅觉。学会避开拥挤的红海竞争，精准定位那些具有极高学术/商业价值的无人区。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "拓扑空缺逻辑 (Topological Empty Cells)",
+          "content": "知识的进步往往发生在‘边界’和‘缝隙’中。通过构建领域矩阵，我们可以视觉化地看到哪些交叉点尚未被研究。‘没有研究’本身就是最高价值的信息。"
+        },
+        {
+          "type": "System",
+          "title": "争议与矛盾映射系统",
+          "content": "不仅寻找‘空白’，更要寻找‘冲突’。当现有研究结论相互矛盾时，说明底层存在一个尚未被发现的变量。解决这个矛盾，就是原创洞见的来源。"
+        },
+        {
+          "type": "Workflow",
+          "title": "三维缺口扫描流",
+          "content": "1. 矩阵扫描（寻找交叉空白点）；2. 争议图谱化（标记结论冲突）；3. 方法论审计（寻找过时方法或小样本研究的局限）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "异常值追寻",
+          "content": "盯着那些被主流研究视为‘噪音’或‘异常’的数据。主流研究为了得出结论往往会牺牲它们，而这些‘噪音’正是新规律的藏身之处。"
+        }
+      ],
+      "heuristics": "争议不是错误，而是通往更深层规律的导引。",
+      "anti_patterns": "跟风研究：看到别人研究什么火就去研究什么。这只会让你陷入无休止的平庸竞争，且很难产生真正的学术影响力。"
+    }
+  },
+  {
+    "id": "research-ideation-v4",
+    "name": "research-ideation",
+    "author": "John-Wang-0809",
+    "category": "深度思考与研究",
+    "repo_url": "https://github.com/John-Wang-0809/claw-research-skills",
+    "wisdom": {
+      "score": 96,
+      "human_gain": "彻底消除“无从下手”的迷茫。获得一套将原始兴趣快速转化为具有竞争力的专业课题的标准化算法。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "精准头脑风暴 (Precision Brainstorming)",
+          "content": "好的想法不是等来的，而是‘问’出来的。通过 5W1H 的多维度审视，我们能强迫大脑从不同侧面攻击同一个问题，从而发现那些被常识掩盖的非显而易见逻辑。"
+        },
+        {
+          "type": "System",
+          "title": "SMART 问题炼金术",
+          "content": "将模糊的愿望（我想研究 AI）转化为精准的命题：它必须是具体的（Specific）、可验证的（Measurable）、且在当前资源下是可实现的（Attainable）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "从构思到计划四部曲",
+          "content": "1. 5W1H 广度扫描；2. 跨学科类比（寻找 Domain A 方案在 Domain B 的应用）；3. SMART 准则筛选与优化；4. 资源与风险的可行性审计。"
+        },
+        {
+          "type": "Tactic",
+          "title": "跨学科桥梁技术",
+          "content": "尝试将一个成熟领域的经典方法（如生物学的演化论）平移到另一个新兴领域（如软件工程）。这种‘降维打击’往往能产生最具爆发力的研究问题。"
+        }
+      ],
+      "heuristics": "好的问题应该能被转化成一个具体的实验或调查。如果你无法想象如何验证它，它就还不是一个好问题。",
+      "anti_patterns": "宏大叙事：试图研究‘人类的未来’或‘AI 的本质’。这种问题由于过于宽泛而无法落地，最终只能产生平庸的废话。"
+    }
+  },
+  {
+    "id": "research-synthesis-v4",
+    "name": "research-synthesis",
+    "author": "neilenatarajan",
+    "category": "深度思考与研究",
+    "repo_url": "https://github.com/neilenatarajan/nstack",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "获得处理极大规模信息的能力。通过构建“证据图谱”，你能够跨学科地发现那些非显而易见的深刻关联，实现从“知道”到“看透”的跃迁。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "穷尽搜索与多源验证 (Boil the Lake)",
+          "content": "在信息时代，局部的真实往往是全局的偏见。为了获得真正的洞察，必须跨越单一数据库（如仅使用 Google Scholar），通过多 API（PubMed, arXiv, Semantic Scholar）进行交叉打捞与去重，消除由于渠道闭环导致的盲区。"
+        },
+        {
+          "type": "System",
+          "title": "证据图谱架构 (Evidence Graphing)",
+          "content": "不再将文献视为孤立的 PDF。将其拆解为核心声明（Claims）、支持证据、反驳证据以及直接引文。构建一个互联的知识网，观察不同流派之间的博弈关系。"
+        },
+        {
+          "type": "Workflow",
+          "title": "层次化信息合成流",
+          "content": "1. 定义研究协议 JSON；2. 多源自动化检索与去重；3. 标题与摘要的双轮筛选；4. 主题聚类与跨簇合成（Cluster-then-Synthesize）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "冲突标注法",
+          "content": "当多份研究结论冲突时，使用‘冲突标注器’：分析是因为地域差异、年代差异、还是算法实现细节不同。冲突点往往就是创新的切入点。"
+        }
+      ],
+      "heuristics": "当结论冲突时，不要强行调和，要‘标注’冲突的根源。",
+      "anti_patterns": "共识陷阱：为了得出一个整齐划一的结论，而刻意忽略那些少数派的、具有启发性的负面结果。"
+    }
+  },
+  {
+    "id": "self-critique-v4",
+    "name": "reflexion-framework",
+    "author": "nhouseholder",
+    "category": "元学习与自进化",
+    "repo_url": "https://github.com/nhouseholder/nicks-claude-code-superpowers",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得高标准的自我交付能力。学会如何通过引入‘内部审计员’视角，在发布任何作品或交付任何任务前，自行消除 90% 的低级错误和逻辑漏洞。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "双模式自我修正",
+          "content": "人的大脑容易进入‘自动驾驶’模式。自我审计要求我们在‘执行者’（Doer）和‘审查者’（Reviewer）之间频繁切换。对于高风险任务，必须启动深度审计，对每一个环节进行‘恶意猜想’。"
+        },
+        {
+          "type": "System",
+          "title": "信心评分与审计触发",
+          "content": "建立一个简单的 1-5 信心量表。5 分：完全确信；3 分：可能有坑。任何低于 4 分的任务，必须强制进入‘内部审计模式’，对边缘情况（Edge Cases）进行排查。"
+        },
+        {
+          "type": "Workflow",
+          "title": "多维审计检查清单",
+          "content": "1. 意图对齐（我真的解决了核心问题吗？）；2. 极简原则（有没有更简单的路径？）；3. 副作用评估（这会破坏其他部分吗？）；4. 证据链检查（我的每个结论都有数据支持吗？）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "影子审查员 (The Auditor Persona)",
+          "content": "在检查自己的工作时，假装你是你最讨厌的那个挑剔上司，或者是一个竞争对手。这种身份转换能让你瞬间看清那些被自我陶醉所掩盖的漏洞。"
+        }
+      ],
+      "heuristics": "越是看起来简单的事，越需要 1 分钟的‘信心审查’。不要成为自己作品的第一个粉丝，要成为第一个批评者。",
+      "anti_patterns": "交付即解脱：任务做完立即扔出去，不去复核逻辑完整性。这会让你在低级错误上反复交学费。"
+    }
+  },
+  {
+    "id": "slidedeck-vFinal",
+    "name": "baoyu-slide-deck",
+    "author": "JimLiu",
+    "category": "表达与创作",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "为异步阅读设计。读者秒懂。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "阅读优先原则：现代幻灯片逻辑更近报纸。必须具备极强自解释性。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "视觉秩序模型：通过严密网格建立引导。确保读者视线在控制轨道。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 锁定受众。 2. 提取金句。 3. 匹配风格。 4. 渲染呈现。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "克制审美：严禁同一文档超三种主色。简单就是高级感的来源。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "slr-architect-v4",
+    "name": "slr-architect",
+    "author": "a-muizz28",
+    "category": "深度思考与研究",
+    "repo_url": "https://github.com/a-muizz28/slr-architect",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得学术工业级的严谨性。通过系统化的证据追踪，确保你的每一个观点都建立在坚实的客观事实之上，彻底消除“印象派”研究带来的偏见。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "真理的留痕追踪 (The Evidence Trail)",
+          "content": "学术研究不是‘写文章’，而是‘发现证据’。所有的幻觉都来自于证据链的断裂。通过 PRISMA 协议，我们强制要求记录下从海量文献到最终结论的每一个过滤动作，确保过程可复现、结论可证伪。"
+        },
+        {
+          "type": "System",
+          "title": "PICO 问题定义格栅",
+          "content": "将模糊的兴趣转化为精准的研究课题：1. Population（研究对象是谁？）；2. Intervention（采取了什么行动？）；3. Comparison（对照组是什么？）；4. Outcome（最终衡量什么结果？）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "PRISMA 2020 标准流",
+          "content": "1. 初始化研究协议（定义 Inclusion/Exclusion）；2. 跨库批量检索；3. 摘要筛选与排除原因记录；4. 结构化数据提取矩阵；5. 偏差风险 (Risk of Bias) 评估。"
+        },
+        {
+          "type": "Tactic",
+          "title": "排除理由清单",
+          "content": "强制记录每一篇被剔除文献的具体理由（如：样本量过小、实验设计不匹配）。这能有效防止我们在潜意识中只保留那些符合自己预期的证据。"
+        }
+      ],
+      "heuristics": "不要信任任何没有原始引文（Source Quote）的结论。",
+      "anti_patterns": "摘要综述：仅凭阅读摘要就下结论。摘要往往会夸大研究成果，真实的魔鬼（如统计显著性的局限）都藏在全文的 Methodology 中。"
+    }
+  },
+  {
+    "id": "socratic-coach-v4",
+    "name": "adaptive-socratic-questioning",
+    "author": "choovin",
+    "category": "元学习与自进化",
+    "repo_url": "https://github.com/choovin/Rclaw",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得顶级导师的启发式提问能力。学会如何通过有节奏的追问，剥离对方逻辑中的‘理所当然’，引导其独立发现问题的根源，从而实现真正的认知升级。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "助产术：让知识自行涌现",
+          "content": "苏格拉底式提问的本质是‘知识助产术’。你不是在告诉对方什么是对的，而是在通过提问让他们发现自己逻辑中的矛盾。这种方式产生的理解是深刻且不可逆的，远胜过任何形式的直接教学。"
+        },
+        {
+          "type": "System",
+          "title": "四阶追问策略",
+          "content": "1. 解释型（你能详细说说那个部分吗？）；2. 证据型（是什么让你得出这个结论的？）；3. 因果型（A 到底是如何导致 B 的？）；4. 反例型（如果存在 X 这种情况，你的结论还成立吗？）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "5 阶段推理链构建",
+          "content": "1. 明确初始观点；2. 探究底层机制；3. 验证逻辑证据；4. 测试边界条件（反例）；5. 综合得出新认知。每一步提问都必须基于上一步的回答，形成严密的咬合逻辑。"
+        },
+        {
+          "type": "Tactic",
+          "title": "反例压力测试 (Counter-example Test)",
+          "content": "当对方给出一个绝对化的断言时，立即构造一个极端但合理的反例场景。这种‘逻辑撞击’能瞬间强制大脑跳出舒适区，重新审视基本假设。"
+        }
+      ],
+      "heuristics": "所有的误解都隐藏在理所当然的跳跃中。不要问对方‘懂了吗’，要问‘为什么’。",
+      "anti_patterns": "诱导性提问：把答案藏在问题里（比如：‘你不觉得 X 是错的吗？’）。这会关闭对方的思考回路，变成变相的灌输。"
+    }
+  },
+  {
+    "id": "socratic-coach-vFinal",
+    "name": "socratic-writing-coach",
+    "author": "narthur",
+    "category": "决策与评审",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "获得‘苏格拉底’式的批判性直觉。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "拒绝廉价的文字替代思考：教练的任务是揭露逻辑漏洞。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "思想助产术模型：不提建议，只提问题。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 目标对齐问询。 2. 识别模糊地带。 3. 逻辑断裂处施压。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "严禁代劳：绝不接受模糊的回答。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "staff-plus-v4",
+    "name": "swarm-discussion",
+    "author": "Ischca",
+    "category": "元学习与自进化",
+    "repo_url": "https://github.com/Ischca/swarm-discussion-skill",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得顶级架构师的博弈与决策能力。学会如何在复杂、无标准答案的场景下，通过模拟多维视角的激烈碰撞，识别隐蔽风险，做出最稳健的决策。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "通过不一致发现真相",
+          "content": "在 Staff+（资深参谋）级别，最危险的事是团队太快达成一致。真正的稳健源于对立观点的‘设计的张力’（Designed Tension）。通过强制性的角色扮演（如：乐观派 vs 悲观派），你可以穷尽所有可能的失败路径。"
+        },
+        {
+          "type": "System",
+          "title": "多角色博弈矩阵",
+          "content": "强制引入三个核心角色：1. Moderator（调解者：负责进度与中立）；2. Contrarian（唱反调者：负责寻找逻辑漏洞）；3. Historian（历史学家：负责记录决策脉络与少数派意见）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "结构化冲突协议",
+          "content": "1. 明确张力轴（如：速度 vs 安全）；2. 各角色强制表态（禁止中庸）；3. 迭代辩论（针对证据而非立场）；4. 综合产出（包含共识与不妥协的少数派报告）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "少数派报告 (Minority Report)",
+          "content": "在决策文档中，必须保留那份‘非共识’的异议。当未来环境发生变化时，这份报告就是你最宝贵的‘转向指南’。"
+        }
+      ],
+      "heuristics": "没有对立观点的决策是危险的。如果你找不到一个反对理由，说明你的思考还停留在表面。",
+      "anti_patterns": "伪一致性：为了维持团队和谐而压制异议，导致‘群体思维’（Groupthink）产生的灾难性决策。"
+    }
+  },
+  {
+    "id": "storytelling-petrogurcak",
+    "name": "storytelling",
+    "author": "petrogurcak",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/petrogurcak/skills/tree/main/plugins/copywriting/skills/storytelling",
+    "wisdom": {
+      "score": 94,
+      "human_gain": "让你从“陈述事实”升级为“塑造现实”。掌握叙事逻辑，意味着你能在任何场合中，通过情感共鸣和逻辑张力来引导他人的决策。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "冲突即引擎",
+          "content": "故事是人类连接的货币。没有冲突就没有故事。平铺直叙是沟通的坟墓。叙事的本质是展示转化（Transformation）。"
+        },
+        {
+          "type": "System",
+          "title": "英雄之旅简化模型",
+          "content": "采用现状 -> 危机 -> 方案 -> 转化（Before/After）的闭环结构。将受众置于故事的核心，让其在情节中完成自我投射。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1.背景定调 -> 2.引入冲突（BUT） -> 3.压力升级 -> 4.呈现方案（THEREFORE） -> 5.愿景转化。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "Show, Don't Tell；使用感官细节增强临场感；将枯燥数据转化为具体的人类体验；确保故事的每一个细节都指向最终的说服目标。"
+        }
+      ]
+    },
+    "tags": [
+      "叙事",
+      "说服",
+      "文案",
+      "品牌"
+    ]
+  },
+  {
+    "id": "storytelling-vFinal",
+    "name": "storytelling",
+    "author": "Fal Community",
+    "category": "表达与创作",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "掌握叙事穿透力。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "故事是认知容器：打动人的不是事实，是情感共振。大脑为故事而生。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "英雄之旅模型：平凡->召唤->危机->蜕变。适用于任何变革沟通。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 建立共情。 2. 引入冲突。 3. 提供洞察。 4. 召唤行动。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "展示而非说明：展示深夜亮着的屏幕，而非口述辛苦。细节是情感锚点。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "strategic-analysis-v4",
+    "name": "strategic-analysis",
+    "author": "anotb",
+    "category": "深度思考与研究",
+    "repo_url": "https://github.com/anotb/management-consulting-plugin",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得顶级咨询顾问的思维严密性。学会用“问题树”剥开乱麻，直击核心矛盾，让你的每一个方案都具有无懈可击的逻辑穿透力。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "假设先行与“所以呢？”测试 (Hypothesis-First)",
+          "content": "不要等数据搜集全了再思考。在接触问题的第 10 分钟就提出一个‘最可能的假设’，然后所有的工作都是为了证明或证伪它。对每一个发现都要追问：‘所以呢？（So What?）’，强制其产生行动价值。"
+        },
+        {
+          "type": "System",
+          "title": "MECE 与逻辑问题树",
+          "content": "使用 MECE 原则（相互独立、完全穷尽）构建问题树。确保你的拆解维度既不重叠（不打架），也不遗漏（没死角）。这是处理任何复杂系统、组织架构或盈利分析的终极手术刀。"
+        },
+        {
+          "type": "Workflow",
+          "title": "咨询式问题解决流",
+          "content": "1. 界定问题边界（明确不做什么）；2. MECE 问题分解（构建逻辑树）；3. 价值-成本优先级排序；4. 构建可测试的假设；5. 合成洞察并产出‘So-What’结论。"
+        },
+        {
+          "type": "Tactic",
+          "title": "价值路径分析",
+          "content": "只关注那些能显著改变最终结果的变量。如果一个子问题的答案无论是什么都不影响你的核心决策，那就立即将其从逻辑树中砍掉。"
+        }
+      ],
+      "heuristics": "所有的复杂问题都可以拆解为互不重叠、不遗漏的子问题。先给出你的‘假设结论’，再去寻找证据。",
+      "anti_patterns": "海量分析：在没有核心假设的情况下，试图搜集所有相关数据。这会导致‘分析瘫痪’，最终在信息的海洋中溺水。"
+    }
+  },
+  {
+    "id": "strategic-design-v4",
+    "name": "strategic-visual-design",
+    "author": "ProgressLife / McKinsey / BCG",
+    "category": "高影响力产出",
+    "repo_url": "https://github.com/ProgressLife/perplexity-skills-collection",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得顶级咨询公司的视觉表达功力。学会如何让复杂的报告在视觉上‘自动说话’，让读者在 0.5 秒内捕捉到优先级和核心洞察，彻底消除沟通的认知噪音。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "设计即逻辑的运载火箭",
+          "content": "顶级咨询公司的设计原则是：设计必须反映逻辑的深度。通过严格的‘背景 -> 发现 -> 启示’（CFI）框架，我们将读者的注意力精确地导向最具商业价值的结论点。设计不仅仅是排版，它是一种权力的博弈——决定听众应该看哪里。"
+        },
+        {
+          "type": "System",
+          "title": "三级视觉层级规范",
+          "content": "全篇严格限制使用 3 种字号（大标题、小标题、正文）。通过‘色彩强调（功能色）’与‘大面积留白（静默区）’的强烈对比，建立极强的视觉重心。严禁使用杂乱的装饰性色彩。"
+        },
+        {
+          "type": "Workflow",
+          "title": "咨询级文档构建协议",
+          "content": "1. 确定单页核心 Insight；2. 撰写‘行动导向’标题；3. 使用‘表格去噪’技术（仅水平线）；4. 执行‘看板审计’（远看页面，检查重心是否偏移）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "表格去噪音技术",
+          "content": "删除所有垂直边框。只保留顶部、底部和关键分类下方的极细水平线。这种方法能将读者的视觉重心从‘格子的边框’移动到‘数据本身’，极大提升比较效率。"
+        }
+      ],
+      "heuristics": "标题必须是结论。留白是第一生产力。删除所有不能增加信息的视觉修饰。",
+      "anti_patterns": "彩虹色依赖：使用过多色彩来区分内容。这会导致视觉系统的‘报警过载’，让读者抓不住任何重点。"
+    }
+  },
+  {
+    "id": "strategic-intelligence-v4",
+    "name": "competitor-analysis",
+    "author": "LiteYH",
+    "category": "商业直觉与品牌",
+    "repo_url": "https://github.com/LiteYH/KitaHack2026",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "获得极强的战略预判力。学会过滤 90% 的无效信息，将精力集中在那些真正威胁或提供机会的市场变动上。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "情报的‘显著性’逻辑",
+          "content": "在这个信息爆炸的时代，‘不知道’不是问题，‘关注了错的信息’才是。情报工作的核心是‘显著性检测’：确定一个市场变动是否达到了需要你调整资源的阈值。"
+        },
+        {
+          "type": "System",
+          "title": "显著性评分框架 (1-10)",
+          "content": "1-3（常规更新，仅需记录）；4-6（值得关注的动态）；7-9（重大战略转向）；10（行业颠覆或直接生存威胁）。根据分值启动不同的响应级别。"
+        },
+        {
+          "type": "Workflow",
+          "title": "四维影响力分析 (4-D Analysis)",
+          "content": "针对任一情报，强制通过四个维度过滤：1. 市场冲击力；2. 业务相关性；3. 响应紧迫性；4. 动作可行性。只有四维均分高的，才是你的 P0 级响应目标。"
+        },
+        {
+          "type": "Tactic",
+          "title": "战略监视清单 (Watch Items)",
+          "content": "建立动态的监视清单，而非静态的报告。对于那些分值在 6-8 分之间的动态，设定‘触发条件’，一旦条件达成，立即升级为行动指令。"
+        }
+      ],
+      "heuristics": "情报必须导向动作。如果一个分析结果不包含‘我们应该怎么做’，那它就只是新闻，不是情报。",
+      "anti_patterns": "新闻喂养：像看报纸一样看竞品动态，没有分级，没有响应机制，最终导致‘认知过载’却毫无作为。"
+    }
+  },
+  {
+    "id": "sustainable-pace-v4",
+    "name": "deep-productivity",
+    "author": "hexbee",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/hexbee/hello-skills",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得可持续的爆发力。学会通过“结构化恢复”为大脑充电，确保在追求长期目标的过程中，不仅不枯竭，反而越战越勇。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "三类工作循环逻辑",
+          "content": "卓越的生产力由三部分循环构成：1. Building（建设：高强度的创造）；2. Maintenance（维护：日常运营）；3. Recovery（恢复：深度的断开与充电）。缺少任何一环，系统都会失衡。"
+        },
+        {
+          "type": "System",
+          "title": "愿景-反向愿景推力系统",
+          "content": "不仅要写‘我想成为什么’，更要写‘我绝对不想成为什么’（如：一个虽然有钱但失去健康和家庭的人）。这种‘恐惧推力’能让你在面对过度工作的诱惑时，有力量选择休息。"
+        },
+        {
+          "type": "Workflow",
+          "title": "结构化恢复协议",
+          "content": "1. 每日断开（睡前 1 小时禁止屏幕）；2. 每周空白（预留半天不排任何计划）；3. 每季退隐（离开工作环境进行系统性反思）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "杠杆任务识别",
+          "content": "每天只找一个最重要的‘杠杆任务’（Lever-Moving Task）。一旦完成，即便剩下的时间都在‘恢复’，你的进度也超过了 90% 的忙碌者。"
+        }
+      ],
+      "heuristics": "恢复不是工作的终结，而是深度工作的燃料。每天 1 小时的杠杆任务胜过 10 小时的琐事。",
+      "anti_patterns": "虚假休息：在休息时间刷社交媒体。这实际上是在继续消耗有限的认知带宽，而非真正的恢复。"
+    }
+  },
+  {
+    "id": "synthesis-analogy-v4",
+    "name": "synthesis-and-analogy",
+    "author": "onfire7777",
+    "category": "深度思考与研究",
+    "repo_url": "https://github.com/onfire7777/manus-skills-library",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "获得极强的解释力与迁移力。能将深奥的知识转化为直观的类比，并能准确预测新领域的行为，让沟通和决策具有预见性。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "结构映射逻辑 (Structural Mapping)",
+          "content": "类比不是文学修辞，而是认知的脚手架。有效的类比要求‘结构一致性’——源领域中 A 与 B 的关系，必须在目标领域中 A' 与 B' 的关系中得到完美复刻。"
+        },
+        {
+          "type": "System",
+          "title": "1:1 关系校验矩阵",
+          "content": "在建立类比时，强制列出源领域与目标领域的对应元素及其关系。如果关系链条无法一一对应，该类比就是‘误导性类比’，应果断弃用。"
+        },
+        {
+          "type": "Workflow",
+          "title": "高阶类比构建流",
+          "content": "1. 识别源领域的深层关系结构；2. 执行 1:1 映射测试；3. 进行‘压力测试’（在极端情况下类比是否依然成立）；4. 产出最终的结构化解释。"
+        },
+        {
+          "type": "Tactic",
+          "title": "压力测试法",
+          "content": "问：‘如果这个类比彻底坏掉了，会是在哪里坏掉？’通过寻找类比的边界，你不仅能更好地解释现状，还能发现目标领域的独特属性。"
+        }
+      ],
+      "heuristics": "好的类比不是‘看起来像’，而是‘运作起来像’。追求功能上的相似，而非视觉上的相似。",
+      "anti_patterns": "肤浅类比：仅因为两件事物外表相似（如‘原子的结构像太阳系’）就建立类比，而忽略了它们在底层物理规律上的根本差异。"
+    }
+  },
+  {
+    "id": "system-synergy-v4",
+    "name": "productivity-integration",
+    "author": "Avery2",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/Avery2/things3-mcp-tools",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "获得极其清晰的脑空间。彻底终结因工具混乱导致的认知负荷，让你的注意力永远锁定在当前最核心的动作上。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "执行与规划的物理隔离",
+          "content": "你的大脑不适合在战斗（执行）的同时进行复杂的路线规划。你需要两个互补的系统：一个极其简洁、以‘动作’为中心的执行引擎，和一个结构丰富、以‘知识’为中心的规划档案馆。"
+        },
+        {
+          "type": "System",
+          "title": "单事实来源原则 (SSoT)",
+          "content": "规定每一个信息的‘主场’。任务的主场是执行工具（如 Things3/Todoist），项目背景和长远目标的主场是规划工具（如 Notion/Obsidian）。绝不允许信息在两个地方重叠，从而产生冲突。"
+        },
+        {
+          "type": "Workflow",
+          "title": "跨系统分流协议",
+          "content": "1. 统一捕获（所有念头先进入执行工具的 Inbox）；2. 分流处理（简单的动作留下，复杂的项目规划移至 Notion）；3. 定期对齐（在周回顾时，将 Notion 的新计划拆解为 Things3 的具体动作）。"
+        },
+        {
+          "type": "Tactic",
+          "title": "嵌套复盘循环",
+          "content": "每日复盘（执行层：今天做完了吗？）；每周复盘（战术层：我的项目状态需要更新吗？）；每月复盘（战略层：我的执行系统是否还在服务于我的长远目标？）。"
+        }
+      ],
+      "heuristics": "不要在战斗的时候看地图。将‘想’与‘做’在时间和空间上彻底分开。",
+      "anti_patterns": "工具全能幻想：试图在一个工具（如只用 Notion 或只用日历）里完成所有事，这会导致系统由于过于臃肿而最终被弃用。"
+    }
+  },
+  {
+    "id": "system-thinking-vFinal",
+    "name": "system-thinking",
+    "author": "Expert",
+    "category": "通用思维",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "看清事物的底层脉络。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "万物皆有联系：没问题是孤立存在的。盯本身无法根治。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "因果回路模型：识别增强和平衡回路。理解延迟效应，防过度用力。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 绘制关联图。 2. 锁定增强回路。 3. 寻找牵一发而动全身的杠杆。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "慢即是快：快速方案往往导致长期恶化。学会静观其变再决策。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "systems-room-v4",
+    "name": "systems-room",
+    "author": "KBRglobal",
+    "category": "认知增强",
+    "repo_url": "https://github.com/KBRglobal/advisiorai",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "获得一个由世界级智者组成的“大脑顾问团”。学会在面对复杂问题时，同时调用查理·芒格的跨学科视角和塔勒布的非线性视角。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "多维博弈原则 (Multi-Dimensional Debate)",
+          "content": "真相往往藏在不同视角的交界处。不要试图寻找单一答案，要尝试让不同的思维模型相互挑战，看谁能经受住逻辑的敲打。"
+        },
+        {
+          "type": "System",
+          "title": "智者顾问室 (The Advisor Board)",
+          "content": "模拟一个包含查理·芒格（模型）、纳西姆·塔勒布（风险）、唐内拉·梅多斯（结构）的闭环讨论机制。"
+        },
+        {
+          "type": "Workflow",
+          "title": "智者交叉质询",
+          "content": "1. 陈述问题。 2. 依次调用不同智者的思维模型。 3. 寻找观点冲突点。 4. 在冲突中发现真正的系统杠杆。"
+        },
+        {
+          "type": "Tactic",
+          "title": "反脆弱审计",
+          "content": "模仿塔勒布的思考：这个决策在最坏的情况下，我的损失是否有上限？而好的情况下，收益是否无上限？"
+        }
+      ],
+      "heuristics": "反向思维：总是反过来想，总是反过来想。",
+      "anti_patterns": "单向思维：只听从一个权威或只信奉一种模型，在复杂系统面前这等同于盲人摸象。"
+    }
+  },
+  {
+    "id": "systemsthinking-v4",
+    "name": "systemsthinking",
+    "author": "danielmiessler",
+    "category": "认知增强",
+    "repo_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "将视角从“找人负责”转向“找环纠偏”，彻底降低生活与工作中的情绪内耗。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "行为源于结构 (Structure Generates Behavior)",
+          "content": "系统思考的核心信念：可见的事件只是冰山一角。如果你在同一个坑里掉了两次，那不是运气不好，而是你所处的“反馈环”有问题。不要指责人，要调整结构。"
+        },
+        {
+          "type": "System",
+          "title": "冰山模型与反馈环格栅",
+          "content": "将复杂世界拆解为四层：事件、趋势、结构、心智模式。识别系统中的增强环(R)与调节环(B)，看清是什么在推动增长，是什么在阻碍改变。"
+        },
+        {
+          "type": "Workflow",
+          "title": "下潜序列与 archetypes 识别",
+          "content": "1. 识别持续发生的事件。 2. 绘制因果回路图。 3. 匹配经典原型（如“舍本逐末”、“饮鸩止渴”）。 4. 寻找干预点。"
+        },
+        {
+          "type": "Tactic",
+          "title": "杠杆点干预法则",
+          "content": "运用 Meadows 的 12 个杠杆点：不要只在数字和参数上使劲，要尝试通过改变系统目标或超越现有范式来实现阶跃式改进。"
+        }
+      ],
+      "heuristics": "如果同一个问题反复出现，不要去寻找坏人，要去寻找坏环。",
+      "anti_patterns": "线性灭火：看到火就喷水，却忽略了水源其实是易燃液体，导致灾难在另一端爆发。"
+    }
+  },
+  {
+    "id": "tarzan-growth-v4",
+    "name": "career-development",
+    "author": "manager-dot-dev",
+    "category": "场景实战",
+    "repo_url": "https://github.com/manager-dot-dev/manager-skills",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "摆脱对“职级”的过度迷信，学会捕捉非线性增长的机会，获得职场中的长期弹性。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "泰山跃迁模型 (The Tarzan Method)",
+          "content": "职业发展是非线性的。就像泰山在丛林中荡秋千，你并不总是向上爬。有时候横向的一荡（换组或换领域），能让你抓到那根通往更高处的长青藤。"
+        },
+        {
+          "type": "System",
+          "title": "影响力圈层架构 (Circles of Influence)",
+          "content": "评估价值的四个同心圆：个人贡献、团队赋能、跨组协作、公司愿景。想要晋升，关键不在于在当前圆圈里做得更深，而在于有意识地向下一个外圈突破。"
+        },
+        {
+          "type": "Workflow",
+          "title": "晋升就绪审计",
+          "content": "1. 识别当前的影响力圆圈。 2. 找到更高一级职位的关键痛点。 3. 在没有被授权的情况下，尝试提前履行部分更高职位的职责。 4. 收集证明你已处于下一层级的证据。"
+        },
+        {
+          "type": "Tactic",
+          "title": "单向门/双向门职业抉择",
+          "content": "面对新机会，问：这是双向门吗？如果去了新部门不适应还能回来吗？如果能，就大胆尝试。横向移动带来的视野增益，往往是未来的核心竞争力。"
+        }
+      ],
+      "heuristics": "晋升不是因为你把当前的工作做得更好了，而是因为你已经开始做更高一级的工作了。",
+      "anti_patterns": "线性路径依赖：固执地认为必须按部就班升职，从而错过了通过跨领域、跨职能带来的爆发式增长机会。"
+    }
+  },
+  {
+    "id": "tech-spec-vFinal",
+    "name": "technical-specification",
+    "author": "Architect",
+    "category": "工程与系统",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "掌握先对齐后起跳的准则。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "无批准不写入：未验证的讨论不是规范。规范是唯一的真理源。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "黄金文档模型：收割、过滤、填充、呈现的闭环。萃取出确定性契约。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 收集合议。 2. 发现逻辑断裂。 3. 逐章确认。 4. 锁定 Spec。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "拒绝盲目填充：任何逻辑必须先获‘y/yes’。不确定的需求宁可留白。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "thinking-bets-v4",
+    "name": "thinking-in-bets",
+    "author": "DavidSchmidt00",
+    "category": "商业直觉与品牌",
+    "repo_url": "https://github.com/DavidSchmidt00/padel-agent",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得极其理性的商业心态。不再被短期的盈亏带偏，学会像职业扑克手一样，专注于建立长期的决策正向期望值。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "概率思维 vs 确定性幻觉",
+          "content": "商业世界是一个信息不完全的博弈场，类似于德州扑克而非象棋。你无法掌控运气，但你可以掌控概率。优秀的决策者接受‘可能出错’的现实，并始终在‘盈亏比’最优的地方下注。"
+        },
+        {
+          "type": "System",
+          "title": "决策质量审计系统",
+          "content": "强制区分‘决策过程’与‘最终结果’。建立一个决策日志，记录做决策时的信息背景、逻辑依据和预期的概率分布。通过审计‘过程’而非‘结局’来学习，能让你快速剔除运气干扰。"
+        },
+        {
+          "type": "Workflow",
+          "title": "风险控制与撤退协议",
+          "content": "1. 明确定义决策的‘赌注’是什么；2. 设定显性的‘止损准则’（Kill Criteria）；3. 定期根据新信息校准概率模型；4. 到达止损线时，无视沉没成本立即撤退。"
+        },
+        {
+          "type": "Tactic",
+          "title": "事前尸检 (Pre-mortems)",
+          "content": "想象项目已经彻底失败。反向推导所有可能的死因。针对排名第一的‘死因’，现在就制定防御计划。这种‘反向思考’是消除乐观偏见的核武器。"
+        }
+      ],
+      "heuristics": "拒绝‘结果论’。每一个决策都是一次概率下注，专注于提高你的‘下注技术’，而不是盯着一两局的输赢。",
+      "anti_patterns": "结果主义（Resulting）：因为赚了钱就认为决策是对的，因为赔了钱就认为决策是错的。这会让你在下一次由于‘坏运气’而陷入更深的泥潭。"
+    }
+  },
+  {
+    "id": "thinking-expert-v4",
+    "name": "thinking-expert",
+    "author": "felixgeelhaar",
+    "category": "认知增强",
+    "repo_url": "https://github.com/felixgeelhaar/skills",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "建立决策的“心理免疫系统”，在关键时刻识别并跳出本能驱动的认知陷阱。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "概率性生存 (Thinking in Bets)",
+          "content": "世界是概率性的。一个坏的结果不代表一个坏的决策，一个好的结果也不代表一个好的决策。关注过程而非仅仅关注结局。"
+        },
+        {
+          "type": "System",
+          "title": "偏误审计框架 (Bias Auditor)",
+          "content": "将人类常见的认知偏误分为四类：信息偏差（信息不全）、判断偏差（逻辑漏洞）、行动偏差（情绪干扰）和社会偏差（群体压力）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "决策架构协议 (Decision Architecture)",
+          "content": "1. 启动苏格拉底式质询。 2. 进行“事前验尸”(Pre-Mortem)。 3. 应用单向门/双向门测试。 4. 记录决策日志以对抗事后聪明偏差。"
+        },
+        {
+          "type": "Tactic",
+          "title": "单向门/双向门测试",
+          "content": "快速判断决策是否可逆。如果是“双向门”（可逆），应立即行动；如果是“单向门”（不可逆），则必须引入第三方独立审计。"
+        }
+      ],
+      "heuristics": "在下结论之前，先问：‘我最可能在哪一步产生偏误？’",
+      "anti_patterns": "过度确定性：认为自己的直觉是完美的，拒绝承认环境中存在的随机性和自身偏误。"
+    }
+  },
+  {
+    "id": "timebox-ritual-v4",
+    "name": "personal-productivity",
+    "author": "oldwinter",
+    "category": "个人效能系统",
+    "repo_url": "https://github.com/oldwinter/skills",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得极其精准的进度掌控力。将模糊的‘努力’转化为确定的‘时间块’，彻底消除对‘任务做不完’的底层焦虑。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "时间盒的物理约束 (Timeboxing)",
+          "content": "清单是无限的，但时间是有限的。当你把任务从清单移入日历（Timeboxing）时，你才开始了真正的优先级决策。日历强制你面对现实：你一天只有这么多个小时。"
+        },
+        {
+          "type": "System",
+          "title": "承诺库存审计 (Commitment Inventory)",
+          "content": "列出你对外界的所有承诺，并根据‘固定任务’和‘浮动任务’进行分类。绝大多数的超负荷是因为你对自己‘拥有多少自由时间’存在乐观偏误。"
+        },
+        {
+          "type": "Workflow",
+          "title": "每日启动与收尾仪式",
+          "content": "1. 晨间启动：定义当天的 3 个最高产出目标；2. 日间执行：按照时间盒专注工作；3. 晚间收尾：清空收件箱，更新任务状态，并为明天画好‘地图’。"
+        },
+        {
+          "type": "Tactic",
+          "title": "每周对齐仪式 (Weekly Review)",
+          "content": "每周日晚，回顾过去一周的完成度，并与下周的长期项目目标进行对齐。如果没有这个‘重置’动作，你的系统将在两周内因为信息冗余而失效。"
+        }
+      ],
+      "heuristics": "所有的承诺都必须进入清单，所有的动作都必须进入日历。没有进入日历的任务只是一个愿望。",
+      "anti_patterns": "清单依赖症：疯狂增加待办事项，却从不审视日历上是否真的有时间去执行它们。"
+    }
+  },
+  {
+    "id": "tonal-boundaries-vFinal",
+    "name": "writing-brand-voice",
+    "author": "musher-dev",
+    "category": "表达与创作",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "建立文字的‘红线意识’。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "一致性即信任：不一致的语调信号是不成熟的标志。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "三形容词约束模型：每个品牌只能选 3 个且具有张力的形容词。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 定位分析。 2. 锁定 3 核心词。 3. 衍生反向特征。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "灰度测试：剥离所有设计和颜色。如果纯黑白文字依然能传递权威感，说明你的文案‘很贵’。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "toulmin-argument-curiositech",
+    "name": "toulmin-argument-analysis",
+    "author": "curiositech",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/curiositech/windags-skills/tree/main/skills/toulmin-argument-analysis",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "建立无懈可击的思维骨架。学会如何将杂乱的观点转化为严密的 Toulmin 模型，确保每一个主张都有坚实的逻辑支撑。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "寻找隐形假设",
+          "content": "论证的强度取决于‘正当理由’（Warrant）的稳固度。承认边界（限定词）不是软弱，而是科学的严谨。"
+        },
+        {
+          "type": "System",
+          "title": "Toulmin 六要素模型",
+          "content": "主张 (Claim) 是终点；依据 (Data) 是燃料；正当理由 (Warrant) 是桥梁；支持 (Backing) 是底座；限定词 (Qualifier) 是边界；反驳 (Rebuttal) 是防御。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1.确立 Claim -> 2.搜集 Data -> 3.显化 Warrant -> 4.添加 Backing -> 5.设定 Qualifier -> 6.预演 Rebuttal。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "显式化你的逻辑桥梁（不要指望读者自己理解）；在反驳被提出前先自我反驳；使用限定词（通常、可能）来增加论证的客观性。"
+        }
+      ]
+    },
+    "tags": [
+      "逻辑",
+      "论证",
+      "Toulmin",
+      "批判性思维"
+    ]
+  },
+  {
+    "id": "ultralearner-v4",
+    "name": "learning-accelerator",
+    "author": "JoelLewis",
+    "category": "元学习与自进化",
+    "repo_url": "https://github.com/JoelLewis/skill-library",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "获得硬核技能的极限掌握力。学会通过元认知策略（Metacognition）管理自己的学习进度，实现从‘浅尝辄止’到‘深度占领’的跨越。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "直接性原则 (Directness)",
+          "content": "学习最危险的陷阱就是‘为了准备而准备’。直接性原则要求你直接在最终的使用环境中练习。如果你想写书，就直接写草稿，而不是去看《如何写作》的教程。实战中的挫败感是最高效的学习信号。"
+        },
+        {
+          "type": "System",
+          "title": "10% 元学习地图",
+          "content": "在动手学习任何技能前，投入 10% 的时间进行‘地形侦察’：哪些是必须死记硬背的‘事实’？哪些是需要理解的‘概念’？哪些是需要大量重复的‘流程’？分类之后，分而治之。"
+        },
+        {
+          "type": "Workflow",
+          "title": "小圈钻研法 (Drilling Smaller Circles)",
+          "content": "将一个大技能拆解为无数细小的环节。找到你最薄弱的那个‘环节’，进行高强度的、隔离式的重复练习（Drill），直到这个动作变成肌肉记忆，再将其接入整体。"
+        },
+        {
+          "type": "Tactic",
+          "title": "发散模式利用 (Diffuse Mode)",
+          "content": "在极度专注的学习块（50分钟）之后，强迫自己进入‘完全不思考该话题’的发散模式（如：散步、洗澡）。这能让潜意识在后台进行知识的‘拼图’工作，往往是产生顿悟的时刻。"
+        }
+      ],
+      "heuristics": "避开代理练习，直接进入实战。元学习时间必须占总时间的 10%。",
+      "anti_patterns": "学习应用瘾：花费大量时间在背单词 App 或各种学习工具的配置上，却从不进行真实的技能应用。"
+    }
+  },
+  {
+    "id": "ux-architecture-v4",
+    "name": "ux-architecture",
+    "author": "orphose",
+    "category": "认知增强",
+    "repo_url": "https://github.com/orphose/site-cbdl-edf-pei",
+    "wisdom": {
+      "score": 94,
+      "human_gain": "学会清理生活中的“视觉与认知杂讯”。通过优化信息架构，让大脑从琐碎的搜索中解放出来，专注于高价值创造。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "别让我思考 (Don't Make Me Think)",
+          "content": "极简主义在交互层面的体现。任何让用户停下来思考“我该怎么办”的瞬间都是设计的失败。在个人知识管理中，这意味着你的分类必须是直觉的，而非逻辑的。"
+        },
+        {
+          "type": "System",
+          "title": "目标导向型信息架构 (Goal-Oriented IA)",
+          "content": "抛弃基于“来源”或“部门”的分类。建立基于“目标”的导航系统。确保任何内容都能通过 2-3 层深度的扁平结构被快速检索。"
+        },
+        {
+          "type": "Workflow",
+          "title": "认知负荷审计 (Cognitive Load Audit)",
+          "content": "1. 识别环境中的杂讯。 2. 应用 Miller 定律进行信息分块（7±2原则）。 3. 简化路径，将复杂度从人类转移给系统。"
+        },
+        {
+          "type": "Tactic",
+          "title": "400ms 响应法则",
+          "content": "速度就是体验。在数字大脑中，如果检索速度超过 400ms，人类的注意力就会开始涣散。使用全局搜索和扁平目录来维持这种即时感。"
+        }
+      ],
+      "heuristics": "设计信息架构时，不要按照‘来源’分类，要按照‘目标’分类。",
+      "anti_patterns": "松鼠症存储：只管往里面塞东西，却从未设计如何将它们‘找出来’的路径。"
+    }
+  },
+  {
+    "id": "ux-researcher-v4",
+    "name": "ux-researcher",
+    "author": "warm200",
+    "category": "场景实战",
+    "repo_url": "https://github.com/warm200/agent_roster_v0",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "获得真正的“洞察之眼”。学会通过严谨的观察而非直觉的猜测来发现他人的真实需求。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "真相的三角定位 (Triangulation of Truth)",
+          "content": "单一的数据源会骗人。真正的洞察来自于定性访谈、定量数据和行为观察的交叉验证。不要听用户说了什么，要看他们做了什么，以及这两者之间的鸿沟在哪里。"
+        },
+        {
+          "type": "System",
+          "title": "逆向问题界定系统",
+          "content": "研究不是为了证明你的正确，而是为了证伪你的假设。在调研前，必须强制定义‘我到底在寻找什么答案’。将模糊的好奇转化为具体的、可被数据回答的科学命题。"
+        },
+        {
+          "type": "Workflow",
+          "title": "从原始数据到设计决策",
+          "content": "1. 制定研究计划（确定样本量）。 2. 进行无干扰观察。 3. 提取共性主题并量化。 4. 给出具有‘证据支撑’的行动建议。"
+        },
+        {
+          "type": "Tactic",
+          "title": "5-8 位用户饱和原则",
+          "content": "在定性研究中，5-8 位典型用户通常就能覆盖 80% 的核心问题。不要贪多，要深挖每一位用户的‘异常行为’。"
+        }
+      ],
+      "heuristics": "如果行为数据与言语反馈冲突，以行为数据为准。",
+      "anti_patterns": "确认偏误：只记录那些符合你预期的反馈，而忽略那些可能推翻你产品设计的噪音。"
+    }
+  },
+  {
+    "id": "ux-writing-mastery-vFinal",
+    "name": "ux-writing",
+    "author": "viktorbezdek",
+    "category": "表达与创作",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "掌握‘极小空间的尊严’。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "引导即服务：UI 文字不是装饰，是通往成功的路标。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "决策树模型：针对按钮、报错、空状态建立确定的范式。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 映射情绪弧。 2. 场景化语调调节。 3. 术语一致性审计。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "拒绝指责：永远不要在报错中说‘你写错了’。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "visual-thinking-v4",
+    "name": "visual-thinking",
+    "author": "editframe",
+    "category": "审美与表达",
+    "repo_url": "https://github.com/editframe/skills",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "提升沟通的穿透力。能将极其复杂的概念转化为“一眼看清”的视觉类比，让对方在 400ms 内建立认知直觉。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "映射抽象至空间 (Spatial Cognition)",
+          "content": "人类的大脑天生擅长处理空间关系（上下、路径、容器）。视觉思考的本质，是将复杂的、看不见的逻辑，强行映射到这些原始的空间模式上，从而实现‘瞬间理解’。"
+        },
+        {
+          "type": "System",
+          "title": "SQVID 视觉配置引擎",
+          "content": "在五个维度上调节你的表达：S（简单 vs 精细）、Q（质量 vs 数量）、V（愿景 vs 执行）、I（个体 vs 对比）、D（增量 vs 现状）。根据听众的需求，拨动这些旋钮。"
+        },
+        {
+          "type": "Workflow",
+          "title": "视觉类比生成流",
+          "content": "1. 诊断核心关系结构。 2. 匹配预先定义的图像图式（如路径、平衡）。 3. 寻找源领域（如水流）与目标领域（如网络流量）的结构重合点。 4. 剔除多余装饰，只留骨干。"
+        },
+        {
+          "type": "Tactic",
+          "title": "6W 框架匹配",
+          "content": "问‘什么’用文氏图，问‘多少’用图表，问‘哪里’用矩阵，问‘何时’用时间轴。将认知任务与空间结构进行完美匹配。"
+        }
+      ],
+      "heuristics": "增加元素是为了揭示结构，删除元素是为了消除杂讯。",
+      "anti_patterns": "装饰陷阱：为了美观而添加无关的阴影、渐变或配色，反而干扰了底层逻辑的传达。"
+    }
+  },
+  {
+    "id": "writing-clearly-and-concisely-davila7",
+    "name": "writing-clearly-and-concisely",
+    "author": "davila7",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/writing-clearly-and-concisely",
+    "wisdom": {
+      "score": 96,
+      "human_gain": "获得一种“文字的穿透力”。你写下的每一句话都将充满力量，不再被废话淹没，让读者的注意力 100% 聚焦在你的核心观点上。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "删减即力量",
+          "content": "写作是去掉多余词汇的艺术。正如雕刻，删减得越多，真相显露得越清晰。肯定陈述优于否定规避。"
+        },
+        {
+          "type": "System",
+          "title": "极简表达系统",
+          "content": "基于 Strunk 风格法则：使用主动语态、具体的名词、强有力的动词。剔除 AI 常见的膨胀式表达（Puffery）。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 原始产出 -> 2. 暴力脱水（剔除形容词/副词） -> 3. 语态翻转（被动转主动） -> 4. 末尾加压。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "省略多余词汇（Needless words）；将重音词放在句末；用 Definite Language 代替模糊表达；严禁使用 delve, multifaceted 等 AI 常用词。"
+        }
+      ]
+    },
+    "tags": [
+      "极简",
+      "清晰",
+      "Strunk",
+      "反AI膨胀"
+    ]
+  },
+  {
+    "id": "writing-coach-zinsser-vFinal",
+    "name": "writing-coach-zinsser",
+    "author": "45black-Limited",
+    "category": "表达与创作",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "掌握顶级编辑的‘脱水’直觉。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "文字是昂贵的社会资源：冗余是道德上的懒惰。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "三步编辑纪律：结构紧缩、清晰度增强、风格脱水。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 确定受众。 2. 无情初稿。 3. 执行 30% 强制删减。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "不要问‘能不能留’。要问‘删了会出事吗？’。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "writing-danwald",
+    "name": "writing",
+    "author": "danwald",
+    "category": "High-Impact Communication",
+    "repo_url": "https://github.com/danwald/cc/tree/main/skills/writing",
+    "wisdom": {
+      "score": 97,
+      "human_gain": "获得工业级的文笔质感。学会如何产出高信息密度、逻辑严密的专业文档，彻底告别 LLM 常见的空洞汇总和通用式表达。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "写作即工程",
+          "content": "专业写作是工程行为。每一个句子都必须有明确的负载，每一段都必须推动逻辑。拒绝‘无理解的流畅’。"
+        },
+        {
+          "type": "System",
+          "title": "高信息密度系统",
+          "content": "强调‘具体性’（Specificity）和‘节奏变化’。通过避免通用桥接词（如 Overall, In summary）来强制提升内容的硬度。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 核心事实审计 -> 2. 逻辑链条铺设 -> 3. 具象化重写（替换模糊词） -> 4. 韵律校准。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "长短句交替使用；主语必须明确且有动作；严禁使用‘显而易见’或‘至关重要’等修饰语；确保每一段的首句都是该段的核心主张。"
+        }
+      ]
+    },
+    "tags": [
+      "专业写作",
+      "高密度",
+      "质感控制",
+      "反空洞"
+    ]
+  },
+  {
+    "id": "yaml-master-vFinal",
+    "name": "yaml-master",
+    "author": "Jeremy",
+    "category": "工程与系统",
+    "repo_url": "https://github.com/source",
+    "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+    "wisdom": {
+      "score": 95,
+      "human_gain": "培养对秩序的偏执。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "核心哲学",
+          "content": "显式即美德：配置是隐形地雷。宁可冗长，不留灰色地带。"
+        },
+        {
+          "type": "System",
+          "title": "思维模型",
+          "content": "Schema约束模型：灵活性必在轨道内。通过严密规范，赋予自由以边界。"
+        },
+        {
+          "type": "Workflow",
+          "title": "研习路径",
+          "content": "1. 格式校验。 2. 重名逻辑检查。 3. 嵌套深度压缩。 4. 语义重整。"
+        },
+        {
+          "type": "Tactic",
+          "title": "实战指南",
+          "content": "DRY原则极致应用：利用锚点别名杜绝重复。修改一次，全局响应。"
+        }
+      ]
+    },
+    "tags": [
+      "Authentic",
+      "Recovered"
+    ]
+  },
+  {
+    "id": "zeng-guofan-v4",
+    "name": "zeng-guofan",
+    "author": "xiaobei56",
+    "category": "场景实战",
+    "repo_url": "https://github.com/xiaobei56/TopPerson",
+    "wisdom": {
+      "score": 98,
+      "human_gain": "在焦虑与混乱的现代职场中，获得一种“至诚至拙”的定力，通过稳固的底层逻辑赢得长跑。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "笨拙致胜与至诚逻辑",
+          "content": "曾国藩的一生是‘拙’的胜利。与其追求奇谋，不如追求‘结硬寨，打硬仗’。在不确定的环境中，守住自己的‘诚’与‘恒’，就是最强的防御。"
+        },
+        {
+          "type": "System",
+          "title": "识人与利他管理格栅",
+          "content": "办事以人才为本。识人要看廉、勤、慎、实。管人要遵循‘名归下属，利归众人’，通过大方的利益分配建立生死契约。"
+        },
+        {
+          "type": "Workflow",
+          "title": "日省自课管理流",
+          "content": "1. 每日记日记，反思己过。 2. 遇事先行‘静坐’。 3. 与团队‘呼吸相顾’，多谈困难，少画大饼。 4. 持续一书不读完、不看下一书的深度学习。"
+        },
+        {
+          "type": "Tactic",
+          "title": "结硬寨，打硬仗",
+          "content": "在执行层，通过最保守、最扎实的步骤（如湘军每到一个地方先挖深沟）来建立无法被攻破的优势，然后等待对手犯错。"
+        }
+      ],
+      "heuristics": "利可共而不可独，谋可寡而不可众。",
+      "anti_patterns": "投机取巧：试图通过小聪明或奇招来绕过系统性的困难，结果往往是加速崩盘。"
+    }
+  },
+  {
+    "id": "zettelkasten-v4",
+    "name": "zettel-init",
+    "author": "daikichiba9511 / Sönke Ahrens",
+    "category": "元学习与自进化",
+    "repo_url": "https://github.com/daikichiba9511/dotfiles",
+    "wisdom": {
+      "score": 99,
+      "human_gain": "获得构建“会生长”的知识系统的能力。学会如何通过原子化笔记和双向链接，让你的知识库在长期积累中产生化学反应，甚至能帮你实现“自动写作”。",
+      "layers": [
+        {
+          "type": "Philosophy",
+          "title": "原子化：知识的积木化",
+          "content": "每一条笔记必须是‘原子的’（Atomic），即它只包含一个独立的想法，且不依赖于其他笔记也能被读懂。这种原子性使得笔记可以像积木一样，在不同的主题和项目中被反复调用、重新组合，从而爆发无穷的创造力。"
+        },
+        {
+          "type": "System",
+          "title": "元数据与链接标准",
+          "content": "使用严格的 YAML 前置格式：必须包含唯一 ID（时间戳）、核心标签、以及[前驱/后继]链接。这种标准化的‘接口’让你的知识库从文件夹升级为一个语义化的‘神经网络’。"
+        },
+        {
+          "type": "Workflow",
+          "title": "拼贴式写作流程 (Composition)",
+          "content": "1. 确定输出主题；2. 通过标签和链接‘钓’出相关的原子笔记；3. 在白板上排列这些卡片；4. 补充连接词。通过这种方式，写作不再是痛苦的创造，而是快乐的组装。"
+        },
+        {
+          "type": "Tactic",
+          "title": "索引笔记 (Map of Content)",
+          "content": "不要依赖文件夹分类。使用‘索引笔记’作为某个主题的入口，手动列出相关的卡片链接并加上简短描述。这是你大脑在特定领域导航的‘地图’。"
+        }
+      ],
+      "heuristics": "孤立的笔记是认知的死胡同。所有的笔记都必须有链接。记录是为了遗忘，连接是为了发现。",
+      "anti_patterns": "知识囤积：只收藏不拆解，只分类不链接。这种笔记系统只会增加你的焦虑，而不会增加你的智慧。"
+    }
+  }
+]

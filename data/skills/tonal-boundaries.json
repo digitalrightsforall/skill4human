@@ -1,0 +1,38 @@
+{
+  "id": "tonal-boundaries-vFinal",
+  "name": "writing-brand-voice",
+  "author": "musher-dev",
+  "category": "表达与创作",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "建立文字的‘红线意识’。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "一致性即信任：不一致的语调信号是不成熟的标志。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "三形容词约束模型：每个品牌只能选 3 个且具有张力的形容词。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 定位分析。 2. 锁定 3 核心词。 3. 衍生反向特征。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "灰度测试：剥离所有设计和颜色。如果纯黑白文字依然能传递权威感，说明你的文案‘很贵’。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

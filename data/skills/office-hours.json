@@ -1,0 +1,38 @@
+{
+  "id": "office-hours-vFinal",
+  "name": "office-hours",
+  "author": "Garry Tan",
+  "category": "决策与评审",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "获得 YC 级别的产品诊断直觉。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "沸腾湖泊原则：追求 100% 完整性。不仅解决核心，更要消除摩擦。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "六个强迫性问询模型：需求真实性、现状代价、绝望颗粒度、最小切口、意外观察、未来适配。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 对抗性评审。 2. 模拟失败。 3. 寻找真实付费证据。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "不要问‘你觉得如何’。要问具体的付费或时间消耗动作。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

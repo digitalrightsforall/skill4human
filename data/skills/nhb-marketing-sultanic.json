@@ -1,0 +1,34 @@
+{
+  "id": "nhb-marketing-sultanic",
+  "name": "nhb-marketing",
+  "author": "aiprojekt001",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/aiprojekt001/AI-agents/main/.claude/skills/nhb-marketing",
+  "wisdom": {
+    "score": 97,
+    "human_gain": "在注意力经济中占据统治地位。学会利用‘文案支点’和买家心理原型，针对不同成熟度的受众设计精准的成交路径，尤其擅长高客单价转化。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "注意力即货币",
+        "content": "在一个信息过载的世界，温和的营销就是隐身。你必须通过强力（No Holds Barred）的洞察直击受众的欲望内核。"
+      },
+      {
+        "type": "System",
+        "title": "Copy Hinge (文案支点) 系统",
+        "content": "识别受众行为背后的‘单一杠杆’。通过对‘向往/逃避’（Towards/Away）心理的精准操纵，建立独特的买家分类（Virgin vs Sophisticated）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 确定买家成熟度 -> 2. 寻找认知支点 -> 3. 设计 VSL（视频销售信）结构 -> 4. 优化客单价（AOV）路径。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "使用‘完美标题公式’；在高价值产品中使用‘Virgin Lead’策略；利用‘三重堆叠’优化 Offer 结构；监控注意力流失率。"
+      }
+    ]
+  },
+  "tags": ["注意力经济", "高客单价", "VSL", "买家心理"]
+}

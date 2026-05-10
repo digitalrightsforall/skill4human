@@ -1,0 +1,38 @@
+{
+  "id": "1k-architecture-vFinal",
+  "name": "1k-architecture",
+  "author": "OneKey",
+  "category": "工程与系统",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "培养软件结构感。应对不确定性的留白艺术。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "演进胜于规划：架构应像生命体自我调整。保持边界清晰比预测未来重要。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "物理隔离模型：kit-bg(地基) 严禁依赖 kit(楼层)。单向阀门杜绝耦合。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 识别新依赖所属层级。 2. 抽象接口代理。 3. 增量重构非规范代码。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "堡垒原则：模块对外只露最少窗口。若需改内部细节才能调用，说明堡垒失守。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

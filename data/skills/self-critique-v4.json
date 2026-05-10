@@ -1,0 +1,35 @@
+{
+  "id": "self-critique-v4",
+  "name": "reflexion-framework",
+  "author": "nhouseholder",
+  "category": "元学习与自进化",
+  "repo_url": "https://github.com/nhouseholder/nicks-claude-code-superpowers",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得高标准的自我交付能力。学会如何通过引入‘内部审计员’视角，在发布任何作品或交付任何任务前，自行消除 90% 的低级错误和逻辑漏洞。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "双模式自我修正",
+        "content": "人的大脑容易进入‘自动驾驶’模式。自我审计要求我们在‘执行者’（Doer）和‘审查者’（Reviewer）之间频繁切换。对于高风险任务，必须启动深度审计，对每一个环节进行‘恶意猜想’。"
+      },
+      {
+        "type": "System",
+        "title": "信心评分与审计触发",
+        "content": "建立一个简单的 1-5 信心量表。5 分：完全确信；3 分：可能有坑。任何低于 4 分的任务，必须强制进入‘内部审计模式’，对边缘情况（Edge Cases）进行排查。"
+      },
+      {
+        "type": "Workflow",
+        "title": "多维审计检查清单",
+        "content": "1. 意图对齐（我真的解决了核心问题吗？）；2. 极简原则（有没有更简单的路径？）；3. 副作用评估（这会破坏其他部分吗？）；4. 证据链检查（我的每个结论都有数据支持吗？）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "影子审查员 (The Auditor Persona)",
+        "content": "在检查自己的工作时，假装你是你最讨厌的那个挑剔上司，或者是一个竞争对手。这种身份转换能让你瞬间看清那些被自我陶醉所掩盖的漏洞。"
+      }
+    ],
+    "heuristics": "越是看起来简单的事，越需要 1 分钟的‘信心审查’。不要成为自己作品的第一个粉丝，要成为第一个批评者。",
+    "anti_patterns": "交付即解脱：任务做完立即扔出去，不去复核逻辑完整性。这会让你在低级错误上反复交学费。"
+  }
+}

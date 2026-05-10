@@ -1,0 +1,38 @@
+{
+  "id": "okr-gen-vFinal",
+  "name": "okr-generator",
+  "author": "Anthropic",
+  "category": "决策与评审",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "将野心转化为可衡量的结果。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "聚焦与挑战：OKR不是考核，是筛选。目标若舒适，则说明无意义。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "目标-结果反馈链：感性愿景匹配冷酷数据。这种组合是执行力的保障。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 愿景扫描。 2. 识别核心障碍。 3. 锚定关键结果节点。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "KR互斥性：确保KR不重合，能从不同侧面共同验证目标完成度。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

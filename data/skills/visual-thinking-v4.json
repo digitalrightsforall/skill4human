@@ -1,0 +1,35 @@
+{
+  "id": "visual-thinking-v4",
+  "name": "visual-thinking",
+  "author": "editframe",
+  "category": "审美与表达",
+  "repo_url": "https://github.com/editframe/skills",
+  "wisdom": {
+    "score": 97,
+    "human_gain": "提升沟通的穿透力。能将极其复杂的概念转化为“一眼看清”的视觉类比，让对方在 400ms 内建立认知直觉。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "映射抽象至空间 (Spatial Cognition)",
+        "content": "人类的大脑天生擅长处理空间关系（上下、路径、容器）。视觉思考的本质，是将复杂的、看不见的逻辑，强行映射到这些原始的空间模式上，从而实现‘瞬间理解’。"
+      },
+      {
+        "type": "System",
+        "title": "SQVID 视觉配置引擎",
+        "content": "在五个维度上调节你的表达：S（简单 vs 精细）、Q（质量 vs 数量）、V（愿景 vs 执行）、I（个体 vs 对比）、D（增量 vs 现状）。根据听众的需求，拨动这些旋钮。"
+      },
+      {
+        "type": "Workflow",
+        "title": "视觉类比生成流",
+        "content": "1. 诊断核心关系结构。 2. 匹配预先定义的图像图式（如路径、平衡）。 3. 寻找源领域（如水流）与目标领域（如网络流量）的结构重合点。 4. 剔除多余装饰，只留骨干。"
+      },
+      {
+        "type": "Tactic",
+        "title": "6W 框架匹配",
+        "content": "问‘什么’用文氏图，问‘多少’用图表，问‘哪里’用矩阵，问‘何时’用时间轴。将认知任务与空间结构进行完美匹配。"
+      }
+    ],
+    "heuristics": "增加元素是为了揭示结构，删除元素是为了消除杂讯。",
+    "anti_patterns": "装饰陷阱：为了美观而添加无关的阴影、渐变或配色，反而干扰了底层逻辑的传达。"
+  }
+}

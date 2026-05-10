@@ -1,0 +1,35 @@
+{
+  "id": "product-pm-v4",
+  "name": "project-manager",
+  "author": "cappylab",
+  "category": "个人效能系统",
+  "repo_url": "https://github.com/cappylab/heynabi",
+  "wisdom": {
+    "score": 97,
+    "human_gain": "获得极其敏锐的优先级直觉。学会用数学化的方式终结无意义的争论，将有限的资源倾斜到那些真正能产生爆发式价值的任务上。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "意图驱动而非任务驱动",
+        "content": "ToDo List 是低级管理者的幻觉。高级管理者管理的是‘意图’（Intent）。每一个任务背后都必须有一个经过验证的商业或用户价值目标，否则它就是浪费。"
+      },
+      {
+        "type": "System",
+        "title": "RICE 价值评估引擎",
+        "content": "使用公式量化决策：(覆盖面 × 影响力 × 信心) / 投入。这不仅是一个分数，更是一个沟通工具，强制团队对每一个维度的假设进行显性化辩论。"
+      },
+      {
+        "type": "Workflow",
+        "title": "发现-定义-自动化循环",
+        "content": "1. 发现（JTBD 访谈确认用户真实需求）；2. 定义（PRD 与用户故事映射）；3. 执行（任务细化与估算）；4. 自动化（将重复流程转化为自动化规则）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "成功标志定义 (Success Signature)",
+        "content": "在执行前描述‘做完后的世界是什么样’。具体的指标、具体的感官体验、具体的边界。只有定义了成功，执行才不会走样。"
+      }
+    ],
+    "heuristics": "不要管理任务，要管理‘意图’。用 RICE 指数杀掉那些‘看起来很美’但价值极低的杂项。",
+    "anti_patterns": "贪婪陷阱：试图在同一时间做所有重要的事，导致所有事情都陷入长期延迟且质量平庸。"
+  }
+}

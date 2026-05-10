@@ -1,0 +1,35 @@
+{
+  "id": "systemsthinking-v4",
+  "name": "systemsthinking",
+  "author": "danielmiessler",
+  "category": "认知增强",
+  "repo_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "将视角从“找人负责”转向“找环纠偏”，彻底降低生活与工作中的情绪内耗。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "行为源于结构 (Structure Generates Behavior)",
+        "content": "系统思考的核心信念：可见的事件只是冰山一角。如果你在同一个坑里掉了两次，那不是运气不好，而是你所处的“反馈环”有问题。不要指责人，要调整结构。"
+      },
+      {
+        "type": "System",
+        "title": "冰山模型与反馈环格栅",
+        "content": "将复杂世界拆解为四层：事件、趋势、结构、心智模式。识别系统中的增强环(R)与调节环(B)，看清是什么在推动增长，是什么在阻碍改变。"
+      },
+      {
+        "type": "Workflow",
+        "title": "下潜序列与 archetypes 识别",
+        "content": "1. 识别持续发生的事件。 2. 绘制因果回路图。 3. 匹配经典原型（如“舍本逐末”、“饮鸩止渴”）。 4. 寻找干预点。"
+      },
+      {
+        "type": "Tactic",
+        "title": "杠杆点干预法则",
+        "content": "运用 Meadows 的 12 个杠杆点：不要只在数字和参数上使劲，要尝试通过改变系统目标或超越现有范式来实现阶跃式改进。"
+      }
+    ],
+    "heuristics": "如果同一个问题反复出现，不要去寻找坏人，要去寻找坏环。",
+    "anti_patterns": "线性灭火：看到火就喷水，却忽略了水源其实是易燃液体，导致灾难在另一端爆发。"
+  }
+}

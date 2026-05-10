@@ -1,0 +1,38 @@
+{
+  "id": "isms-audit-expert-vFinal",
+  "name": "isms-audit-expert",
+  "author": "Ra-QM",
+  "category": "决策与评审",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "培养风险合规直觉。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "合规即基石：合规不是应付，是保护。地基不稳，一切楼阁皆虚幻。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "证据导向模型：不相信承诺，只相信凭证。将外部压力转为内部治理。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 扫描政策。 2. 验证执行凭证。 3. 标记偏差。 4. 强制修复。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "证据为王：执行前最后一秒，强迫对比凭证。这是审计师的尊严。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

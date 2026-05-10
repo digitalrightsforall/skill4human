@@ -1,0 +1,38 @@
+{
+  "id": "writing-coach-zinsser-vFinal",
+  "name": "writing-coach-zinsser",
+  "author": "45black-Limited",
+  "category": "表达与创作",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "掌握顶级编辑的‘脱水’直觉。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "文字是昂贵的社会资源：冗余是道德上的懒惰。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "三步编辑纪律：结构紧缩、清晰度增强、风格脱水。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 确定受众。 2. 无情初稿。 3. 执行 30% 强制删减。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "不要问‘能不能留’。要问‘删了会出事吗？’。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

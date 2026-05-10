@@ -1,0 +1,34 @@
+{
+  "id": "academic-paper-polish-yzy1996",
+  "name": "academic-paper-polish",
+  "author": "yzy1996",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/yzy1996/English-Writing/tree/main/skills/academic-paper-polish",
+  "wisdom": {
+    "score": 92,
+    "human_gain": "建立你的‘学术语感’。不仅是改错，而是通过高阶词汇和句式矩阵，让你的论文读起来像是由该领域资深专家撰写的。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "润色即呈现",
+        "content": "学术润色不是为了掩饰，而是为了让思想的穿透力不再受限于语言的门槛。清晰是学术表达的最高美德。"
+      },
+      {
+        "type": "System",
+        "title": "学术语域对齐",
+        "content": "建立‘核心学术词汇表’与‘常用论证句型库’。通过对摘要、方法论、结论等不同章节的语境分析，匹配最精准的表达模式。"
+      },
+      {
+        "type": "Workflow",
+        "title": "精修流",
+        "content": "1.段落重心检测 -> 2.学术动词替换 -> 3.论证连贯性增强 -> 4.反 AI 检测抛光。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "使用‘虽然...但是’的多种变体（Nonetheless, Notwithstanding）；在方法论中使用被动语态以增强客观性；在讨论中使用推测性动词（Suggest, Postulate）。"
+      }
+    ]
+  },
+  "tags": ["润色", "学术英语", "词汇矩阵"]
+}

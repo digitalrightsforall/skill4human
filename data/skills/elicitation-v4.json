@@ -1,0 +1,35 @@
+{
+  "id": "elicitation-v4",
+  "name": "gaia-advanced-elicitation",
+  "author": "gaiastudio-ai",
+  "category": "元学习与自进化",
+  "repo_url": "https://github.com/gaiastudio-ai/gaia-public",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得卓越的业务打捞与需求建模能力。在复杂项目和模糊沟通中，能够比别人更早发现隐藏的假设、潜在的风险和真正的核心价值点。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "挖掘冰山下的真实需求",
+        "content": "客户陈述的‘需求’往往只是冰山一角。真正的‘Jobs-to-be-Done’（需要完成的工作）隐藏在他们的情绪、痛点和隐藏假设中。卓越的提问者必须具备穿透言语、看透动机的‘透视眼’。"
+      },
+      {
+        "type": "System",
+        "title": "多维打捞工具箱",
+        "content": "整合了 5 Whys（连问五个为什么直击痛点）、JTBD（雇佣动机分析）、假设映射（高风险假设识别）和 Kano 模型（需求层次划分）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "结构化打捞协议",
+        "content": "1. 背景信息扫描；2. 确定高风险假设；3. 选择打捞方法（如：5 Whys）；4. 执行深层追问；5. 综合生成需求地图；6. 建立假设验证日志。"
+      },
+      {
+        "type": "Tactic",
+        "title": "高风险假设评分 (Assumption Scoring)",
+        "content": "针对每一个需求，问两个问题：‘这个假设对成功有多关键？’以及‘我们对这个假设有多大的把握？’。那些‘最关键但把握最小’的，就是你必须通过提问优先攻击的目标。"
+      }
+    ],
+    "heuristics": "询问‘为了什么’，而非‘是什么’。不要相信对方给出的第一个答案，那通常只是社会化的应答。",
+    "anti_patterns": "列表式访谈：像查户口一样机械地问预设好的问题，而不根据对方的回答进行灵活的下钻探索。"
+  }
+}

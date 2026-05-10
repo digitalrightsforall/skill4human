@@ -1,0 +1,35 @@
+{
+  "id": "copy-master-v4",
+  "name": "copywriting-master",
+  "author": "nickloveinvesting",
+  "category": "商业直觉与品牌",
+  "repo_url": "https://github.com/nickloveinvesting/nick-love-plugins",
+  "wisdom": {
+    "score": 99,
+    "human_gain": "获得构建“高客单价”销售页面的能力。学会通过故事框架和心理预设，让用户在阅读完文案后，认为购买你的产品是理所当然的决定。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "StoryBrand 英雄叙事 (Brand as Guide)",
+        "content": "在商业叙事中，你的品牌永远不是主角（Hero），客户才是。品牌应该扮演‘导师’（Guide）的角色，为英雄提供武器（产品）、计划（方案）并发出行动号召。只有这样，客户才会将你的产品视为他们通往成功的关键补完。"
+      },
+      {
+        "type": "System",
+        "title": "11 元素落地页架构",
+        "content": "一个高转化页面必须包含：1. 利益点驱动的标题；2. 痛点共鸣区；3. 逻辑治愈方案；4. 权威背书（社交证明）；5. 风险对冲（退款保证）；6. 三阶 CTA（轻/中/强号召）；7. FAQ 疑虑消除。"
+      },
+      {
+        "type": "Workflow",
+        "title": "PAS-BAB 转换闭环",
+        "content": "1. 识别核心痛点（Problem）；2. 深度激化该痛点带来的后果（Agitate）；3. 展示没有痛点的美好结局（Before-After）；4. 架设产品这座桥梁（Bridge/Solution）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "风险反转技术 (Risk Reversal)",
+        "content": "在文案结尾，通过极端的保证（如：‘如果你不满意，我不仅全额退款，还送你一份礼物’）将购买压力从用户身上完全转移到你自己身上。这是破除‘最后犹豫’的必杀技。"
+      }
+    ],
+    "heuristics": "15% 痛苦，25% 激化，60% 治愈。永远不要在客户还没感到痛的时候就推销药方。",
+    "anti_patterns": "功能堆砌：列出一长串技术参数，却不告诉用户这些参数能帮他们解决什么具体的人生难题。"
+  }
+}

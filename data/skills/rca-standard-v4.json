@@ -1,0 +1,35 @@
+{
+  "id": "rca-standard-v4",
+  "name": "root-cause-analysis",
+  "author": "Antigravity-Synthesized",
+  "category": "个人效能系统",
+  "repo_url": "internal://standard-protocols",
+  "wisdom": {
+    "score": 96,
+    "human_gain": "获得解决问题的闭环能力。学会穿透表象的‘噪音’，抓住系统中那个唯一的、能产生杠杆效应的‘因’。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "不解决症状 (Root vs Symptom)",
+        "content": "症状是问题的求救信号，解决症状只会让问题在未来以更剧烈的方式爆发。真正的解构是冷酷地穿透表象，直到找到那个可以被‘一次性修复’的系统漏洞。"
+      },
+      {
+        "type": "System",
+        "title": "4M1E 鱼骨分析模型",
+        "content": "从五个维度系统审视问题根源：Manpower（人）、Machine（机器/工具）、Material（物料/输入）、Method（流程方法）、Environment（环境/文化）。"
+      },
+      {
+        "type": "Workflow",
+        "title": "连续追问协议 (5 Whys)",
+        "content": "针对故障点连续追问‘为什么’。第一问通常涉及技术，第三问涉及流程，第五问通常涉及组织文化或基本价值观。只有触达流程层面的回答，才算合格的根因。"
+      },
+      {
+        "type": "Tactic",
+        "title": "反向验证法",
+        "content": "当你认为找到了根因，问：‘如果删除了这个原因，问题是否百分之百不会再发生？’如果答案是‘不一定’，说明你还在找症状，而不是根因。"
+      }
+    ],
+    "heuristics": "如果你的解决方案是‘加强培训’，说明你还没找到根因。",
+    "anti_patterns": "替罪羊文化：将系统性错误归咎于某个具体人员的疏忽，而不去修补导致疏忽的流程缺陷。"
+  }
+}

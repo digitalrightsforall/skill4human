@@ -1,0 +1,35 @@
+{
+  "id": "narrative-logic-v4",
+  "name": "academic-writing-editor",
+  "author": "CHENyiru3 / Marshall Rosenberg",
+  "category": "高影响力产出",
+  "repo_url": "https://github.com/CHENyiru3/AI-Skills-Collections",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得构建逻辑闭环的能力。学会如何通过‘叙事张力’吸引读者，让复杂的专业内容变得易读且令人信服，大幅提升你的文字分发效率。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "A-B-T：人类思维的万能钥匙",
+        "content": "人类的大脑是为故事进化的。A-B-T（And-But-Therefore）框架利用了这种本能：先建立共识（And），然后制造冲突（But），最后提供解决方案（Therefore）。没有 But 的写作是无聊的陈述，没有 Therefore 的写作是无用的抱怨。"
+      },
+      {
+        "type": "System",
+        "title": "C-C-C 结构范式",
+        "content": "Context（情境设定）-> Content（核心内容）-> Conclusion（价值结论）。这套范式应在全文、全章、甚至全段中递归应用。确保读者时刻知道自己在哪里、在看什么、为什么看。"
+      },
+      {
+        "type": "Workflow",
+        "title": "逻辑穿透编辑流",
+        "content": "1. 使用 A-B-T 重构摘要；2. 应用 C-C-C 检查段落完整性；3. 实施‘第一句钩子’检查；4. 剔除所有‘学术废话’（Academic Fluff）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "视觉与文字的协同效应",
+        "content": "不要只是说‘见图 1’。要说：‘如图 1 所示，随着 X 的增加，Y 呈现指数级增长，这证明了我们的假说。’文字的任务是‘解读’视觉信号，而非单纯地‘引用’它们。"
+      }
+    ],
+    "heuristics": "每一段只讲一个观点。没有冲突（But），就没有动力。用主动语态让文字充满行动力。",
+    "anti_patterns": "列表依赖：过度使用 Bullet Points 而不进行逻辑连接。列表只是信息的堆砌，无法承载深度的逻辑论证，会让读者的大脑‘滑丝’。"
+  }
+}

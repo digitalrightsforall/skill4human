@@ -1,0 +1,34 @@
+{
+  "id": "data-storytelling-hugin",
+  "name": "data-storytelling",
+  "author": "the-hugin",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/the-hugin/RSIm/tree/main/skills/data-storytelling",
+  "wisdom": {
+    "score": 93,
+    "human_gain": "赋予数据以生命。让你的报告不再是数字的堆砌，而是充满商业洞察的叙事剧本，从而更有效地驱动管理层决策。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "数据即证据",
+        "content": "数据本身不是目的，数据背后代表的‘人类行为’或‘商业趋势’才是核心。用数据来讲故事，而不是用故事来粉饰数据。"
+      },
+      {
+        "type": "System",
+        "title": "SCR 叙事架构",
+        "content": "Setup（背景）：当下的业务状态；Conflict（冲突）：数据揭示的隐忧或瓶颈；Resolution（解决）：基于洞察的行动建议。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1.确定核心结论（One Liner） -> 2.寻找支撑证据链 -> 3.构建冲突叙事 -> 4.视觉化呈现 -> 5.行动呼吁。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "使用‘对比’凸显差异（今年 vs 去年）；用具体的人头数代替抽象百分比；确保图表标题本身就是一句话结论，而不是‘销售趋势图’。"
+      }
+    ]
+  },
+  "tags": ["数据分析", "叙事", "商业洞察"]
+}

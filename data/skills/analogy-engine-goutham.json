@@ -1,0 +1,34 @@
+{
+  "id": "analogy-engine-goutham",
+  "name": "analogy-engine",
+  "author": "goutham-nekkalapu",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/goutham-nekkalapu/skillforge/tree/develop/skills/thinking-tools/analogy-engine",
+  "wisdom": {
+    "score": 96,
+    "human_gain": "获得‘一秒让人听懂’的超能力。学会通过精准、新颖的类比，将晦涩的抽象概念转化为直观的视觉画面，实现降维沟通。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "类比是认知的核心",
+        "content": "理解的本质是将未知映射到已知。一个好的类比不仅是修辞，更是思维的加速器。拒绝平庸类比，追求结构对齐。"
+      },
+      {
+        "type": "System",
+        "title": "结构映射模型",
+        "content": "通过提取源领域（复杂概念）的逻辑拓扑，在目标领域（日常生活）中寻找等效结构。强调‘跨域关联’而非‘表面相似’。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 概念解构 -> 2. 提取逻辑结构（A 作用于 B 产生 C） -> 3. 跨域搜索对等体 -> 4. 测试类比的‘可延展性’。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "使用‘ELI5’（像对五岁孩子说话一样）的最高阶形式；避免‘黑盒’比喻；在解释完类比后，必须指出类比的‘失效点’以确保严谨。"
+      }
+    ]
+  },
+  "tags": ["类比", "简化", "认知心理学", "沟通"]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pm-manager-vFinal",
+  "name": "cross-conversation-project-manager",
+  "author": "OneWave",
+  "category": "决策与评审",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "掌握记忆治理能力。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "记忆即治理：核心痛点是缺连贯性。将碎片化的对话资产化是前提。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "持久态全景图模型：建立始终在线的真理源。决策必须有据可查。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 自动捕捉。 2. 标记关键决策。 3. 发起催促逻辑。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "颗粒度一致性：记录必须用统一模板，确保数周后依然高可用。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "research-synthesis-v4",
+  "name": "research-synthesis",
+  "author": "neilenatarajan",
+  "category": "深度思考与研究",
+  "repo_url": "https://github.com/neilenatarajan/nstack",
+  "wisdom": {
+    "score": 97,
+    "human_gain": "获得处理极大规模信息的能力。通过构建“证据图谱”，你能够跨学科地发现那些非显而易见的深刻关联，实现从“知道”到“看透”的跃迁。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "穷尽搜索与多源验证 (Boil the Lake)",
+        "content": "在信息时代，局部的真实往往是全局的偏见。为了获得真正的洞察，必须跨越单一数据库（如仅使用 Google Scholar），通过多 API（PubMed, arXiv, Semantic Scholar）进行交叉打捞与去重，消除由于渠道闭环导致的盲区。"
+      },
+      {
+        "type": "System",
+        "title": "证据图谱架构 (Evidence Graphing)",
+        "content": "不再将文献视为孤立的 PDF。将其拆解为核心声明（Claims）、支持证据、反驳证据以及直接引文。构建一个互联的知识网，观察不同流派之间的博弈关系。"
+      },
+      {
+        "type": "Workflow",
+        "title": "层次化信息合成流",
+        "content": "1. 定义研究协议 JSON；2. 多源自动化检索与去重；3. 标题与摘要的双轮筛选；4. 主题聚类与跨簇合成（Cluster-then-Synthesize）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "冲突标注法",
+        "content": "当多份研究结论冲突时，使用‘冲突标注器’：分析是因为地域差异、年代差异、还是算法实现细节不同。冲突点往往就是创新的切入点。"
+      }
+    ],
+    "heuristics": "当结论冲突时，不要强行调和，要‘标注’冲突的根源。",
+    "anti_patterns": "共识陷阱：为了得出一个整齐划一的结论，而刻意忽略那些少数派的、具有启发性的负面结果。"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "negotiation-fbi-v4",
+  "name": "negotiation-voss",
+  "author": "wondelai",
+  "category": "场景实战",
+  "repo_url": "https://github.com/wondelai/skills",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "在极端冲突中保持冷静的控制力。学会通过让对方感到“被理解”来引导局势，而不是通过对抗。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "战术性共情 (Tactical Empathy)",
+        "content": "谈判不是战争，而是一种发现的过程。通过口头描述对方的恐惧和需求，你可以瓦解其大脑中的杏仁核防御，从而打开理性的通道。关键不是‘同意’，而是‘理解’。"
+      },
+      {
+        "type": "System",
+        "title": "指控审计与标注系统",
+        "content": "预判对方可能对你产生的每一个负面看法（如‘你只是想坑我的钱’），并主动标注出来。这不仅能展示你的透明度，还能直接消除对方的心理负担。"
+      },
+      {
+        "type": "Workflow",
+        "title": "FBI 沟通四部曲",
+        "content": "1. 镜像 (Mirroring)：重复对方最后的关键词。 2. 标注 (Labeling)：‘看来你对这个条款很焦虑’。 3. 校准式提问：‘我该如何做才能满足你的需求？’。 4. 获得‘你说得对’ (That's Right)。"
+      },
+      {
+        "type": "Tactic",
+        "title": "以“不”为导向的提问",
+        "content": "人们在拒绝时感到拥有控制权。与其问‘你现在有空吗？’（容易被拒），不如问‘你现在说话不方便吗？’。诱导对方说‘不’，往往是谈话真正开始的标志。"
+      }
+    ],
+    "heuristics": "当你感到对方在防卫时，不要讲理，要‘标注’对方的情绪。",
+    "anti_patterns": "试图说服：用逻辑和事实去压过对方的情绪。这只会让对方更加紧缩，导致谈判彻底陷入僵局。"
+  }
+}

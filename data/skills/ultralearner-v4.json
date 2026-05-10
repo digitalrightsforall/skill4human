@@ -1,0 +1,35 @@
+{
+  "id": "ultralearner-v4",
+  "name": "learning-accelerator",
+  "author": "JoelLewis",
+  "category": "元学习与自进化",
+  "repo_url": "https://github.com/JoelLewis/skill-library",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得硬核技能的极限掌握力。学会通过元认知策略（Metacognition）管理自己的学习进度，实现从‘浅尝辄止’到‘深度占领’的跨越。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "直接性原则 (Directness)",
+        "content": "学习最危险的陷阱就是‘为了准备而准备’。直接性原则要求你直接在最终的使用环境中练习。如果你想写书，就直接写草稿，而不是去看《如何写作》的教程。实战中的挫败感是最高效的学习信号。"
+      },
+      {
+        "type": "System",
+        "title": "10% 元学习地图",
+        "content": "在动手学习任何技能前，投入 10% 的时间进行‘地形侦察’：哪些是必须死记硬背的‘事实’？哪些是需要理解的‘概念’？哪些是需要大量重复的‘流程’？分类之后，分而治之。"
+      },
+      {
+        "type": "Workflow",
+        "title": "小圈钻研法 (Drilling Smaller Circles)",
+        "content": "将一个大技能拆解为无数细小的环节。找到你最薄弱的那个‘环节’，进行高强度的、隔离式的重复练习（Drill），直到这个动作变成肌肉记忆，再将其接入整体。"
+      },
+      {
+        "type": "Tactic",
+        "title": "发散模式利用 (Diffuse Mode)",
+        "content": "在极度专注的学习块（50分钟）之后，强迫自己进入‘完全不思考该话题’的发散模式（如：散步、洗澡）。这能让潜意识在后台进行知识的‘拼图’工作，往往是产生顿悟的时刻。"
+      }
+    ],
+    "heuristics": "避开代理练习，直接进入实战。元学习时间必须占总时间的 10%。",
+    "anti_patterns": "学习应用瘾：花费大量时间在背单词 App 或各种学习工具的配置上，却从不进行真实的技能应用。"
+  }
+}

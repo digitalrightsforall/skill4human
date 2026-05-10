@@ -1,0 +1,34 @@
+{
+  "id": "academic-paper-imbad0202",
+  "name": "academic-paper",
+  "author": "Imbad0202",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/Imbad0202/academic-research-skills/tree/main/academic-paper",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "学会像一个“学术评审团”一样写作。你不再是孤军奋战，而是在脑中模拟 12 个专家的协作流，将模糊的想法转化为严谨的、具备穿透力的学术发表物。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "写作即博弈",
+        "content": "学术写作不是打字，而是一场多角色（作者、研究员、审计、评审）的协作博弈。学术诚实不是道德约束，而是逻辑的底座。"
+      },
+      {
+        "type": "System",
+        "title": "12-Agent 协作系统",
+        "content": "通过 Generator-Evaluator 隔离协议，将写作拆解为 12 个原子角色。利用 Claim-Evidence-Logic 强耦合模型确保论证无懈可击。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1.配置对齐 -> 2.文献矩阵 -> 3.论证蓝图 -> 4.分层起草 -> 5.自动化审计 -> 6.五维评审。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "禁止“清嗓子”式开场；严控破折号频率；打破段落长度一致性（反 AI 律动）；强制执行 DOI 校验。"
+      }
+    ]
+  },
+  "tags": ["学术", "逻辑", "写作", "研究"]
+}

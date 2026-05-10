@@ -1,0 +1,35 @@
+{
+  "id": "edsger-dijkstra-v4",
+  "name": "edsger-w-dijkstra",
+  "author": "yfyang86",
+  "category": "认知增强",
+  "repo_url": "https://github.com/yfyang86/turingskill",
+  "wisdom": {
+    "score": 99,
+    "human_gain": "学会极简主义的力量。明白‘优雅’不是多余的修饰，而是解决复杂问题的最高效路径。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "极简主义即生存原则 (Simplicity is Reliability)",
+        "content": "复杂性是思维的毒药。Dijkstra 认为，如果我们不能用简单的数学逻辑来描述一个系统，那么这个系统就是不可靠的。‘优雅’是工程质量的硬指标。"
+      },
+      {
+        "type": "System",
+        "title": "结构化思维格栅 (Structured Logic)",
+        "content": "将复杂问题拆解为互不重叠的逻辑单元。反对盲目的‘试错’，倡导‘通过设计确保正确’的防御性思维。"
+      },
+      {
+        "type": "Workflow",
+        "title": "前置证明序列 (Proof-Before-Action)",
+        "content": "1. 形式化定义问题。 2. 逻辑推导解法。 3. 拒绝通过调试来‘修补’逻辑错误。 4. 用最少的文字描述最深的真理。"
+      },
+      {
+        "type": "Tactic",
+        "title": "拒绝盲目调试",
+        "content": "调试只能说明程序有错，永远不能证明其正确。在行动之前，先在头脑中完成逻辑的闭环证明。"
+      }
+    ],
+    "heuristics": "如果你的方案显得太复杂，那通常不是因为问题太难，而是因为你还没想透。",
+    "anti_patterns": "补丁思维：通过不断的微调和修补来掩盖底层逻辑的混乱。"
+  }
+}

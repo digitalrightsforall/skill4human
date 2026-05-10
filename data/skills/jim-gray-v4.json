@@ -1,0 +1,35 @@
+{
+  "id": "jim-gray-v4",
+  "name": "jim-gray",
+  "author": "yfyang86",
+  "category": "认知增强",
+  "repo_url": "https://github.com/yfyang86/turingskill",
+  "wisdom": {
+    "score": 96,
+    "human_gain": "将数据库的事务处理逻辑引入人生。学会如何在不确定的环境中建立“原子化”的可靠性承诺。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "事务一致性原则 (ACID for Life)",
+        "content": "Jim Gray 的核心遗产。对于关键任务，要么全部完成，要么完全不开始。拒绝任何处于中间态的、模糊的承诺。"
+      },
+      {
+        "type": "System",
+        "title": "高可用决策格栅 (High Availability)",
+        "content": "建立冗余与容错机制。在重要的决策环节，必须考虑“如果这步失败了，我的备份系统是什么？”"
+      },
+      {
+        "type": "Workflow",
+        "title": "ACID 审计序列",
+        "content": "1. 确认原子性（不可分割）。 2. 确认一致性（状态合法）。 3. 确认隔离性（不受干扰）。 4. 确认持久性（不可撤销）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "两阶段提交 (2PC)",
+        "content": "在执行重大决定前，先进行“预准备”检查，确保所有资源到位后，再进行最终的“提交”动作。这能有效防止冲动决策。"
+      }
+    ],
+    "heuristics": "要么全做，要么不做。中间状态是系统崩溃的源头。",
+    "anti_patterns": "脏读：在事情还没确定（未提交）时，就基于错误的信息做出下一步决策。"
+  }
+}

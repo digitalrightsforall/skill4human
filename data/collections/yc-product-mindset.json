@@ -1,0 +1,27 @@
+{
+  "id": "yc-product-mindset",
+  "title": "YC 级产品感：诊断与快速增长",
+  "description": "获得 Garry Tan 的诊断眼光。本集锦聚焦于初创产品的‘刺头问题’，教你如何利用 Office Hours 机制、目标优先级管理与极限复盘，寻找那条实现 10x 增长的秘密路径。",
+  "skills": [
+    "office-hours-vFinal",
+    "okr-generator-vFinal",
+    "1k-retrospective-vFinal"
+  ],
+  "playbook": [
+    {
+      "step": "1. 运行 YC 级 Office Hours 压力测试",
+      "action": "模拟 Garry Tan 进行无情追问。识别产品中的‘自嗨功能’。强制回答：为什么这会成为一家十亿美金规模的公司？",
+      "heuristic": "‘做 10 个人深爱的东西，好过做 1000 个人觉得不错的东西’。寻找极致的 PMF 信号。"
+    },
+    {
+      "step": "2. 确立每周‘北极星’增长指标",
+      "action": "应用 okr-generator。每周只关注一个核心增长指标。屏蔽所有干扰项，将全团队的执行力锁死在单一 KR 上。",
+      "heuristic": "‘专注是初创公司的唯一优势’。如果你同时在做三件事，你其实一件都没在做。"
+    },
+    {
+      "step": "3. 实施‘极限诚实’的复盘迭代",
+      "action": "启动 1k-retrospective。不要粉饰数据。分析流失用户的真实留言。快速丢弃无效假设，进行暴力迭代。",
+      "heuristic": "‘数据不会撒谎，只有你会’。正视失败的模式，才能找到成功的缝隙。"
+    }
+  ]
+}

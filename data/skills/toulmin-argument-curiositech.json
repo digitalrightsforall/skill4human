@@ -1,0 +1,34 @@
+{
+  "id": "toulmin-argument-curiositech",
+  "name": "toulmin-argument-analysis",
+  "author": "curiositech",
+  "category": "High-Impact Communication",
+  "repo_url": "https://github.com/curiositech/windags-skills/tree/main/skills/toulmin-argument-analysis",
+  "wisdom": {
+    "score": 97,
+    "human_gain": "建立无懈可击的思维骨架。学会如何将杂乱的观点转化为严密的 Toulmin 模型，确保每一个主张都有坚实的逻辑支撑。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "寻找隐形假设",
+        "content": "论证的强度取决于‘正当理由’（Warrant）的稳固度。承认边界（限定词）不是软弱，而是科学的严谨。"
+      },
+      {
+        "type": "System",
+        "title": "Toulmin 六要素模型",
+        "content": "主张 (Claim) 是终点；依据 (Data) 是燃料；正当理由 (Warrant) 是桥梁；支持 (Backing) 是底座；限定词 (Qualifier) 是边界；反驳 (Rebuttal) 是防御。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1.确立 Claim -> 2.搜集 Data -> 3.显化 Warrant -> 4.添加 Backing -> 5.设定 Qualifier -> 6.预演 Rebuttal。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "显式化你的逻辑桥梁（不要指望读者自己理解）；在反驳被提出前先自我反驳；使用限定词（通常、可能）来增加论证的客观性。"
+      }
+    ]
+  },
+  "tags": ["逻辑", "论证", "Toulmin", "批判性思维"]
+}

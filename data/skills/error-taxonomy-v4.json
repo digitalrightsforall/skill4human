@@ -1,0 +1,35 @@
+{
+  "id": "error-taxonomy-v4",
+  "name": "introspection",
+  "author": "MichielDean",
+  "category": "个人效能系统",
+  "repo_url": "https://github.com/MichielDean/LLMem",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得自我进化的闭环。通过识别自己的“错误基因”，实现从经验到智慧的倍速转化，让同样的错误永远不再发生。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "认知懈怠防御 (Laxity Defense)",
+        "content": "大多数重复性的错误并非能力不足，而是因为‘想走捷径’或‘认知带宽不足’导致的懈怠。通过对懈怠的显性化监控，我们能强制大脑在大考前保持清醒。"
+      },
+      {
+        "type": "System",
+        "title": "错误分类学 (Error Taxonomy)",
+        "content": "将错误进行标签化：`SKIP_VERIFY`（跳过验证）、`ACCEPT_FIRST_HUNCH`（接受第一直觉）、`RUSHED_LOGIC`（逻辑冲刺）。当你看到某个标签频繁出现时，你就找到了通往卓越的突破口。"
+      },
+      {
+        "type": "Workflow",
+        "title": "Sati-Sampajanna 循环",
+        "content": "1. Sati（实时监控）：意识到自己在‘冲刺’或‘走神’；2. Sampajanna（深度内省）：暂停并分析当前逻辑的鲁棒性；3. 记录错误标签；4. 制定针对该标签的‘防御性规则’。"
+      },
+      {
+        "type": "Tactic",
+        "title": "三叠纪干预原则",
+        "content": "如果同一个类型的错误（如‘忽略边界情况’）在两周内出现了三次，立即停止工作，专门建立一套针对该错误的‘必看清单’或自动化检查工具。"
+      }
+    ],
+    "heuristics": "如果一个错误出现了三次，它就是一个系统漏洞。不要只责备自己，要修复系统。",
+    "anti_patterns": "一次性后悔：犯错后只觉得懊恼，却不去分析错误的结构和模式，导致同样的悲剧在未来换个姿势再次上演。"
+  }
+}

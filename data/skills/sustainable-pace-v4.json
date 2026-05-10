@@ -1,0 +1,35 @@
+{
+  "id": "sustainable-pace-v4",
+  "name": "deep-productivity",
+  "author": "hexbee",
+  "category": "个人效能系统",
+  "repo_url": "https://github.com/hexbee/hello-skills",
+  "wisdom": {
+    "score": 98,
+    "human_gain": "获得可持续的爆发力。学会通过“结构化恢复”为大脑充电，确保在追求长期目标的过程中，不仅不枯竭，反而越战越勇。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "三类工作循环逻辑",
+        "content": "卓越的生产力由三部分循环构成：1. Building（建设：高强度的创造）；2. Maintenance（维护：日常运营）；3. Recovery（恢复：深度的断开与充电）。缺少任何一环，系统都会失衡。"
+      },
+      {
+        "type": "System",
+        "title": "愿景-反向愿景推力系统",
+        "content": "不仅要写‘我想成为什么’，更要写‘我绝对不想成为什么’（如：一个虽然有钱但失去健康和家庭的人）。这种‘恐惧推力’能让你在面对过度工作的诱惑时，有力量选择休息。"
+      },
+      {
+        "type": "Workflow",
+        "title": "结构化恢复协议",
+        "content": "1. 每日断开（睡前 1 小时禁止屏幕）；2. 每周空白（预留半天不排任何计划）；3. 每季退隐（离开工作环境进行系统性反思）。"
+      },
+      {
+        "type": "Tactic",
+        "title": "杠杆任务识别",
+        "content": "每天只找一个最重要的‘杠杆任务’（Lever-Moving Task）。一旦完成，即便剩下的时间都在‘恢复’，你的进度也超过了 90% 的忙碌者。"
+      }
+    ],
+    "heuristics": "恢复不是工作的终结，而是深度工作的燃料。每天 1 小时的杠杆任务胜过 10 小时的琐事。",
+    "anti_patterns": "虚假休息：在休息时间刷社交媒体。这实际上是在继续消耗有限的认知带宽，而非真正的恢复。"
+  }
+}

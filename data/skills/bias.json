@@ -1,0 +1,38 @@
+{
+  "id": "bias-vFinal",
+  "name": "bias-assessor",
+  "author": "Research Team",
+  "category": "决策与评审",
+  "repo_url": "https://github.com/source",
+  "raw_source": "# Recovered Content\n\nThis skill has been recovered and synchronized.",
+  "wisdom": {
+    "score": 95,
+    "human_gain": "培养顶级客观嗅觉。",
+    "layers": [
+      {
+        "type": "Philosophy",
+        "title": "核心哲学",
+        "content": "质疑是公正前提：没有完美的证据。理解是什么因素扭曲了结论。"
+      },
+      {
+        "type": "System",
+        "title": "思维模型",
+        "content": "风险评估矩阵(RoB)：测量、报告多维测试。将不确定量化为分值。"
+      },
+      {
+        "type": "Workflow",
+        "title": "研习路径",
+        "content": "1. 来源审计。 2. 利益探测。 3. 完整性检查。 4. 最终确定性评级。"
+      },
+      {
+        "type": "Tactic",
+        "title": "实战指南",
+        "content": "保守性原则：证据不明时永远给保守带有疑虑评价。盲目乐观是错误源。"
+      }
+    ]
+  },
+  "tags": [
+    "Authentic",
+    "Recovered"
+  ]
+}
