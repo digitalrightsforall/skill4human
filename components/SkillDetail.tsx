@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import Logo from './Logo';
-import { ArrowLeft, AlertTriangle } from 'lucide-react';
+import { ArrowLeft, AlertTriangle, User, ExternalLink, Folder } from 'lucide-react';
 
 export default function SkillDetail({ skill }: { skill: any }) {
   const [viewMode, setViewMode] = useState<'study' | 'source'>('study');
@@ -31,8 +31,28 @@ export default function SkillDetail({ skill }: { skill: any }) {
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
           <div style={{ flex: 1 }}>
             <span className="badge" style={{ marginBottom: '24px' }}>Wisdom Unit</span>
-            <h2 style={{ fontSize: '3.5rem', fontWeight: '900', lineHeight: '1.2', letterSpacing: '-0.04em', marginBottom: '32px', maxWidth: '800px' }}>{skill.name}</h2>
+            <h2 style={{ fontSize: '3.5rem', fontWeight: '900', lineHeight: '1.2', letterSpacing: '-0.04em', marginBottom: '16px', maxWidth: '800px' }}>{skill.name}</h2>
             
+            <div style={{ display: 'flex', gap: '24px', marginBottom: '32px', color: 'var(--muted)', fontSize: '0.9rem', fontWeight: '600' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                <User size={16} />
+                <span>{skill.author}</span>
+              </div>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                <Folder size={16} />
+                <span>{skill.category}</span>
+              </div>
+              <a 
+                href={skill.repo_url && !skill.repo_url.includes('github.com/source') ? skill.repo_url : `https://skills.mp/s/${skill.name}`} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ display: 'flex', alignItems: 'center', gap: '8px', color: 'var(--primary)', textDecoration: 'none' }}
+              >
+                <ExternalLink size={16} />
+                <span>原始出处</span>
+              </a>
+            </div>
+
             <div style={{ display: 'flex', gap: '12px' }}>
               <button 
                 onClick={() => setViewMode('study')}
@@ -112,8 +132,23 @@ export default function SkillDetail({ skill }: { skill: any }) {
             )}
           </>
         ) : (
-          <div style={{ background: 'white', padding: '40px', borderRadius: '32px', border: '1px solid var(--border)', overflowX: 'auto' }}>
-            <pre style={{ color: 'var(--muted)', fontSize: '0.9rem', lineHeight: '1.6' }}><code>{JSON.stringify(skill, null, 2)}</code></pre>
+          <div style={{ 
+            background: '#0f172a', 
+            padding: '40px', 
+            borderRadius: '32px', 
+            border: '1px solid #1e293b', 
+            overflowX: 'auto',
+            boxShadow: 'inset 0 2px 10px rgba(0,0,0,0.5)'
+          }}>
+            <pre style={{ 
+              color: '#94a3b8', 
+              fontSize: '0.95rem', 
+              lineHeight: '1.7', 
+              whiteSpace: 'pre-wrap',
+              fontFamily: '"Fira Code", "Source Code Pro", monospace'
+            }}>
+              <code>{skill.raw_source || JSON.stringify(skill, null, 2)}</code>
+            </pre>
           </div>
         )}
       </main>

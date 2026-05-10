@@ -1,4 +1,4 @@
-[
+export const wisdomData = [
   {
     "id": "1k-architecture-vFinal",
     "name": "1k-architecture",
@@ -5056,4 +5056,4 @@
       "anti_patterns": "知识囤积：只收藏不拆解，只分类不链接。这种笔记系统只会增加你的焦虑，而不会增加你的智慧。"
     }
   }
-]
+];
