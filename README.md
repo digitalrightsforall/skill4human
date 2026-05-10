@@ -17,7 +17,6 @@ Skill4Human 是一个实验性的“智慧逆向工程”项目。我们通过�
 ## 📚 详细文档
 - [系统架构与工程设计](./docs/ARCHITECTURE.md)
 - [用户手册与工具链指南](./docs/USER_MANUAL.md)
-- [待办内容与路线图](./docs/ROADMAP.md)
 
 ---
 Produced by **普通人的数字权利**
