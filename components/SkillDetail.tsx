@@ -59,8 +59,8 @@ export default function SkillDetail({ skill }: { skill: any }) {
       const segmentRegex = /(\s*->\s*|\s*→\s*|\s*=>\s*|\b\d+[\.、\s]?\s*)/g;
       const parts = trimmedLine.split(segmentRegex);
       
-      const rows: JSX.Element[] = [];
-      let currentContent: JSX.Element[] = [];
+      const rows: React.ReactNode[] = [];
+      let currentContent: React.ReactNode[] = [];
 
       parts.forEach((part, idx) => {
         if (!part) return;
