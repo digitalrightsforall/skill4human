@@ -11,6 +11,9 @@ export default function CollectionDetailClient({ col, skills }: { col: any, skil
     if (!line) return null;
     
     const trimmedLine = line.trim();
+
+    // Workflow Detection Logic (v4.8 Protocol)
+    const isWorkflowLine = /^\s*\d+/.test(trimmedLine) || trimmedLine.includes('->') || trimmedLine.includes('→') || trimmedLine.includes('=>');
     
     // 1. Handle Blockquotes ("> ")
     const isBlockquote = trimmedLine.startsWith('>');
