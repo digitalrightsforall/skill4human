@@ -25,7 +25,7 @@ export default function CollectionDetailClient({ col, skills }: { col: any, skil
 
     // Internal helper to apply skill links to a string
     const applyLinks = (text: string) => {
-      let parts: (string | JSX.Element)[] = [text];
+      let parts: (string | React.ReactNode)[] = [text];
       skills.forEach(skill => {
         parts = parts.flatMap(part => {
           if (typeof part !== 'string') return part;
@@ -59,8 +59,8 @@ export default function CollectionDetailClient({ col, skills }: { col: any, skil
       const segmentRegex = /(\s*->\s*|\s*→\s*|\s*=>\s*|\b\d+[\.、\s]?\s*)/g;
       const parts = text.split(segmentRegex);
       
-      const rows: JSX.Element[] = [];
-      let currentContent: JSX.Element[] = [];
+      const rows: React.ReactNode[] = [];
+      let currentContent: React.ReactNode[] = [];
 
       parts.forEach((part, idx) => {
         if (!part) return;
