@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skill4Human - 智慧逆向工程案例演示</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;600;900&family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #6366f1;
+            --secondary: #ec4899;
+            --accent: #8b5cf6;
+            --background: #0f172a;
+            --glass: rgba(255, 255, 255, 0.05);
+            --glass-border: rgba(255, 255, 255, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--background);
+            color: white;
+            overflow: hidden;
+        }
+
+        .slides-container {
+            width: 100vw;
+            height: 100vh;
+            scroll-snap-type: y mandatory;
+            overflow-y: scroll;
+            scroll-behavior: smooth;
+        }
+
+        section {
+            width: 100vw;
+            height: 100vh;
+            scroll-snap-align: start;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 80px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Background Effects */
+        .blob {
+            position: absolute;
+            width: 500px;
+            height: 500px;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            filter: blur(120px);
+            opacity: 0.2;
+            z-index: -1;
+            border-radius: 50%;
+            animation: move 20s infinite alternate;
+        }
+
+        @keyframes move {
+            from { transform: translate(-20%, -20%); }
+            to { transform: translate(20%, 20%); }
+        }
+
+        /* Typography */
+        h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 5rem;
+            font-weight: 900;
+            letter-spacing: -0.04em;
+            line-height: 1;
+            margin-bottom: 24px;
+            background: linear-gradient(to bottom right, #fff, #94a3b8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        h2 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 3.5rem;
+            font-weight: 900;
+            margin-bottom: 40px;
+        }
+
+        p {
+            font-size: 1.5rem;
+            color: #94a3b8;
+            max-width: 800px;
+            line-height: 1.6;
+        }
+
+        .highlight {
+            color: var(--secondary);
+            font-weight: 800;
+        }
+
+        /* UI Mockups */
+        .mockup {
+            width: 90%;
+            max-width: 1200px;
+            height: 60vh;
+            background: var(--glass);
+            border: 1px solid var(--glass-border);
+            border-radius: 32px;
+            margin-top: 60px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            display: flex;
+            overflow: hidden;
+        }
+
+        .sidebar-mockup {
+            width: 260px;
+            border-right: 1px solid var(--glass-border);
+            padding: 32px;
+        }
+
+        .content-mockup {
+            flex: 1;
+            padding: 60px;
+            overflow-y: auto;
+        }
+
+        /* Buttons & Badges */
+        .badge {
+            padding: 8px 16px;
+            background: rgba(99, 102, 241, 0.2);
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            border-radius: 100px;
+            font-size: 0.9rem;
+            font-weight: 800;
+            color: #818cf8;
+            margin-bottom: 24px;
+            display: inline-block;
+        }
+
+        .nav-hint {
+            position: fixed;
+            bottom: 40px;
+            right: 40px;
+            display: flex;
+            gap: 20px;
+            opacity: 0.5;
+            font-size: 0.9rem;
+            font-weight: 700;
+        }
+
+        /* Specific Slides */
+        #slide-1 { text-align: center; }
+        
+        .tower-layer {
+            background: white;
+            color: #1e293b;
+            padding: 24px;
+            border-radius: 16px;
+            margin-bottom: 16px;
+            display: flex;
+            gap: 20px;
+            align-items: center;
+        }
+
+        .tower-layer.phi { border-left: 8px solid #6366f1; }
+        .tower-layer.sys { border-left: 8px solid #ec4899; }
+        .tower-layer.tac { border-left: 8px solid #8b5cf6; }
+
+        .source-code {
+            font-family: monospace;
+            background: #000;
+            padding: 24px;
+            border-radius: 12px;
+            color: #10b981;
+            font-size: 0.9rem;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="slides-container">
+        <!-- Slide 1: Hero -->
+        <section id="slide-1">
+            <div class="blob"></div>
+            <div class="badge">CASE STUDY 2026</div>
+            <h1>Skill4Human</h1>
+            <p>基于 AI 指令集的<span class="highlight">智慧逆向工程</span>原型平台</p>
+            <div style="margin-top: 40px; font-weight: 900; letter-spacing: 0.2em; opacity: 0.5;">SCROLL TO DISCOVER</div>
+        </section>
+
+        <!-- Slide 2: Vision -->
+        <section>
+            <div class="blob" style="background: var(--accent); top: -20%; right: -10%;"></div>
+            <div class="badge">CORE PHILOSOPHY</div>
+            <h2>人机双向进化</h2>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 60px; width: 100%; max-width: 1200px;">
+                <div>
+                    <h3 style="font-size: 2rem; margin-bottom: 20px;">逆向工程知识</h3>
+                    <p>AI 不应只是执行工具。每一个优秀的 Skill 背后都是创作者对复杂系统解构后的“智慧凝结”。</p>
+                </div>
+                <div>
+                    <h3 style="font-size: 2rem; margin-bottom: 20px;">人类认知增强</h3>
+                    <p>我们将 Skill 中的隐性知识显性化，让 AI 的逻辑回流进人类的直觉，实现真正的认知跃迁。</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide 3: Home Page -->
+        <section>
+            <div class="badge">PRODUCT OVERVIEW</div>
+            <h2>智慧图书馆 (Wisdom Library)</h2>
+            <p>海量 Skill 的结构化分发，基于工程感与未来感的 UI 布局。</p>
+            <div class="mockup">
+                <div class="sidebar-mockup">
+                    <div style="width: 40px; height: 40px; background: var(--primary); border-radius: 8px; margin-bottom: 40px;"></div>
+                    <div style="height: 12px; width: 80%; background: rgba(255,255,255,0.1); border-radius: 4px; margin-bottom: 12px;"></div>
+                    <div style="height: 12px; width: 60%; background: rgba(255,255,255,0.1); border-radius: 4px; margin-bottom: 12px;"></div>
+                    <div style="height: 12px; width: 70%; background: rgba(255,255,255,0.1); border-radius: 4px; margin-bottom: 12px;"></div>
+                </div>
+                <div class="content-mockup">
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px;">
+                        <div style="height: 200px; background: rgba(255,255,255,0.03); border: 1px solid var(--glass-border); border-radius: 20px; padding: 24px;">
+                            <div class="badge" style="font-size: 0.6rem;">EXPRESSION</div>
+                            <div style="height: 20px; width: 80%; background: white; opacity: 0.2; border-radius: 4px;"></div>
+                        </div>
+                        <div style="height: 200px; background: rgba(255,255,255,0.03); border: 1px solid var(--glass-border); border-radius: 20px; padding: 24px;">
+                            <div class="badge" style="font-size: 0.6rem;">SYSTEMS</div>
+                            <div style="height: 20px; width: 80%; background: white; opacity: 0.2; border-radius: 4px;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide 4: Detail Page -->
+        <section>
+            <div class="blob" style="background: var(--secondary); bottom: -10%; left: -10%;"></div>
+            <div class="badge">CORE FEATURE</div>
+            <h2>智慧塔 (The Wisdom Tower)</h2>
+            <p>将复杂的指令解构为四个维度：<span class="highlight">哲学、系统、流程、战术</span>。</p>
+            <div class="mockup">
+                <div class="content-mockup">
+                    <div class="tower-layer phi">
+                        <span style="font-size: 1.5rem;">🏛️</span>
+                        <div>
+                            <strong style="display: block; font-size: 1.1rem;">哲学层 (Philosophy)</strong>
+                            <span style="font-size: 0.9rem; opacity: 0.7;">核心世界观与底层逻辑</span>
+                        </div>
+                    </div>
+                    <div class="tower-layer sys">
+                        <span style="font-size: 1.5rem;">🧩</span>
+                        <div>
+                            <strong style="display: block; font-size: 1.1rem;">系统层 (System)</strong>
+                            <span style="font-size: 0.9rem; opacity: 0.7;">思维模型与关系网</span>
+                        </div>
+                    </div>
+                    <div class="tower-layer tac">
+                        <span style="font-size: 1.5rem;">⚡</span>
+                        <div>
+                            <strong style="display: block; font-size: 1.1rem;">战术层 (Tactics)</strong>
+                            <span style="font-size: 0.9rem; opacity: 0.7;">具体行动指令与工具</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide 5: Source Mode -->
+        <section>
+            <div class="badge">TRANSPARENCY</div>
+            <h2>真实溯源 (Source Mode)</h2>
+            <p>拒绝黑箱。100% 呈现原始 SKILL.md，支持创作者元数据展示。</p>
+            <div class="mockup">
+                <div class="content-mockup" style="background: #000;">
+                    <div class="source-code">
+                        ---<br>
+                        name: frontend-design<br>
+                        author: Anthropic<br>
+                        ---<br><br>
+                        # Frontend Aesthetics Guidelines<br>
+                        Focus on Typography, Motion, and Spatial Composition...
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide 6: Outro -->
+        <section>
+            <div class="blob" style="width: 800px; height: 800px; opacity: 0.1;"></div>
+            <h1>The Bridge to Wisdom</h1>
+            <p>Skill4Human 不仅仅是一个网站，它是人类通往 AI 时代智慧的桥梁。</p>
+            <div style="margin-top: 80px; display: flex; gap: 40px;">
+                <div style="text-align: center;">
+                    <div style="font-size: 2.5rem; font-weight: 900;">100+</div>
+                    <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.1em;">Curated Skills</div>
+                </div>
+                <div style="text-align: center;">
+                    <div style="font-size: 2.5rem; font-weight: 900;">4</div>
+                    <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.1em;">Wisdom Layers</div>
+                </div>
+                <div style="text-align: center;">
+                    <div style="font-size: 2.5rem; font-weight: 900;">100%</div>
+                    <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.1em;">Open Source</div>
+                </div>
+            </div>
+            <div style="position: absolute; bottom: 80px; font-weight: 700; color: var(--secondary);">Produced by 普通人的数字权利</div>
+        </section>
+    </div>
+
+    <div class="nav-hint">
+        USE MOUSE WHEEL OR KEYBOARD TO NAVIGATE
+    </div>
+
+    <script>
+        document.addEventListener('keydown', (e) => {
+            const container = document.querySelector('.slides-container');
+            if (e.key === 'ArrowDown' || e.key === 'ArrowRight') {
+                container.scrollBy(0, window.innerHeight);
+            }
+            if (e.key === 'ArrowUp' || e.key === 'ArrowLeft') {
+                container.scrollBy(0, -window.innerHeight);
+            }
+        });
+    </script>
+</body>
+</html>

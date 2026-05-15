@@ -128,16 +128,17 @@ export default function Home() {
             <div className="wisdom-grid">
               {eliteCollections.map((col: any) => (
                 <Link key={col.id} href={`/collections/${col.id}`} className="card-link">
-                  <div className="wisdom-card elite-style">
+                  <div className="wisdom-card">
                     <div className="card-accent" />
                     <div className="card-content">
                       <div className="card-meta">
-                        <span className="elite-tag">ELITE PROTOCOL</span>
+                        <span className="category-tag">{col.category || '顶级框架'}</span>
+                        <span className="badge-light">{col.skills?.length || 0} 项技能</span>
                       </div>
                       <h3 className="card-title">{col.title}</h3>
                       <p className="card-text">{col.description.slice(0, 100)}...</p>
                       <div className="card-footer">
-                        <span className="action-text">解构协议</span>
+                        <span className="action-text">进入研习</span>
                         <ArrowRight size={16} className="arrow-icon" />
                       </div>
                     </div>

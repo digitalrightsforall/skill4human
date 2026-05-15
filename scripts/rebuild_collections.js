@@ -14,10 +14,10 @@ const collections = [
         title: "表达与创作：重塑语言灵魂",
         description: "从 Zinsser 的极简主义到宝玉的叙事穿透力，掌握让文字“呼吸”的艺术。",
         skills: [
-            "baoyu-translate-vFinal",
-            "baoyu-format-vFinal",
-            "baoyu-comic-vFinal",
-            "storytelling-vFinal"
+            "baoyu-translate",
+            "baoyu-format",
+            "baoyu-comic",
+            "storytelling"
         ]
     },
     {
@@ -25,11 +25,11 @@ const collections = [
         title: "工程质量：不仅仅是跑通",
         description: "OneKey 的工程实践与架构思维，建立对认知摩擦的零容忍。",
         skills: [
-            "1k-architecture-vFinal",
-            "1k-code-quality-vFinal",
-            "1k-error-vFinal",
-            "1k-coding-vFinal",
-            "1k-perf-vFinal"
+            "1k-architecture",
+            "1k-code-quality",
+            "1k-error",
+            "1k-coding",
+            "1k-perf"
         ]
     },
     {
@@ -37,10 +37,10 @@ const collections = [
         title: "决策与评审：YC 的产品直觉",
         description: "获得 Garry Tan 的诊断眼光，用 OKR 与复盘机制驱动组织的确定性增长。",
         skills: [
-            "office-hours-vFinal",
-            "okr-gen-vFinal",
-            "1k-retro-vFinal",
-            "outline-refiner-vFinal"
+            "office-hours",
+            "okr-gen",
+            "1k-retro",
+            "outline-refiner"
         ]
     },
     {
@@ -48,9 +48,9 @@ const collections = [
         title: "领导与组织：资产化的人才观",
         description: "像经营资产一样经营人才库，从执行者到赋能者的思维飞跃。",
         skills: [
-            "recruiting-vFinal",
-            "leadership-vFinal",
-            "partner-vFinal"
+            "recruiting",
+            "leadership",
+            "partner"
         ]
     }
 ];

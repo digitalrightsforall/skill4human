@@ -68,7 +68,7 @@ async function build() {
         }
 
         return {
-            id: meta.id + "-vFinal",
+            id: meta.id + "",
             name: meta.name,
             author: meta.author,
             category: meta.category,
