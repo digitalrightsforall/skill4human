@@ -3,9 +3,9 @@
   "title": "工程卓越：如何建立对认知摩擦的零容忍",
   "description": "不仅仅是跑通。本集锦聚焦于长期系统的稳健性，教你如何通过架构解耦、代码自证与防御式编程，打造具备极致确定性的工业级系统。",
   "skills": [
-    "1k-architecture-vFinal",
-    "1k-code-quality-vFinal",
-    "1k-error-vFinal"
+    "1k-architecture",
+    "1k-code-quality",
+    "1k-error"
   ],
   "playbook": [
     {

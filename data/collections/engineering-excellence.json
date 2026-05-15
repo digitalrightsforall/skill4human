@@ -3,10 +3,10 @@
   "title": "工程卓越：自律与架构的平衡",
   "description": "拒绝混乱。本集锦结合了 OneKey 的工程实践与架构思维，教你如何建立对认知摩擦的零容忍，构建具备‘堡垒级’防御力的稳健系统。",
   "skills": [
-    "1k-architecture-vFinal",
-    "1k-code-quality-vFinal",
-    "tech-spec-vFinal",
-    "1k-error-handling-vFinal"
+    "1k-architecture",
+    "1k-code-quality",
+    "tech-spec",
+    "1k-error-handling"
   ],
   "playbook": [
     {

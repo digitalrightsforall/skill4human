@@ -3,9 +3,9 @@
   "title": "表达与创作：重塑语言灵魂",
   "description": "拒绝工业味。本集锦结合了极简主义写作、语域校准与叙事穿透力，教你如何像大师一样打磨文字，让你的表达具备‘呼吸感’与‘生命力’。",
   "skills": [
-    "baoyu-translate-vFinal",
-    "baoyu-format-vFinal",
-    "storytelling-vFinal"
+    "baoyu-translate",
+    "baoyu-format",
+    "storytelling"
   ],
   "playbook": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "step": "3. 注入‘情感共鸣’叙事钩子",
-      "action": "启动 storytelling-vFinal。在开头设立冲突，在结尾升华愿景。用具体的细节描述代替抽象的价值陈述。",
+      "action": "启动 storytelling。在开头设立冲突，在结尾升华愿景。用具体的细节描述代替抽象的价值陈述。",
       "heuristic": "‘Show, Don't Tell’。不要说你很专业，要展示你解决复杂问题时的每一个呼吸。"
     }
   ]

@@ -1,0 +1,474 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=3840, height=2160" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;700;800&display=swap" rel="stylesheet">
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html, body {
+        margin: 0;
+        width: 3840px;
+        height: 2160px;
+        overflow: hidden;
+        background: #f1f4f7;
+        font-family: 'Plus Jakarta Sans', sans-serif;
+        color: #1a1a2e;
+      }
+      .composition-container {
+        width: 100%;
+        height: 100%;
+        position: relative;
+      }
+      .scene {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        padding: 160px;
+      }
+
+      /* Common Typography */
+      .headline {
+        font-size: 144px;
+        font-weight: 800;
+        line-height: 1.2;
+        text-align: center;
+      }
+      .text-highlight { color: #5e40e0; }
+
+      /* Brand Styling */
+      .logo-container {
+        position: relative;
+        display: inline-block;
+      }
+      .logo-main {
+        font-size: 320px;
+        font-weight: 800;
+        color: #5e40e0;
+        letter-spacing: -12px;
+        position: relative;
+        z-index: 2;
+      }
+      .hand-drawn-underline {
+        position: absolute;
+        bottom: 40px;
+        left: 0;
+        width: 100%;
+        height: 80px;
+        background: #fdd400;
+        z-index: 1;
+        border-radius: 100% 10% 80% 20%;
+        opacity: 0.8;
+      }
+
+      /* Scene 0 */
+      .intro-tag {
+        font-size: 64px;
+        font-weight: 700;
+        color: #5e40e0;
+        opacity: 0.6;
+        margin-bottom: 40px;
+      }
+
+      /* Scene 1 */
+      .icon-grid {
+        display: grid;
+        grid-template-columns: repeat(8, 1fr);
+        gap: 60px;
+        opacity: 0.2;
+      }
+      .skill-icon {
+        width: 240px;
+        height: 240px;
+        background: white;
+        border-radius: 40px;
+        box-shadow: 0 8px 24px rgba(0,0,0,0.05);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 80px;
+      }
+
+      /* Scene 2 */
+      .transmission-wrap {
+        display: flex;
+        align-items: center;
+        gap: 400px;
+        position: relative;
+      }
+      .brain-icon {
+        width: 500px;
+        height: 500px;
+        background: #fff;
+        border-radius: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 40px 100px rgba(94, 64, 224, 0.1);
+        border: 8px solid #5e40e0;
+      }
+      .brain-label { font-size: 56px; font-weight: 800; color: #5e40e0; margin-top: 20px; }
+      .doc-icon {
+        width: 400px;
+        height: 560px;
+        background: white;
+        border: 8px solid #1a1a2e;
+        border-radius: 24px;
+        position: relative;
+        padding: 40px;
+      }
+      .doc-line {
+        height: 20px;
+        background: #eaeef3;
+        margin-bottom: 30px;
+        border-radius: 8px;
+      }
+      .doc-label {
+        position: absolute;
+        bottom: 40px;
+        right: 40px;
+        font-family: monospace;
+        font-weight: 800;
+        font-size: 40px;
+        color: #5e40e0;
+      }
+      .data-particle {
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        background: #fdd400;
+        border-radius: 50%;
+        box-shadow: 0 0 20px #fdd400;
+      }
+      .top-headline { position: absolute; top: 240px; width: 100%; }
+      .bottom-headline { position: absolute; bottom: 240px; width: 100%; }
+
+      /* Scene 3 */
+      .tower-container {
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 24px;
+        width: 1100px;
+        z-index: 2;
+      }
+      .tower-layer {
+        height: 160px;
+        border-radius: 24px;
+        display: flex;
+        align-items: center;
+        padding: 0 64px;
+        font-weight: 800;
+        font-size: 64px;
+        color: white;
+        box-shadow: 0 16px 40px rgba(0,0,0,0.1);
+      }
+      .layer-phi { background: #5e40e0; }
+      .layer-sys { background: #455e93; }
+      .layer-flow { background: #10b981; }
+      .layer-tac { background: #f59e0b; color: #000; }
+      .exoskeleton-line {
+        position: absolute;
+        background: rgba(253, 212, 0, 0.5);
+        height: 6px;
+        z-index: 1;
+      }
+
+      /* Scene 4 */
+      .pipeline-container {
+        display: flex;
+        gap: 60px;
+      }
+      .step-card {
+        background: white;
+        width: 760px;
+        height: 760px;
+        padding: 80px;
+        border-radius: 64px;
+        box-shadow: 0 30px 80px rgba(0,0,0,0.06);
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .step-num {
+        font-size: 128px;
+        font-weight: 800;
+        color: #5e40e0;
+        opacity: 0.15;
+        position: absolute;
+        top: 60px;
+        right: 60px;
+      }
+      .step-name {
+        font-size: 84px;
+        font-weight: 800;
+        margin-bottom: 40px;
+        color: #5e40e0;
+      }
+      .step-desc {
+        font-size: 48px;
+        line-height: 1.5;
+        opacity: 0.8;
+      }
+
+      /* Scene 5 */
+      .creed-text {
+        font-size: 128px;
+        font-weight: 800;
+        margin-bottom: 100px;
+      }
+      .action-btn {
+        background: #1a1a2e;
+        color: white;
+        padding: 48px 120px;
+        border-radius: 40px;
+        font-size: 96px;
+        font-weight: 800;
+        display: inline-block;
+        box-shadow: 0 30px 80px rgba(0,0,0,0.3);
+        border: none;
+        font-family: monospace;
+        letter-spacing: -2px;
+      }
+      .invitation-text {
+        margin-top: 80px;
+        font-size: 84px;
+        font-weight: 800;
+        color: #5e40e0;
+      }
+      .produced-by {
+        position: absolute;
+        bottom: 120px;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        font-size: 72px;
+        font-weight: 800;
+        opacity: 0.8;
+        color: #1a1a2e;
+        letter-spacing: 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="main"
+      data-start="0"
+      data-duration="27"
+      data-width="3840"
+      data-height="2160"
+      class="composition-container"
+    >
+      <!-- Scene 0 -->
+      <div id="s0" class="scene clip" data-start="0" data-duration="2.5" data-track-index="1">
+        <div style="text-align:center;">
+          <p class="intro-tag" id="s0-tag">「普通人的数字权利」出品</p>
+          <div class="logo-container">
+            <h1 class="logo-main" id="s0-logo" style="font-size: 240px;">SKILL4HUMAN</h1>
+            <div id="s0-underline" class="hand-drawn-underline"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Scene 1 -->
+      <div id="s1" class="scene clip" data-start="2.5" data-duration="3.5" data-track-index="1" style="display:none;">
+        <div class="icon-grid" id="icon-grid"></div>
+        <div style="position:absolute; z-index:10;">
+          <h1 id="s1-text" class="headline">我们收集了无数 AI 技能<br/>却依然感到焦虑</h1>
+        </div>
+      </div>
+
+      <!-- Scene 2 -->
+      <div id="s2" class="scene clip" data-start="6" data-duration="4" data-track-index="1" style="display:none;">
+        <div class="top-headline">
+          <h1 id="s2-text-1" class="headline" style="font-size:128px;">AI 正在“蒸馏”人类的经验</h1>
+        </div>
+        
+        <div class="transmission-wrap">
+          <div class="brain-icon" id="brain">
+            <span style="font-size:160px;">🧠</span>
+            <span class="brain-label">Know-How</span>
+          </div>
+          
+          <div id="data-flow" style="position:absolute; left:500px; top:50%; width:400px; height:40px;"></div>
+          
+          <div class="doc-icon" id="skill-doc">
+            <div class="doc-line" style="width:100%;"></div>
+            <div class="doc-line" style="width:80%;"></div>
+            <div class="doc-line" style="width:90%;"></div>
+            <div class="doc-line" style="width:60%;"></div>
+            <span class="doc-label">SKILL.md</span>
+          </div>
+        </div>
+
+        <div class="bottom-headline">
+          <h1 id="s2-text-2" class="headline" style="font-size:144px;">你是在驾驭 AI，还是被 AI 取代？</h1>
+        </div>
+      </div>
+
+      <!-- Scene 3 -->
+      <div id="s3" class="scene clip" data-start="10" data-duration="4.5" data-track-index="1" style="display:none; justify-content: flex-start; padding-left: 400px; gap: 300px;">
+        <div id="exoskeleton" style="position:absolute; top:0; left:0; width:100%; height:100%; pointer-events:none;"></div>
+        <div class="tower-container">
+          <div class="tower-layer layer-tac">TACTIC: 实战战术</div>
+          <div class="tower-layer layer-flow">PROCESS: 执行流程</div>
+          <div class="tower-layer layer-sys">SYSTEM: 系统架构</div>
+          <div class="tower-layer layer-phi">PHILOSOPHY: 核心哲学</div>
+        </div>
+        <div style="width:1500px; text-align:left;">
+          <h1 id="s3-text" class="headline" style="font-size:152px; text-align:left;">将机器炼化的智慧<br/><span class="text-highlight">重新交还给人类</span></h1>
+        </div>
+      </div>
+
+      <!-- Scene 4 -->
+      <div id="s4" class="scene clip" data-start="14.5" data-duration="6" data-track-index="1" style="display:none; flex-direction:column; justify-content: space-evenly;">
+        <div>
+          <h1 id="s4-intro" class="headline" style="font-size:128px; color:#1a1a2e; margin:0;">从 Skill 中学习 Know-How，增强自我</h1>
+        </div>
+        <div class="pipeline-container">
+          <div class="step-card">
+            <span class="step-num">01</span>
+            <h3 class="step-name">Search</h3>
+            <p class="step-desc">打捞具备“高人类增量”的指令种子</p>
+          </div>
+          <div class="step-card">
+            <span class="step-num">02</span>
+            <h3 class="step-name">Curate</h3>
+            <p class="step-desc">基于认知科学原则进行筛选与剔除</p>
+          </div>
+          <div class="step-card">
+            <span class="step-num">03</span>
+            <h3 class="step-name">Analyze</h3>
+            <p class="step-desc">将源码解析为哲学、系统、流程与战术</p>
+          </div>
+          <div class="step-card">
+            <span class="step-num">04</span>
+            <h3 class="step-name">Collection</h3>
+            <p class="step-desc">合成实战剧本，完成向人类的知识迁移</p>
+          </div>
+        </div>
+        <div>
+          <h1 id="s4-text" class="headline" style="font-size:108px; color:#1a1a2e; margin:0; opacity:1;">发现、解构并内化大师级的 Know-How</h1>
+        </div>
+      </div>
+
+      <!-- Scene 5 -->
+      <div id="s5" class="scene clip" data-start="20.5" data-duration="6.5" data-track-index="1" style="display:none;">
+        <div style="text-align:center; width:100%;">
+          <div class="logo-container">
+            <h1 class="logo-main" id="s5-logo">SKILL4HUMAN</h1>
+            <div id="s5-underline" class="hand-drawn-underline"></div>
+          </div>
+          <h2 class="creed-text" id="s5-creed">回归“机器增强人类”的理念</h2>
+          <div class="action-btn">skill4human.putongren.org</div>
+          <h3 class="invitation-text">即刻从 SKILL 中学习</h3>
+          <p class="produced-by" id="s5-footer">「普通人的数字权利」出品</p>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      function mulberry32(a) {
+        return function() {
+          var t = a += 0x6D2B79F5;
+          t = Math.imul(t ^ t >>> 15, t | 1);
+          t ^= t + Math.imul(t ^ t >>> 7, t | 61);
+          return ((t ^ t >>> 14) >>> 0) / 4294967296;
+        }
+      }
+      const random = mulberry32(111);
+
+      const grid = document.getElementById('icon-grid');
+      const emojis = ['⚡', '🤖', '🧠', '⚙️', '🔍', '📘', '🚀', '🛠️'];
+      for(let i=0; i<32; i++) {
+        const icon = document.createElement('div');
+        icon.className = 'skill-icon';
+        icon.innerText = emojis[Math.floor(random() * emojis.length)];
+        grid.appendChild(icon);
+      }
+
+      // --- Scene 0 ---
+      tl.from("#s0-tag", { y: -40, opacity: 0, duration: 0.8 }, 0.2);
+      tl.from("#s0-logo", { scale: 0.9, opacity: 0, duration: 1 }, 0.5);
+      tl.from("#s0-underline", { width: 0, opacity: 0, duration: 0.8 }, 0.9);
+      tl.to("#s0", { opacity: 0, duration: 0.4 }, 2.1);
+
+      // --- Scene 1 ---
+      tl.set("#s1", { display: "flex" }, 2.5);
+      tl.from(".skill-icon", { scale: 0, opacity: 0, duration: 1, stagger: { amount: 1, from: "center" } }, 2.7);
+      tl.from("#s1-text", { y: 60, opacity: 0, duration: 0.8 }, 3.5);
+
+      // --- Scene 2 ---
+      tl.to("#s1", { opacity: 0, duration: 0.4 }, 6.0);
+      tl.set("#s2", { display: "flex" }, 6.0);
+      tl.from("#s2-text-1", { y: -100, opacity: 0, duration: 0.8 }, 6.4);
+      tl.from("#brain", { x: -200, opacity: 0, duration: 1, ease: "power2.out" }, 6.6);
+      tl.from("#skill-doc", { x: 200, opacity: 0, duration: 1, ease: "power2.out" }, 6.8);
+      
+      const flow = document.getElementById('data-flow');
+      for(let i=0; i<8; i++) {
+        const p = document.createElement('div');
+        p.className = 'data-particle';
+        flow.appendChild(p);
+        tl.fromTo(p, 
+          { x: 0, opacity: 1 }, 
+          { x: 400, opacity: 0, duration: 0.8, repeat: 3, delay: i * 0.1 }, 
+          7.0
+        );
+      }
+      tl.from("#s2-text-2", { y: 100, opacity: 0, duration: 0.8 }, 7.5);
+
+      // --- Scene 3 ---
+      tl.to("#s2", { opacity: 0, duration: 0.4 }, 10.0);
+      tl.set("#s3", { display: "flex" }, 10.0);
+      tl.from(".tower-layer", { x: -300, opacity: 0, duration: 0.7, stagger: 0.2 }, 10.4);
+      tl.from("#s3-text", { x: 100, opacity: 0, duration: 0.8 }, 11.3);
+      
+      const exo = document.getElementById('exoskeleton');
+      for(let i=0; i<10; i++) {
+        const line = document.createElement('div');
+        line.className = 'exoskeleton-line';
+        line.style.width = (400 + random() * 800) + 'px';
+        line.style.left = (400 + random() * 2000) + 'px';
+        line.style.top = (200 + random() * 1600) + 'px';
+        exo.appendChild(line);
+        tl.from(line, { width: 0, opacity: 0, duration: 0.6 }, 11.0 + i * 0.1);
+      }
+
+      // --- Scene 4 ---
+      tl.to("#s3", { opacity: 0, duration: 0.4 }, 14.5);
+      tl.set("#s4", { display: "flex" }, 14.5);
+      tl.from("#s4-intro", { y: -60, opacity: 0, duration: 0.8 }, 14.9);
+      tl.from(".step-card", { scale: 0.9, opacity: 0, duration: 0.6, stagger: 0.2 }, 15.4);
+      tl.from("#s4-text", { y: 40, opacity: 0, duration: 0.8 }, 16.5);
+
+      // --- Scene 5 ---
+      tl.to("#s4", { opacity: 0, duration: 0.4 }, 20.5);
+      tl.set("#s5", { display: "flex" }, 20.5);
+      tl.from("#s5-logo", { scale: 1.1, opacity: 0, duration: 1.0, ease: "expo.out" }, 20.9);
+      tl.from("#s5-underline", { width: 0, opacity: 0, duration: 0.8 }, 21.6);
+      tl.from("#s5-creed", { opacity: 0, y: 40, duration: 0.8 }, 22.4);
+      tl.from(".action-btn", { scale: 0.8, opacity: 0, duration: 0.7, ease: "back.out" }, 23.2);
+      tl.from(".invitation-text", { opacity: 0, y: 20, duration: 0.8 }, 24.0);
+      tl.from("#s5-footer", { opacity: 0, y: 20, duration: 0.8 }, 25.0);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>
