@@ -165,8 +165,6 @@ export default function CollectionDetailClient({ col, skills }: { col: any, skil
       );
     }
     
-    // Workflow & Flow Detection Logic (Ultra-Aggressive)
-    const isWorkflowLine = /^\s*\d+/.test(trimmedLine) || trimmedLine.includes('->') || trimmedLine.includes('→') || trimmedLine.includes('=>');
     
     if (isWorkflowLine) {
       return (
