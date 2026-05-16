@@ -1,6 +1,7 @@
 import './globals.css'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
+import { Analytics } from '@vercel/analytics/next'
 
 export const metadata = {
   title: 'Skill4Human - 从 Skill 中学习增强自我',
@@ -24,6 +25,7 @@ export default function RootLayout({
         <Navbar />
         {children}
         <Footer />
+        <Analytics />
       </body>
     </html>
   )
