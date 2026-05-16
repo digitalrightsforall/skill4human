@@ -15,6 +15,7 @@ export default function Navbar() {
     { name: '智慧集锦', path: '/collections' },
     { name: '原子技能', path: '/skills' },
     { name: '关于项目', path: '/about' },
+    { name: '回到社区', path: 'https://putongren.org', external: true },
   ];
 
   return (
@@ -27,13 +28,25 @@ export default function Navbar() {
       {/* Desktop Links */}
       <div className="nav-links desktop-only">
         {navLinks.map((link) => (
-          <Link 
-            key={link.path} 
-            href={link.path} 
-            className={`nav-item ${pathname === link.path ? 'active' : ''}`}
-          >
-            {link.name}
-          </Link>
+          link.external ? (
+            <a 
+              key={link.name} 
+              href={link.path} 
+              className="nav-item"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {link.name}
+            </a>
+          ) : (
+            <Link 
+              key={link.path} 
+              href={link.path} 
+              className={`nav-item ${pathname === link.path ? 'active' : ''}`}
+            >
+              {link.name}
+            </Link>
+          )
         ))}
       </div>
 
@@ -55,14 +68,27 @@ export default function Navbar() {
             </button>
             <div className="mobile-menu-links">
               {navLinks.map((link) => (
-                <Link 
-                  key={link.path} 
-                  href={link.path} 
-                  className={`mobile-nav-item ${pathname === link.path ? 'active' : ''}`}
-                  onClick={() => setIsMenuOpen(false)}
-                >
-                  {link.name}
-                </Link>
+                  link.external ? (
+                    <a 
+                      key={link.name} 
+                      href={link.path} 
+                      className="mobile-nav-item"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      onClick={() => setIsMenuOpen(false)}
+                    >
+                      {link.name}
+                    </a>
+                  ) : (
+                    <Link 
+                      key={link.path} 
+                      href={link.path} 
+                      className={`mobile-nav-item ${pathname === link.path ? 'active' : ''}`}
+                      onClick={() => setIsMenuOpen(false)}
+                    >
+                      {link.name}
+                    </Link>
+                  )
               ))}
             </div>
           </div>
