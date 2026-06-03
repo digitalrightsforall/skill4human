@@ -45,3 +45,9 @@ next-env.d.ts
 /data/raw_skills.json
 /data/skills/  # Optional: Keep if you want to include processed skills, but user said "keep necessary code"
 /archive/data_legacy/
+
+# Custom Ignore Rules
+.superpowers/brainstorm/67774-1777877923
+promo-video
+scratch
+scripts
